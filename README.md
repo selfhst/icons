@@ -6,6 +6,16 @@
 
 While users are free to browse the contents of the repository, the [icon directory located at selfh.st](https://selfh.st/icons) contains functionality (display, filter, sort, and search) better suited for browsing the collection.
 
+## Table of Contents
+
+* [Requests and Contributions](https://github.com/selfhst/icons#selfhst-dashboard-icons)
+* [Icon LInks and Information](https://github.com/selfhst/icons#icon-information)
+* [Light Versions](https://github.com/selfhst/icons#light-versions)
+* [Sizes](https://github.com/selfhst/icons#sizes)
+* [Sources](https://github.com/selfhst/icons#sources)
+* [Acknowledgements](https://github.com/selfhst/icons#acknowledgements)
+* [Disclaimer](https://github.com/selfhst/icons#disclaimer)
+
 ## Requests and Contributions
 
 The collection of icons and logos found in this repository are maintained solely by the *selfh.st* team. Pull requests will not be considered or accepted, although forks are encouraged for those who wish to use these icons as a starting point for their own collections.
@@ -70,7 +80,7 @@ For example:
 
 The [selfh.st/icons](https://selfh.st/icons) directory has a toggle to display light versions when available.
 
-### Size
+### Sizes
 
 All icons are made available in a 1:1 aspect ratio. The majority are converted into a 512x512 square when possible to do so without comprimising quality. Occasionally, icons with SVGs heavily relying on strokes or those without SVG versions may be found in smaller or larger sizes.
 
