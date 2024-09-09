@@ -4,7 +4,7 @@
 
 [selfh.st/icons](https://selfh.st/icons) is a repository of project assets initially built as a data store for the collection of icons displayed in the [selfh.st/apps](https://selfh.st/apps) application directory. It has been made publicly available and expanded to include icons spanning all technology services to be leveraged by anyone looking to populate dashboards, documentation, and other visual mediums.
 
-While users are free to browse the contents of the repository, the [icon directory located at selfh.st](https://selfh.st/icons) contains display, filter, sort, and search functionality better suited for browsing the collection.
+While users are free to browse the contents of the repository, the [icon directory located at selfh.st](https://selfh.st/icons) contains functionality (display, filter, sort, and search) better suited for browsing the collection.
 
 ## Requests and Contributions
 
