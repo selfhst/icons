@@ -8,8 +8,8 @@ While users are free to browse the contents of the repository, the [icon directo
 
 ## Table of Contents
 
-* [Requests and Contributions](https://github.com/selfhst/icons#selfhst-dashboard-icons)
-* [Icon LInks and Information](https://github.com/selfhst/icons#icon-information)
+* [Requests and Contributions](https://github.com/selfhst/icons#requests-and-contributions)
+* [Icon Links and Information](https://github.com/selfhst/icons#icon-information)
 * [Light Versions](https://github.com/selfhst/icons#light-versions)
 * [Sizes](https://github.com/selfhst/icons#sizes)
 * [Sources](https://github.com/selfhst/icons#sources)
