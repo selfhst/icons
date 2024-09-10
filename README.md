@@ -9,7 +9,7 @@ While users are free to browse the contents of the repository, the [icon directo
 ## Table of Contents
 
 * [Requests and Contributions](https://github.com/selfhst/icons#requests-and-contributions)
-* [Icon Links and Information](https://github.com/selfhst/icons#icon-information)
+* [Icon Details](https://github.com/selfhst/icons#icon-details)
     * [Links](https://github.com/selfhst/icons?tab=readme-ov-file#links)
 	    * [Base URL](https://github.com/selfhst/icons?tab=readme-ov-file#base-url)
 		* [Reference](https://github.com/selfhst/icons?tab=readme-ov-file#reference-name)
@@ -26,7 +26,7 @@ The collection of icons and logos found in this repository are maintained solely
 
 New icon requests, updates, and issues with existing icons can be raised via the repository's [Discussions](https://github.com/selfhst/icons/discussions) page. The *selfh.st* team is committed to acknowledging all requests in a timely manner.
 
-## Icon Information
+## Icon Details
 
 ### Links
 
@@ -70,7 +70,7 @@ Icons are available in three possible formats:
 * PNG
 * WebP
 
-When available, SVG is the preferred starting point for icons and later converted into PNG and WebP formats. However, not all projects provide icons in this format. When this occurs, PNG is used as the starting point.
+When available, SVG is the preferred starting point for icons and later converted into PNG and WebP formats. However, not all projects provide SVG icons. When this occurs, PNG is used as the starting point.
 
 ### Light Versions
 
