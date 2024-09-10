@@ -70,7 +70,7 @@ Icons are available in three possible formats:
 * PNG
 * WebP
 
-SVG is the preferred format to be used as a starting point and later converted into PNG and WebP. However, not all projects provide icons in this format. When this occurs, PNG is used as the starting point.
+When available, SVG is the preferred starting point for icons and later converted into PNG and WebP formats. However, not all projects provide icons in this format. When this occurs, PNG is used as the starting point.
 
 ### Light Versions
 
