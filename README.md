@@ -10,8 +10,12 @@ While users are free to browse the contents of the repository, the [icon directo
 
 * [Requests and Contributions](https://github.com/selfhst/icons#requests-and-contributions)
 * [Icon Links and Information](https://github.com/selfhst/icons#icon-information)
-* [Light Versions](https://github.com/selfhst/icons#light-versions)
-* [Sizes](https://github.com/selfhst/icons#sizes)
+    * [Links](https://github.com/selfhst/icons?tab=readme-ov-file#links)
+	    * [Base URL](https://github.com/selfhst/icons?tab=readme-ov-file#base-url)
+		* [Reference](https://github.com/selfhst/icons?tab=readme-ov-file#reference-name)
+		* [Formats](https://github.com/selfhst/icons?tab=readme-ov-file#formats)
+    * [Light Versions](https://github.com/selfhst/icons#light-versions)
+    * [Sizes](https://github.com/selfhst/icons#sizes)
 * [Sources](https://github.com/selfhst/icons#sources)
 * [Acknowledgements](https://github.com/selfhst/icons#acknowledgements)
 * [Disclaimer](https://github.com/selfhst/icons#disclaimer)
@@ -44,10 +48,9 @@ For example, the icon URL for the PNG version of the Immich icon would be:
 
 #### Base URL
 
-Two base URLs are available for linking to the icons in this collection:
+The project leverages jsDelivr, a free and reliable CDN for GitHub repositories, to provide links to each icon. Use the base URL below as the start point for all assets located in the repository. 
 
-* https://cdn.jsdelivr.net/gh/selfhst/icons/ (free CDN for GitHub repositories)
-* https://icons.selfh.st/ (custom subdomain assigned to the repository for easier recall)
+* https://cdn.jsdelivr.net/gh/selfhst/icons/
 
 #### Reference (Name)
 
@@ -59,7 +62,7 @@ See the examples below for further reference.
 * Home Assistant &rarr; home-assistant
 * Zigbee2MQTT &rarr; zigbee2mqtt
 
-#### Format
+#### Formats
 
 Icons are available in three possible formats:
 
@@ -80,11 +83,11 @@ For example:
 
 The [selfh.st/icons](https://selfh.st/icons) directory has a toggle to display light versions when available.
 
-### Sizes
+### Size
 
 All icons are made available in a 1:1 aspect ratio. The majority are converted into a 512x512 square when possible to do so without comprimising quality. Occasionally, icons with SVGs heavily relying on strokes or those without SVG versions may be found in smaller or larger sizes.
 
-### Sources
+## Sources
 
 Most icons are sourced directly from a project's code repository or website. Occasionally, the sites below are leveraged when quality icons cannot be obtained directly from the source.
 
@@ -96,7 +99,7 @@ Most icons are sourced directly from a project's code repository or website. Occ
 
 Some of the concepts implemented in the execution of this collection were inspired by the work done by the team at [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - the initial source for icons at [selfh.st/apps](https://selfh.st/apps). As we quickly outgrew the team's available icons and pace of delivery, we loosely modeled the building of this collection after their own to ensure a seamless transition. 
 
-The FitSelectionToArtboard script found in [creold/illustrator-script](https://github.com/creold/illustrator-scripts) is also utilized to easily resize assets when required.
+The FitSelectionToArtboard script found in [creold/illustrator-scripts](https://github.com/creold/illustrator-scripts) is also utilized to easily resize assets when required.
 
 ## Disclaimer
 
