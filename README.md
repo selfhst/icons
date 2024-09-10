@@ -1,12 +1,5 @@
 [![](https://data.jsdelivr.com/v1/package/gh/selfhst/icons/badge)](https://www.jsdelivr.com/package/gh/selfhst/icons)
 
-<<<<<<< HEAD
-# Self-Hosted Dashboard Icons
-
-[selfh.st/icons](https://selfh.st/icons) is a repository and data store for the similarly named dashboard icon directory. The collection consists of 500+ icons spanning self-hosted software, hosted platforms, and other technology brands.
-
-
-=======
 # selfh.st Dashboard Icons
 
 [selfh.st/icons](https://selfh.st/icons) is a repository of project assets initially built as a data store for the collection of icons displayed in the [selfh.st/apps](https://selfh.st/apps) application directory. It has been made publicly available and expanded to include icons spanning all technology services to be leveraged by anyone looking to populate dashboards, documentation, and other visual mediums.
