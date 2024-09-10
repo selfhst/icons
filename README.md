@@ -101,4 +101,3 @@ The FitSelectionToArtboard script found in [creold/illustrator-script](https://g
 ## Disclaimer
 
 The icons found in this repository are the property of their respective owners/entities and not affiliated with or represented by *selfh.st*. Access to the icons from this repository is offered free of charge and bound by the usage outlined by the project's [license](https://github.com/selfhst/icons/blob/main/LICENSE).
->>>>>>> 8de8cb09b57e00021d433d6a6f5fabbe68d42191
