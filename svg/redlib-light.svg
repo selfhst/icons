@@ -3,13 +3,8 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#1A1A1A;}
-	.st1{fill:#D54455;}
-	.st2{fill:#F9F9F9;}
+	.st0{fill:#FFFFFF;}
 </style>
-<g transform="matrix(1 0 0 -1 0 512)">
-	<circle class="st0" cx="256" cy="256" r="256"/>
-	<path class="st1" d="M144,96v320h224v-70H216V96H144z"/>
-	<path class="st2" d="M240,96v226h70V166h58V96H240z"/>
-</g>
+<path class="st0" d="M256,0C114.6,0,0,114.6,0,256s114.6,256,256,256s256-114.6,256-256S397.4,0,256,0z M368,416H240V190h70v156h58
+	V416z M368,166H216v250h-72V96h224V166z"/>
 </svg>
