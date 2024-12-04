@@ -5,9 +5,7 @@
 <style type="text/css">
 	.st0{fill:#24292E;}
 	.st1{fill:#FFC230;}
-	.st2{font-family:'Roboto-Medium';}
-	.st3{font-size:203.4737px;}
-	.st4{letter-spacing:-3;}
+	.st2{enable-background:new    ;}
 </style>
 <g>
 	<g>
@@ -23,7 +21,12 @@
 	<g>
 		<path class="st1" d="M445.8,512H260.6c-24.5,0-44.4-19.8-44.4-44.4v-99.4c0-24.5,19.8-44.4,44.4-44.4h185.2
 			c24.5,0,44.4,19.8,44.4,44.4v99.4C490.1,492.2,470.2,512,445.8,512z"/>
-		<text transform="matrix(1 0 0 1 229.6718 489.0131)" class="st0 st2 st3 st4">4K</text>
+		<g class="st2">
+			<path class="st0" d="M322.2,437.4h18v19.4h-18V489H298v-32.2h-62.5l-0.7-14.7l62.4-97.8h24.9V437.4z M260.2,437.4H298V377
+				l-1.8,3.2L260.2,437.4z"/>
+			<path class="st0" d="M398.7,426.5l-16.4,17.4V489h-25.1V344.4h25.1v67.9l13.9-17.2l42.3-50.7h30.4l-53.7,64.1L472,489h-29.8
+				L398.7,426.5z"/>
+		</g>
 	</g>
 </g>
 </svg>
