@@ -26,6 +26,17 @@ The collection of icons and logos found in this repository are maintained solely
 
 New icon requests, updates, and issues with existing icons can be raised via the repository's [Discussions](https://github.com/selfhst/icons/discussions) page. The *selfh.st* team is committed to acknowledging all requests in a timely manner.
 
+## Integrations
+
+The following applications have built-in support for the [selfh.st/icons](https://selfh.st/icons) collection:
+
+* [Homepage](https://gethomepage.dev/configs/services/#icons)
+	* Prefix names with 'sh-' to specify loading them from this collection
+* [What's Up Docker?](https://getwud.github.io/wud/#/configuration/watchers/?id=customize-the-name-and-the-icon-to-display)
+	* Prefix names with 'sh-' or 'sh:' to specify loading them from this collection
+* [XPipe](https://xpipe.io/blog/xpipe-12-released)
+	* As of v12, custom icons in the application are populated by the icons in this collection
+
 ## Icon Details
 
 ### Links
