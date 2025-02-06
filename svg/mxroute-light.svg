@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<svg version="1.1" id="MXRouteIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;}
+	.st0{clip-path:url(#Background_00000044175350174893718150000011348868479690371743_);fill:#FFFFFF;}
+	.st1{clip-path:url(#Foreground_00000074400867909972057020000005025774934531834558_);fill:#FFFFFF;}
 </style>
 <g>
-	<path class="st0" d="M46.9,0l167.7,256L46.9,512V0z M465.1,0L297.4,256l167.7,256V0z"/>
+	<defs>
+		<polygon id="Background" points="21.9,425.1 199.7,275.8 377.6,425.1 		"/>
+	</defs>
+	<use xlink:href="#Background"  style="overflow:visible;fill:#FFFFFF;"/>
+	<clipPath id="Background_00000174574656171458254580000002792919713550486171_">
+		<use xlink:href="#Background"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<rect x="21.9" y="275.8" style="clip-path:url(#Background_00000174574656171458254580000002792919713550486171_);fill:#FFFFFF;" width="355.7" height="149.3"/>
+</g>
+<g>
+	<defs>
+		<path id="Foreground" d="M512,108.2v295.3L335.5,255.4L512,107.3C512,107.6,512,107.9,512,108.2z M23,86.9l232.3,194.9L487.6,86.9
+			H23z M0,108.5v294.1l175.2-147L0,108.5z M489.1,425.1L311.2,275.8L133.3,425.1H489.1z"/>
+	</defs>
+	<use xlink:href="#Foreground"  style="overflow:visible;fill:#FFFFFF;"/>
+	<clipPath id="Foreground_00000118390956044598873380000010848477014445929144_">
+		<use xlink:href="#Foreground"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<rect y="86.9" style="clip-path:url(#Foreground_00000118390956044598873380000010848477014445929144_);fill:#FFFFFF;" width="512" height="338.2"/>
 </g>
 </svg>

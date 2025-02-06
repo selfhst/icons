@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<svg version="1.1" id="MXRouteIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
+	.st0{clip-path:url(#Background_00000180366934702346392100000000479357211319847591_);fill:url(#SVGID_1_);}
+	
+		.st1{clip-path:url(#Foreground_00000034777298781517924010000008367468488055792538_);fill:url(#SVGID_00000127766329228624889970000011864209344561438867_);}
 </style>
 <g>
-	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-686.7638" y1="784.0621" x2="-680.9505" y2="792.4712" gradientTransform="matrix(49 0 0 -60 33765 47552)">
-		<stop  offset="5.100000e-03" style="stop-color:#EE2078"/>
-		<stop  offset="1" style="stop-color:#A32C91"/>
+	<defs>
+		<polygon id="Background" points="21.9,425.1 199.7,275.8 377.6,425.1 		"/>
+	</defs>
+	<clipPath id="Background_00000120521600444788750880000009543735510369816216_">
+		<use xlink:href="#Background"  style="overflow:visible;"/>
+	</clipPath>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="34.0003" y1="446.1218" x2="365.4288" y2="254.7714">
+		<stop  offset="0" style="stop-color:#EB2279"/>
+		<stop  offset="0.1107" style="stop-color:#DA257F"/>
+		<stop  offset="0.3038" style="stop-color:#C22987"/>
+		<stop  offset="0.5084" style="stop-color:#B02C8D"/>
+		<stop  offset="0.7301" style="stop-color:#A62D90"/>
+		<stop  offset="1" style="stop-color:#A32E91"/>
 	</linearGradient>
-	<path class="st0" d="M46.9,0l167.7,256L46.9,512V0z M465.1,0L297.4,256l167.7,256V0z"/>
+	
+		<rect x="21.9" y="275.8" style="clip-path:url(#Background_00000120521600444788750880000009543735510369816216_);fill:url(#SVGID_1_);" width="355.7" height="149.3"/>
+</g>
+<g>
+	<defs>
+		<path id="Foreground" d="M512,108.2v295.3L335.5,255.4L512,107.3C512,107.6,512,107.9,512,108.2z M23,86.9l232.3,194.9L487.6,86.9
+			H23z M0,108.5v294.1l175.2-147L0,108.5z M489.1,425.1L311.2,275.8L133.3,425.1H489.1z"/>
+	</defs>
+	<clipPath id="Foreground_00000047778550753532189730000014011059950791478948_">
+		<use xlink:href="#Foreground"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<linearGradient id="SVGID_00000140003418343382873250000014473968150373424304_" gradientUnits="userSpaceOnUse" x1="-9.2194" y1="409.1245" x2="521.2194" y2="102.8755">
+		<stop  offset="0" style="stop-color:#EB2279"/>
+		<stop  offset="0.7823" style="stop-color:#B32B8C"/>
+		<stop  offset="1" style="stop-color:#A32E91"/>
+	</linearGradient>
+	
+		<rect y="86.9" style="clip-path:url(#Foreground_00000047778550753532189730000014011059950791478948_);fill:url(#SVGID_00000140003418343382873250000014473968150373424304_);" width="512" height="338.2"/>
 </g>
 </svg>
