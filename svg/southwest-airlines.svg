@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Southwest_Logo_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CCCCCC;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_00000016796232810752502740000010168753159114456751_);}
+	.st3{fill:url(#SVGID_00000155828016506498687190000015454540973506274226_);}
+</style>
+<g>
+	<path class="st0" d="M365.4,9.8c-43.8,0-81,15.3-109.4,30.6C227.6,25.2,192.5,9.8,146.6,9.8C56.9,9.8,0,66.7,0,167.4
+		c0,120.3,116,238.5,256,334.8c140-94.1,256-212.2,256-334.8C512,66.7,452.9,9.8,365.4,9.8z"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0909" y1="-553.7009" x2="352.2954" y2="-553.7009" gradientTransform="matrix(1 0 0 -1 0 -243)">
+		<stop  offset="0" style="stop-color:#3656CC"/>
+		<stop  offset="0.35" style="stop-color:#304CB2"/>
+		<stop  offset="0.72" style="stop-color:#283B80"/>
+	</linearGradient>
+	<path class="st1" d="M13.1,169.6c0,122.5,131.3,238.5,240.7,315.1c32.8-21.9,65.6-48.1,96.3-74.4
+		C203.5,287.7,63.5,176.1,15.3,136.8C15.3,145.5,13.1,156.4,13.1,169.6z"/>
+	
+		<linearGradient id="SVGID_00000134969674890789943340000003543183617932807849_" gradientUnits="userSpaceOnUse" x1="62.2612" y1="-284.8204" x2="444.3269" y2="-552.3472" gradientTransform="matrix(1 0 0 -1 0 -243)">
+		<stop  offset="0.3" style="stop-color:#E61C23"/>
+		<stop  offset="0.8" style="stop-color:#C3161C"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000134969674890789943340000003543183617932807849_);" d="M487.9,226.5
+		C380.7,138.9,317.3,93,247.2,51.4C227.6,40.5,190.4,23,148.8,23c-39.4,0-74.4,13.1-98.5,37.2c-15.3,15.3-26.3,35-30.6,59.1
+		c54.7,39.4,205.7,146.6,356.6,266.9C426.7,338.1,468.2,283.4,487.9,226.5z"/>
+	
+		<linearGradient id="SVGID_00000011006610378318637000000016484146491712277634_" gradientUnits="userSpaceOnUse" x1="298.4402" y1="-251.205" x2="516.8871" y2="-404.1631" gradientTransform="matrix(1 0 0 -1 0 -243)">
+		<stop  offset="0" style="stop-color:#FDBC11"/>
+		<stop  offset="0.25" style="stop-color:#FCB415"/>
+		<stop  offset="0.8" style="stop-color:#F89E1C"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000011006610378318637000000016484146491712277634_);" d="M459.5,60.2C435.4,36.1,402.6,23,363.2,23
+		c-41.6,0-72.2,13.1-96.3,26.3c41.6,24.1,131.3,74.4,225.4,144.4c2.2-8.8,2.2-19.7,2.2-28.4C496.7,121.4,483.6,84.2,459.5,60.2z"/>
+</g>
+</svg>
