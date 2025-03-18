@@ -7,9 +7,7 @@
 	.st1{fill:#D54455;}
 	.st2{fill:#F9F9F9;}
 </style>
-<g transform="matrix(1 0 0 -1 0 512)">
-	<circle class="st0" cx="256" cy="256" r="256"/>
-	<path class="st1" d="M144,96v320h224v-70H216V96H144z"/>
-	<path class="st2" d="M240,96v226h70V166h58V96H240z"/>
-</g>
+<circle class="st0" cx="256" cy="256" r="256"/>
+<path class="st1" d="M144,416V96h224v70H216v250H144z"/>
+<path class="st2" d="M240,416V190h70v156h58v70H240z"/>
 </svg>

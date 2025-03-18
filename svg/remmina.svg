@@ -1,73 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg4705" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+	 id="svg4705" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
 	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.1;filter:url(#filter11210);enable-background:new    ;}
-	.st1{opacity:0.1;filter:url(#filter11191);enable-background:new    ;}
-	.st2{opacity:0.1;enable-background:new    ;}
-	.st3{fill:url(#path11042_00000000189720497388742210000010682453031089251774_);}
-	.st4{opacity:0.1;fill:#FFFFFF;enable-background:new    ;}
-	.st5{enable-background:new    ;}
-	.st6{fill:#20AA73;}
-	.st7{fill:#4A93DD;}
-	.st8{opacity:0.3;fill:#FFFFFF;enable-background:new    ;}
-	.st9{opacity:0.2;enable-background:new    ;}
+	.st0{fill:url(#path11042_00000037688764471427493300000011080205109776411066_);}
+	.st1{fill:#20AA73;}
+	.st2{fill:#4A93DD;}
 </style>
-<filter  height="1.096" id="filter11210" inkscape:collect="always" style="color-interpolation-filters:sRGB" width="1.096" x="-0.048" y="-0.048">
-	<feGaussianBlur  id="feGaussianBlur11212" inkscape:collect="always" stdDeviation="4.48"></feGaussianBlur>
-</filter>
-<filter  height="1.024" id="filter11191" inkscape:collect="always" style="color-interpolation-filters:sRGB" width="1.024" x="-0.012" y="-0.012">
-	<feGaussianBlur  id="feGaussianBlur11193" inkscape:collect="always" stdDeviation="1.12"></feGaussianBlur>
-</filter>
-<g id="layer1" transform="translate(-130.05163,-144.32544)" inkscape:groupmode="layer" inkscape:label="Layer 1">
-	<g id="path11042-0" class="st0">
-		<circle cx="386.1" cy="407" r="249.3"/>
-	</g>
-	<g id="path11042-6" class="st1">
-		<circle cx="386.1" cy="402.6" r="249.3"/>
-	</g>
-	<circle id="path11042-7" class="st2" cx="386.1" cy="398.1" r="253.8"/>
-	
-		<linearGradient id="path11042_00000088115022079785035420000000974837059920465799_" gradientUnits="userSpaceOnUse" x1="-193.4819" y1="1378.7224" x2="91.4572" y2="713.8644" gradientTransform="matrix(-0.75 0 0 0.75 347.7924 -386.6206)">
-		<stop  offset="0" style="stop-color:#FAF8F6"/>
-		<stop  offset="1" style="stop-color:#F1F0E9"/>
-	</linearGradient>
-	
-		<circle id="path11042" style="fill:url(#path11042_00000088115022079785035420000000974837059920465799_);" cx="386.1" cy="398.1" r="249.3"/>
-	<path id="rect12119" inkscape:connector-curvature="0" class="st4" d="M136.7,419.7C148.5,548.6,256.5,647.3,386,647.4
-		c129.5-0.1,237.6-98.8,249.4-227.7H136.7z"/>
-	<g id="g1019" transform="matrix(0.66107098,0,0,0.66107098,137.13009,150.39924)" class="st5">
-		<g id="g863">
-			<g id="g855">
-				<polygon id="polygon853" class="st6" points="226.7,201.4 226.7,278.6 301.9,328.7 226.7,378.8 226.7,456.1 417.8,328.7 				"/>
-			</g>
-			<g id="g861">
-				<g id="g859">
-					<polygon id="polygon857" class="st7" points="519.3,550.5 519.3,473.2 444.1,423.1 519.3,373 519.3,295.8 328.3,423.1 					"/>
-				</g>
-			</g>
-		</g>
-		<g id="g873">
-			<g id="g867">
-				<path id="path865" inkscape:connector-curvature="0" class="st6" d="M598.3,246.2c22.1,37.9,34.9,82,34.9,129.1
-					c0,141.7-114.9,256.6-256.6,256.6c-83.5,0-157.6-39.9-204.5-101.6l-55.4,37c58.9,79.6,153.5,131.3,259.9,131.3
-					c178.2,0,323.3-145,323.3-323.3c0-60.7-16.8-117.5-46.1-166.1L598.3,246.2z"/>
-			</g>
-			<g id="g871">
-				<path id="path869" inkscape:connector-curvature="0" class="st7" d="M119.9,375.4c0-141.7,114.9-256.6,256.6-256.6
-					c82.7,0,156.2,39.1,203.1,99.9l55.5-37c-59-78.6-153-129.5-258.6-129.5c-178.3,0-323.3,145-323.3,323.3
-					c0,59.9,16.4,116,45,164.2l55.5-37C132.3,465.1,119.9,421.7,119.9,375.4z"/>
-			</g>
-		</g>
-	</g>
-	<path id="path11042-1" inkscape:connector-curvature="0" class="st8" d="M386.1,148.8c-137.7,0-249.3,111.6-249.3,249.3
-		c0,0.9,0.1,1.7,0.1,2.6c1-136.9,112.3-247.4,249.2-247.5c136.7,0,247.8,110.1,249.2,246.7c0-0.6,0.1-1.2,0.1-1.8
-		C635.4,260.4,523.7,148.8,386.1,148.8z"/>
-	<path id="path11042-1-7" inkscape:connector-curvature="0" class="st9" d="M386.1,647.4c-137.7,0-249.3-111.6-249.3-249.3
-		c0-0.9,0.1-1.7,0.1-2.6c1,136.9,112.3,247.4,249.2,247.5c136.7,0,247.8-110.1,249.2-246.7c0,0.6,0.1,1.2,0.1,1.8
-		C635.4,535.8,523.7,647.4,386.1,647.4z"/>
-</g>
+<linearGradient id="path11042_00000165949265900670119880000001686161846993991088_" gradientUnits="userSpaceOnUse" x1="-425.9668" y1="1761.2666" x2="-133.37" y2="1078.5404" gradientTransform="matrix(-0.75 0 0 0.75 46.2408 -808.946)">
+	<stop  offset="0" style="stop-color:#FAF8F6"/>
+	<stop  offset="1" style="stop-color:#F1F0E9"/>
+</linearGradient>
+<circle id="path11042" style="fill:url(#path11042_00000165949265900670119880000001686161846993991088_);" cx="256" cy="256" r="256"/>
+<polygon id="polygon853" class="st1" points="154.2,138.4 154.2,190.8 205.3,224.8 154.2,258.8 154.2,311.3 284,224.8 "/>
+<polygon id="polygon857" class="st2" points="352.9,375.3 352.9,322.9 301.8,288.9 352.9,254.8 352.9,202.4 223.2,288.9 "/>
+<path id="path865" inkscape:connector-curvature="0" class="st1" d="M406.5,168.8c15,25.7,23.7,55.7,23.7,87.6
+	c0,96.2-78,174.2-174.2,174.2c-56.7,0-107-27.1-138.8-69l-37.6,25.1c40,54,104.2,89.1,176.4,89.1c121,0,219.5-98.4,219.5-219.5
+	c0-41.2-11.4-79.8-31.3-112.8L406.5,168.8z"/>
+<path id="path869" inkscape:connector-curvature="0" class="st2" d="M81.7,256.5c0-96.2,78-174.2,174.2-174.2
+	c56.1,0,106,26.5,137.9,67.8l37.7-25.1C391.4,71.6,327.6,37.1,256,37.1c-121,0-219.5,98.4-219.5,219.5c0,40.7,11.1,78.7,30.5,111.5
+	l37.7-25.1C90.1,317.4,81.7,287.9,81.7,256.5z"/>
 </svg>

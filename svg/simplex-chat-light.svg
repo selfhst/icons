@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#07B4B9;}
-	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
 </style>
-<g>
-	<path class="st0" d="M128.9,299.7l84.1,84.1l42.8-42.9l0,0l85.7-85.7l-84.1-84.1l0,0l-42-42l-85.7,85.7l0,0l85.7-85.7l-84-84.1
-		l42.8-42.9l84,84.1l85.7-85.7l42,42l-85.7,85.7l84,84.1l85.7-85.7l42,42l-85.7,85.7l84.1,84.1l-42.8,42.9l-84.1-84.1L297.8,383
-		l84.1,84.1L339,509.9L255,425.8l-85.7,85.7l-42-42l85.7-85.7L128.9,299.7L128.9,299.7z"/>
-	<path class="st1" d="M44.5,129.4l84,84.1l85.7-85.7l42,42l-85.7,85.7l84.1,84.1l-42.8,42.9l-84.1-84.1L42,384.2l-42-42l85.7-85.7
-		l-84-84.1L44.5,129.4z"/>
-</g>
+<polygon class="st0" points="511.9,168.6 469.9,126.6 384.2,212.3 300.2,128.2 385.9,42.5 343.9,0.5 258.2,86.2 174.2,2.1 131.4,45 
+	214.2,127.8 128.5,213.5 44.5,129.4 1.7,172.4 85.7,256.5 0,342.2 42,384.2 127.7,298.4 211.8,382.5 254.6,339.6 170.5,255.5 
+	256.2,169.8 257.4,171.1 341.5,255.2 255.8,340.9 213,383.8 127.3,469.5 169.3,511.5 255,425.8 339,509.9 381.9,467.1 297.8,383 
+	383.4,297.2 467.5,381.3 510.3,338.4 426.2,254.3 "/>
 </svg>
