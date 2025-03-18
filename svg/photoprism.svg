@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
 	 id="f394fb39-4024-46e8-9a68-3f5e53f52bfd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 266 266"
-	 style="enable-background:new 0 0 266 266;" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#circle647_00000020399126372030864050000011529524754843237556_);}
-	.st1{fill:none;stroke:#1D1D1B;stroke-width:6;stroke-miterlimit:10;}
+	.st0{fill:url(#circle647_00000158741216360508105980000014021178972347626645_);}
+	.st1{fill:#1D1D1B;}
 </style>
-<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="1" fit-margin-left="1" fit-margin-right="1" fit-margin-top="1" id="namedview651" inkscape:current-layer="f394fb39-4024-46e8-9a68-3f5e53f52bfd" inkscape:cx="35.981971" inkscape:cy="132.99063" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1384" inkscape:window-maximized="1" inkscape:window-width="2560" inkscape:window-x="0" inkscape:window-y="28" inkscape:zoom="3.1543575" lock-margins="true" pagecolor="#ffffff" showgrid="false">
-	</sodipodi:namedview>
-<g>
-	
-		<linearGradient id="circle647_00000053522760667794164560000012239813591133230211_" gradientUnits="userSpaceOnUse" x1="45.0419" y1="36.2819" x2="231.7181" y2="222.9581" gradientTransform="matrix(1 0 0 -1 -5.38 262.62)">
-		<stop  offset="0" style="stop-color:#FFFFFF"/>
-		<stop  offset="0" style="stop-color:#B8EDFF"/>
-		<stop  offset="1" style="stop-color:#D4B8FF"/>
-	</linearGradient>
-	
-		<circle id="circle647" style="fill:url(#circle647_00000053522760667794164560000012239813591133230211_);" cx="133" cy="133" r="132"/>
-	<path id="bfa29dbe-bd65-4058-95bb-bdb844b1d3b1" class="st1" d="M224.2,176.5l-4,24.2 M41.9,177.5l14.8,14 M152.5,53.8L56.6,191.3
-		c0,0,0,0.1,0,0.1c0,0,0,0,0.1,0l163.4,9.4c0,0,0.1,0,0.1-0.1c0,0,0,0,0-0.1L152.6,53.9C152.6,53.8,152.5,53.8,152.5,53.8z
-		 M132.7,40.6L41.8,177.3c0,0.1,0,0.1,0.1,0.2c0,0,0,0,0.1,0l182.2-0.8c0.1,0,0.1-0.1,0.1-0.1c0,0,0-0.1,0-0.1L132.9,40.6
-		C132.9,40.5,132.8,40.5,132.7,40.6C132.8,40.5,132.8,40.5,132.7,40.6z M132.8,40.4l19.8,13.3"/>
-</g>
+<linearGradient id="circle647_00000016052088230818652140000001703046195701068684_" gradientUnits="userSpaceOnUse" x1="80.3607" y1="966.3994" x2="442.3993" y2="604.3607" gradientTransform="matrix(1 0 0 1 -5.38 -529.38)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0" style="stop-color:#B8EDFF"/>
+	<stop  offset="1" style="stop-color:#D4B8FF"/>
+</linearGradient>
+<circle id="circle647" style="fill:url(#circle647_00000016052088230818652140000001703046195701068684_);" cx="256" cy="256" r="256"/>
+<path class="st1" d="M424.9,393.3l-0.3,0l-316.8-18.2H102v-3.3l-26.8-25.3c-0.5-0.5-1.9-1.9-1.9-4.5v-1.8L250.9,73.1l0.5-0.6l0,0
+	c1.8-1.7,4.3-2.2,6.5-1.3l0.9,0.4l0-0.1l0.3,0.2l2.4,1l0,0.6l35.7,24l-0.1,0.2c1.1,0.7,1.9,1.7,2.3,2.9l45,97.7l94.4,140.3v1.8
+	c0,0.9-0.2,1.8-0.5,2.6l-7.5,45.1C430.5,391,428,393.3,424.9,393.3z M118.4,364L416,381.1l-15.9-34.4l-270.4,1.2L118.4,364z
+	 M412.9,346.7l9.6,20.8l3.5-20.9L412.9,346.7z M93.9,348.1l13,12.3l8.6-12.4L93.9,348.1z M255.6,87L89.8,336.4l33.8-0.1l152.6-218.8
+	L255.6,87z M283.1,127.9L137.8,336.2l256.9-1.1L334.3,204L283.1,127.9z M375,264.5l32.5,70.6l14.9-0.1L375,264.5z M432.8,334.9
+	C432.8,334.9,432.8,334.9,432.8,334.9L432.8,334.9z M290.3,117.6l13.5,20.1l-11-23.8L290.3,117.6z M276.9,97.7l6.4,9.6l2.5-3.6
+	L276.9,97.7z"/>
 </svg>
