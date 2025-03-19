@@ -2,11 +2,7 @@
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#DEAA22;}
-	.st1{fill:#0F2C3E;}
-</style>
-<path class="st0" d="M271,314H50v73.4h73.9V512h73.4V387.4H271V314z M241,198h221v-73.4h-73.7V0h-73.5v124.6H241V198z"/>
-<path class="st1" d="M388.4,314v-73.6h-73.6L314.7,512h73.4V387.4h73.7V314H388.4z M123.7,0v124.6H50V198h73.5v73.5h73.6L197.2,0
-	H123.7z"/>
+<path d="M512,256l-49.7,71.1l-7.3,10.4l-42.4,60.6v0.1l-14.7,20.9h-199l14.7-21l42.5-60.6h99.4l7.3-10.4l49.8-71.1l-49.8-71.1
+	l-7.3-10.4h-84.8l42.5-60.6v-0.1l14.7-20.9h70.2l14.7,20.9v0.1l42.4,60.6l7.3,10.4L512,256z M213.6,256l-49.7,71.1l-7.3,10.4
+	l-57,81.5H0l57-81.5l57-81.5l-57-81.5L0,92.9h99.5l57,81.5l7.3,10.4L213.6,256z"/>
 </svg>
