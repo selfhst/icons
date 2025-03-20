@@ -6,10 +6,8 @@
 	.st0{fill:#8CFFC0;}
 	.st1{fill:#FFFFFF;}
 </style>
-<g>
-	<circle class="st0" cx="151.5" cy="355.3" r="151.5"/>
-	<circle class="st1" cx="151.5" cy="156.7" r="151.5"/>
-	<circle class="st0" cx="360.5" cy="156.7" r="151.5"/>
-	<circle class="st1" cx="360.5" cy="355.3" r="151.5"/>
-</g>
+<circle class="st0" cx="151.5" cy="355.3" r="151.5"/>
+<circle class="st1" cx="151.5" cy="156.7" r="151.5"/>
+<circle class="st0" cx="360.5" cy="156.7" r="151.5"/>
+<circle class="st1" cx="360.5" cy="355.3" r="151.5"/>
 </svg>
