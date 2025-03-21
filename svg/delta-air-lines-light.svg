@@ -5,9 +5,5 @@
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
 </style>
-<g>
-	<path class="st0" d="M493.1,416.9L256,302.7V51.5L493.1,416.9z M512,460.5L256,352.4v108.1H512z"/>
-	<polyline class="st0" points="18.9,416.9 256,51.5 256,302.7 18.9,416.9 	"/>
-	<polyline class="st0" points="0,460.5 256,460.5 256,352.4 0,460.5 	"/>
-</g>
+<path class="st0" d="M493.1,416.9L256,302.7L18.9,416.9L256,51.5L493.1,416.9z M256,352.4L0,460.5h256h256L256,352.4z"/>
 </svg>
