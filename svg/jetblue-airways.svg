@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="Layer_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:docname="AJAX.svg"
+	 id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" sodipodi:docname="AJAX.svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
 	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#00205B;}
 	.st1{fill:#FFFFFF;}
 </style>
-<g id="g3" transform="translate(0,-3.1386552e-6)">
-	<path class="st0" d="M433.7,512H78.3C35,512,0,477,0,433.7V78.3C0,35,35,0,78.3,0h355.4C477,0,512,35,512,78.3v355.4
-		C512,477,477,512,433.7,512z"/>
-	<path id="path19" inkscape:connector-curvature="0" class="st1" d="M172.7,189.5h41.1v220.1c0,34.2-25,57.2-59.6,57.2h-16.1v-38.7
-		h11.7c14.1,0,23-6.5,23-21.8V189.5L172.7,189.5L172.7,189.5z M172.7,107h41.1V148h-41.1V107L172.7,107z"/>
-	<path id="path21" inkscape:connector-curvature="0" class="st1" d="M281.3,273.3c0.8-31,18.9-47.5,43.1-47.5
-		c24.2,0,41.9,16.5,43.1,47.5H281.3L281.3,273.3L281.3,273.3z M408.6,307.1v-33.8c0-52.8-39.1-86.2-84.1-86.2
-		c-39.5,0-84.2,25.8-84.2,105.1c0,83.8,48.7,103.9,90.6,103.9c27.4,0,53.6-9.7,73.7-33l-29.8-25.4c-12.1,12.5-29,19.7-44.7,19.7
-		c-28.2,0-48.7-16.9-48.7-50.4L408.6,307.1L408.6,307.1z"/>
-	<path id="path23" inkscape:connector-curvature="0" class="st1" d="M441.1,127.5h41.1v62H512v31.4h-29.8v118.8
-		c0,11.3,4.4,15.3,14.5,15.3H512v38.7h-21.3c-28.6,0-49.5-18.2-49.5-50.3V220.9h-20.6v-31.4h20.6V127.5L441.1,127.5L441.1,127.5z"/>
-</g>
+<path class="st0" d="M433.7,512H78.3C35,512,0,477,0,433.7V78.3C0,35,35,0,78.3,0h355.4C477,0,512,35,512,78.3v355.4
+	C512,477,477,512,433.7,512z"/>
+<path class="st1" d="M172.7,189.5h41.1v220.1c0,34.2-25,57.2-59.6,57.2h-16.1v-38.7h11.7c14.1,0,23-6.5,23-21.8L172.7,189.5
+	L172.7,189.5L172.7,189.5z M172.7,107h41.1v41h-41.1L172.7,107L172.7,107z M281.3,273.3c0.8-31,18.9-47.5,43.1-47.5
+	s41.9,16.5,43.1,47.5H281.3L281.3,273.3L281.3,273.3z M408.6,307.1v-33.8c0-52.8-39.1-86.2-84.1-86.2c-39.5,0-84.2,25.8-84.2,105.1
+	c0,83.8,48.7,103.9,90.6,103.9c27.4,0,53.6-9.7,73.7-33l-29.8-25.4c-12.1,12.5-29,19.7-44.7,19.7c-28.2,0-48.7-16.9-48.7-50.4
+	L408.6,307.1L408.6,307.1z M441.1,127.5h41.1v62H512v31.4h-29.8v118.8c0,11.3,4.4,15.3,14.5,15.3H512v38.7h-21.3
+	c-28.6,0-49.5-18.2-49.5-50.3V220.9h-20.6v-31.4h20.6v-62H441.1L441.1,127.5z"/>
 </svg>
