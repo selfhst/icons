@@ -7,9 +7,7 @@
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#F04E98;}
 	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#343741;}
 </style>
-<g>
-	<path class="st0" d="M288.2,266.5L92.3,492.1L75,512h373C427.5,411.1,369,324.2,288.2,266.5z"/>
-	<path id="Fill-1" class="st1" d="M456,0H56v192c69.2,0,134.2,17.8,190.9,48.8L456,0z"/>
-	<path id="Fill-3" class="st2" d="M56,192v268.6l190.9-219.9C190.2,209.8,125.2,192,56,192"/>
-</g>
+<path class="st0" d="M288.2,266.5L92.3,492.1L75,512h373C427.5,411.1,369,324.2,288.2,266.5z"/>
+<path id="Fill-1" class="st1" d="M456,0H56v192c69.2,0,134.2,17.8,190.9,48.8L456,0z"/>
+<path id="Fill-3" class="st2" d="M56,192v268.6l190.9-219.9C190.2,209.8,125.2,192,56,192"/>
 </svg>
