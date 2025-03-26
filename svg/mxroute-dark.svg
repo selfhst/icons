@@ -2,31 +2,6 @@
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="MXRouteIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{clip-path:url(#Background_00000110434079865468898170000015975783407261802638_);}
-	.st1{clip-path:url(#Foreground_00000093883791766543809030000009798784621788543664_);}
-</style>
-<g>
-	<defs>
-		<polygon id="Background" points="21.9,425.1 199.7,275.8 377.6,425.1 		"/>
-	</defs>
-	<use xlink:href="#Background"  style="overflow:visible;"/>
-	<clipPath id="Background_00000133507344513249965500000007368037952560884643_">
-		<use xlink:href="#Background"  style="overflow:visible;"/>
-	</clipPath>
-	
-		<rect x="21.9" y="275.8" style="clip-path:url(#Background_00000133507344513249965500000007368037952560884643_);" width="355.7" height="149.3"/>
-</g>
-<g>
-	<defs>
-		<path id="Foreground" d="M512,108.2v295.3L335.5,255.4L512,107.3C512,107.6,512,107.9,512,108.2z M23,86.9l232.3,194.9L487.6,86.9
-			H23z M0,108.5v294.1l175.2-147L0,108.5z M489.1,425.1L311.2,275.8L133.3,425.1H489.1z"/>
-	</defs>
-	<use xlink:href="#Foreground"  style="overflow:visible;"/>
-	<clipPath id="Foreground_00000026876908293021588000000017654645268291537059_">
-		<use xlink:href="#Foreground"  style="overflow:visible;"/>
-	</clipPath>
-	
-		<rect y="86.9" style="clip-path:url(#Foreground_00000026876908293021588000000017654645268291537059_);" width="512" height="338.2"/>
-</g>
+<path d="M255.5,322.6L133.3,425.1H21.9l177.8-149.3L255.5,322.6z M0,108.5v294.1l175.2-147L0,108.5z M133.3,425.1h355.8L311.2,275.8
+	L133.3,425.1z M487.6,86.9H23l232.3,194.9L487.6,86.9z M335.5,255.4L512,403.5V108.2c0-0.3,0-0.6,0-0.9L335.5,255.4z"/>
 </svg>
