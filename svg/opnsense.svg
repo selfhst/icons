@@ -5,8 +5,5 @@
 <style type="text/css">
 	.st0{fill:#DE3C07;}
 </style>
-<g>
-	<polygon class="st0" points="112,0 112,112 400,112 400,400 512,400 512,160.2 352.4,0 	"/>
-	<polygon class="st0" points="400,512 400,400 112,400 112,112 0,112 0,352.4 160.2,512 	"/>
-</g>
+<path class="st0" d="M512,160.2V400H400V112H112V0h240.4L512,160.2z M112,112H0v240.4L160.2,512H400V400H112V112z"/>
 </svg>

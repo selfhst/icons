@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg4705" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+	 id="svg4705" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
 	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#path11042_00000037688764471427493300000011080205109776411066_);}
+	.st0{fill:url(#path11042_00000175298022320718811360000001424127091017369987_);}
 	.st1{fill:#20AA73;}
 	.st2{fill:#4A93DD;}
 </style>
-<linearGradient id="path11042_00000165949265900670119880000001686161846993991088_" gradientUnits="userSpaceOnUse" x1="-425.9668" y1="1761.2666" x2="-133.37" y2="1078.5404" gradientTransform="matrix(-0.75 0 0 0.75 46.2408 -808.946)">
+<linearGradient id="path11042_00000176731495005455959470000005194710988171252098_" gradientUnits="userSpaceOnUse" x1="-1419.9668" y1="-1289.6" x2="-1127.37" y2="-606.8737" gradientTransform="matrix(-0.75 0 0 -0.75 -699.2592 -455.196)">
 	<stop  offset="0" style="stop-color:#FAF8F6"/>
 	<stop  offset="1" style="stop-color:#F1F0E9"/>
 </linearGradient>
-<circle id="path11042" style="fill:url(#path11042_00000165949265900670119880000001686161846993991088_);" cx="256" cy="256" r="256"/>
-<polygon id="polygon853" class="st1" points="154.2,138.4 154.2,190.8 205.3,224.8 154.2,258.8 154.2,311.3 284,224.8 "/>
-<polygon id="polygon857" class="st2" points="352.9,375.3 352.9,322.9 301.8,288.9 352.9,254.8 352.9,202.4 223.2,288.9 "/>
-<path id="path865" inkscape:connector-curvature="0" class="st1" d="M406.5,168.8c15,25.7,23.7,55.7,23.7,87.6
+<circle id="path11042" style="fill:url(#path11042_00000176731495005455959470000005194710988171252098_);" cx="256" cy="256" r="256"/>
+<path class="st1" d="M154.2,138.4v52.4l51.1,34l-51.1,34v52.5L284,224.8L154.2,138.4z M406.5,168.8c15,25.7,23.7,55.7,23.7,87.6
 	c0,96.2-78,174.2-174.2,174.2c-56.7,0-107-27.1-138.8-69l-37.6,25.1c40,54,104.2,89.1,176.4,89.1c121,0,219.5-98.4,219.5-219.5
 	c0-41.2-11.4-79.8-31.3-112.8L406.5,168.8z"/>
-<path id="path869" inkscape:connector-curvature="0" class="st2" d="M81.7,256.5c0-96.2,78-174.2,174.2-174.2
-	c56.1,0,106,26.5,137.9,67.8l37.7-25.1C391.4,71.6,327.6,37.1,256,37.1c-121,0-219.5,98.4-219.5,219.5c0,40.7,11.1,78.7,30.5,111.5
-	l37.7-25.1C90.1,317.4,81.7,287.9,81.7,256.5z"/>
+<path class="st2" d="M352.9,375.3v-52.4l-51.1-34l51.1-34.1v-52.4l-129.7,86.5L352.9,375.3z M81.7,256.5
+	c0-96.2,78-174.2,174.2-174.2c56.1,0,106,26.5,137.9,67.8l37.7-25.1C391.4,71.6,327.6,37.1,256,37.1c-121,0-219.5,98.4-219.5,219.5
+	c0,40.7,11.1,78.7,30.5,111.5l37.7-25.1C90.1,317.4,81.7,287.9,81.7,256.5z"/>
 </svg>

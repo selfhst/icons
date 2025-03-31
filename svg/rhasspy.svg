@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg8" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" inkscape:export-xdpi="90" inkscape:export-ydpi="90"
+	 id="svg8" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
 	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
 </style>
-<g>
-	<ellipse class="st0" cx="158.8" cy="190.8" rx="80.6" ry="120.6"/>
-	<path d="M512,303L392.3,177l-22.7,12.4l-5.5-18.9l-10.4,4.9l6.8,18.9l-130.4,71.2c14.5-25.5,26.6-50.8,36.1-75.7
-		c9.6-25,15.7-50,18.6-74.7c2.7-24.9,1-48.6-5.2-71.3c-23.3-6.8-49,13.7-68.2,8.7c-101-26.8-125.4,7.1-152.3,57.9
-		c-16.1,30.6-47,43.9-55.8,80.5L0,258.1l61.6,21.5l-2.2,33l44.4,0.4l5.7,38.3l64.8,17.1l60.2,49.4l53.7,27.2l57.4,24.6l4.6-4.6
-		L215.9,302.2l173.1-74.6l57.4,37.5l-12.3,14.6l5.8,7.5l15.5-16.3l53.5,35L512,303z M206.9,288.9L89.6,147.7
-		c55.3,12,99.4,52.3,115.4-46.2C228.2,154.5,240.7,219.3,206.9,288.9z"/>
-	<ellipse id="path2115" cx="202.4" cy="176.5" rx="4.4" ry="12.4"/>
-	
-		<ellipse id="ellipse2117" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -83.3356 172.6385)" cx="166.7" cy="186.9" rx="4.4" ry="12.4"/>
-	<path id="path2123" inkscape:connector-curvature="0" sodipodi:nodetypes="cscc" class="st0" d="M148.6,140.7
-		c-0.5,3.8-8.4,5.8-17.5,4.7c-9.2-1.2-16.4-5.2-15.8-8.9L148.6,140.7z"/>
-	<path id="path2126" inkscape:connector-curvature="0" sodipodi:nodetypes="cscc" class="st0" d="M166.6,136.7
-		c3.1,2.4,10-1.6,15.8-8.9c5.8-7.3,8.1-15.1,5.1-17.4L166.6,136.7z"/>
-</g>
+<ellipse class="st0" cx="158.8" cy="190.8" rx="80.6" ry="120.6"/>
+<path d="M392.3,177l-22.7,12.4l-5.5-18.9l-10.4,4.9l6.8,18.9l-130.4,71.2c14.5-25.5,26.6-50.8,36.1-75.7c9.6-25,15.7-50,18.6-74.7
+	c2.7-24.9,1-48.6-5.2-71.3c-23.3-6.8-49,13.7-68.2,8.7C110.4,25.7,86,59.6,59.1,110.4C43,141,12.1,154.3,3.3,190.9L0,258.1
+	l61.6,21.5l-2.2,33l44.4,0.4l5.7,38.3l64.8,17.1l60.2,49.4l53.7,27.2l57.4,24.6l4.6-4.6L215.9,302.2L389,227.6l57.4,37.5l-12.3,14.6
+	l5.8,7.5l15.5-16.3l53.5,35l3.1-2.9L392.3,177z M187.5,110.4c3,2.3,0.7,10.1-5.1,17.4s-12.7,11.3-15.8,8.9L187.5,110.4z
+	 M115.3,136.5l33.3,4.2c-0.5,3.8-8.4,5.8-17.5,4.7C121.9,144.2,114.7,140.2,115.3,136.5z M206.9,288.9L89.6,147.7
+	c55.3,12,99.4,52.3,115.4-46.2C228.2,154.5,240.7,219.3,206.9,288.9z M169.8,183.8c4.8,4.8,7.4,10.2,5.7,11.9
+	c-1.7,1.7-7-0.8-11.9-5.7c-4.8-4.8-7.4-10.2-5.7-11.9C159.6,176.4,165,179,169.8,183.8z M206.8,176.5c0,6.8-2,12.4-4.4,12.4
+	s-4.4-5.6-4.4-12.4s2-12.4,4.4-12.4S206.8,169.7,206.8,176.5z"/>
 </svg>

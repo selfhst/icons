@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg120" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" inkscape:export-filename="./logo.png"
+	 id="svg120" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-filename="./logo.png"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
 	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
 </style>
-<g id="layer1" transform="translate(-46.653036,-127.37783)" inkscape:groupmode="layer" inkscape:label="Layer 1">
-	<path id="path2223" sodipodi:nodetypes="ccscscccccccscsssc" class="st0" d="M410.9,301.1c32.7,2.8,58.5,12.1,77.5,28
-		c23.2,19.1,34.8,46.3,34.8,81.8c0,35.6-11.6,63-34.8,82.2c-23,19.1-56.1,28.6-99.3,28.6h-57.7v117.7h-87.5v-238
-		C298.4,362.9,353.7,328.1,410.9,301.1L410.9,301.1z M331.4,363.6v94.7h48.4c17,0,30.1-4.1,39.3-12.3c9.2-8.3,13.9-20.1,13.9-35.2
-		c0-15.1-4.6-26.8-13.9-35c-9.2-8.2-22.3-12.3-39.3-12.3H331.4z"/>
-	<path id="path2231" sodipodi:nodetypes="sccccccsss" class="st0" d="M387.6,292.1c-46.7-57.6-38.1-97.5-10.5-130.5
-		c-30.6-0.2-66.6-1.7-91.4,67.1c-59.3,1.2-63.7-44.8-64.4-89c-26.7,42.6-41.3,72.2-21.5,134.1c-70.6-19.9-79.9,34.6-109.1,62
-		c56.8-29.5,127.1-40.9,151.2,44.4c40.2-29.1,83.7-58.2,145.9-87.4C388.2,292.7,387.7,292.3,387.6,292.1L387.6,292.1z"/>
-	
-		<ellipse id="circle2233" transform="matrix(1 -8.770883e-03 8.770883e-03 1 -2.9322 0.8444)" class="st0" cx="94.8" cy="334.7" rx="12.6" ry="12.6"/>
-	<circle id="circle2235" class="st0" cx="220.1" cy="140" r="12.6"/>
-	<circle id="circle2237" class="st0" cx="370.4" cy="162.9" r="12.6"/>
-</g>
+<path class="st0" d="M441.7,201.7c-19-15.9-44.8-25.2-77.5-28c-57.2,27-112.5,61.8-167,100.3v238h87.5V394.3h57.7
+	c43.2,0,76.3-9.5,99.3-28.6c23.2-19.2,34.8-46.6,34.8-82.2C476.5,248,464.9,220.8,441.7,201.7z M372.4,318.6
+	c-9.2,8.2-22.3,12.3-39.3,12.3h-48.4v-94.7v-0.1h48.4c17,0,30.1,4.1,39.3,12.3c9.3,8.2,13.9,19.9,13.9,35
+	C386.3,298.5,381.6,310.3,372.4,318.6z M341.1,165.4c-62.2,29.2-105.7,58.3-145.9,87.4c-22-77.9-82.5-75.1-136.1-51.6
+	c1,1.8,1.6,3.8,1.6,6c0.1,7-5.5,12.6-12.5,12.7c-7,0.1-12.6-5.5-12.7-12.5s5.5-12.6,12.5-12.7c2.4,0,4.7,0.6,6.6,1.8
+	c22.1-28.5,37.1-67.4,98.5-50.1c-18-56.2-7.6-85.8,14.5-122.6c-4-2.1-6.8-6.3-6.8-11.2c0-7,5.6-12.6,12.6-12.6S186,5.7,186,12.6
+	c0,6.4-4.8,11.7-11,12.5c1.7,39.8,10.5,77.3,64,76.2c19.7-54.8,46.6-65,72.1-66.8c0.5-6.5,5.9-11.6,12.6-11.6
+	c7,0,12.6,5.6,12.6,12.6s-5.6,12.6-12.6,12.6c-1.1,0-2.2-0.2-3.2-0.4c-19,30.4-20.2,67,20.4,117C341,164.9,341.5,165.3,341.1,165.4z
+	"/>
 </svg>
