@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg5" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)" sodipodi:docname="favicon.svg"
+	 id="svg5" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
 	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
@@ -9,7 +9,7 @@
 	.st1{fill:#FFFFFF;}
 </style>
 <circle id="path860" class="st0" cx="256" cy="256" r="256"/>
-<ellipse id="path966" class="st1" cx="256.1" cy="106.3" rx="60.3" ry="60.3"/>
-<ellipse id="circle1348" class="st1" cx="256.1" cy="260.1" rx="60.3" ry="60.3"/>
-<ellipse id="circle1350" class="st1" cx="256.1" cy="413.9" rx="60.3" ry="60.3"/>
+<path class="st1" d="M256.1,46c33.3,0,60.3,27,60.3,60.3s-27,60.3-60.3,60.3s-60.3-27-60.3-60.3S222.8,46,256.1,46z M256.1,199.8
+	c33.3,0,60.3,27,60.3,60.3s-27,60.3-60.3,60.3s-60.3-27-60.3-60.3S222.8,199.8,256.1,199.8z M256.1,353.6c33.3,0,60.3,27,60.3,60.3
+	s-27,60.3-60.3,60.3s-60.3-27-60.3-60.3S222.8,353.6,256.1,353.6z"/>
 </svg>

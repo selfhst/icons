@@ -8,16 +8,12 @@
 	.st1{fill:#784CBF;}
 	.st2{fill:url(#SVGID_1_);}
 </style>
-<g id="Layer_1-2">
-	<path class="st0" d="M0,151.9V64h128L0,151.9z"/>
-	<path class="st1" d="M378.8,280.1L512,176L378.8,64V280.1z"/>
-	<path class="st0" d="M151.9,448L512,176L369.3,448H151.9z"/>
-	<path class="st1" d="M0,151.9l128,96V64L0,151.9z"/>
-	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="113.078" y1="-924.1105" x2="329.0229" y2="-1092.1659" gradientTransform="matrix(1 0 0 -1 0 -604.33)">
-		<stop  offset="0" style="stop-color:#AC79FF"/>
-		<stop  offset="1" style="stop-color:#784CBF"/>
-	</linearGradient>
-	<path class="st2" d="M280.1,352L0,151.9l151.9,295.9l128-96L280.1,352z"/>
-</g>
+<path class="st0" d="M0,151.9V64h128L0,151.9z"/>
+<path class="st0" d="M151.9,448L512,176L369.3,448H151.9z"/>
+<path class="st1" d="M378.8,280.1L512,176L378.8,64V280.1z M0,151.9l128,96V64L0,151.9z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="113.078" y1="1692.1105" x2="329.0229" y2="1860.1659" gradientTransform="matrix(1 0 0 1 0 -1372.3301)">
+	<stop  offset="0" style="stop-color:#AC79FF"/>
+	<stop  offset="1" style="stop-color:#784CBF"/>
+</linearGradient>
+<path class="st2" d="M280.1,352L0,151.9l151.9,295.9l128-96L280.1,352z"/>
 </svg>

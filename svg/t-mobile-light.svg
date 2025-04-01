@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg119" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:docname="A.svg"
+	 id="svg119" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
 	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
 </style>
-<sodipodi:namedview  bordercolor="#111111" borderopacity="1" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" gridtolerance="10" guidetolerance="10" id="namedview121" inkscape:current-layer="svg119" inkscape:cx="496.38792" inkscape:cy="-66.130262" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:zoom="0.98365527" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
-	</sodipodi:namedview>
 <path id="path1116" inkscape:connector-curvature="0" class="st0" d="M368.6,337.9H471V235.5H368.6V337.9z M41,0v174.1h30.7V169
-	c0-81.9,46.1-133.1,133.1-133.1h5.1v368.6c0,51.2-20.5,71.7-71.7,71.7h-15.4V512h266.2v-35.8h-15.4c-51.2,0-71.7-20.5-71.7-71.7
-	V35.8h5.1c87,0,133.1,51.2,133.1,133.1v5.1H471V0H41z M143.4,337.9H41V235.5h102.4V337.9z"/>
+	c0-81.9,46.1-133.1,133.1-133.1h5.1v368.6c0,51.2-20.5,71.7-71.7,71.7h-15.4V512H389v-35.8h-15.4c-51.2,0-71.7-20.5-71.7-71.7V35.8
+	h5.1c87,0,133.1,51.2,133.1,133.1v5.1H471V0H41z M143.4,337.9H41V235.5h102.4V337.9z"/>
 </svg>
