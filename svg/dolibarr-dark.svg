@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg3450" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 id="svg3450" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
 	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#60BBC1;}
-</style>
-<path id="path8463" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccscsssccsssc" d="M162.8,148v363.7l-152.6-1.5v1.5V2
-	H209c87.2,0,155.4,19.6,204.8,58.8c58.6,46.9,87.9,110.6,87.9,191c0,76.9-25.1,139.7-75.2,188.4S313.3,512,234.4,512
-	c-9.3,0-26-0.3-46.8-0.3V362.4l42-0.2c88.9-0.4,115.8-36.7,115.8-110.4c0-69.2-43.7-103.9-131.1-103.9L162.8,148z"/>
-<ellipse id="path957" class="st0" cx="433" cy="64.5" rx="62.2" ry="64.5"/>
+<path d="M470.9,126.7c20.5,35.9,30.8,77.6,30.8,125.1c0,76.9-25.1,139.7-75.2,188.4S313.3,512,234.4,512c-9.3,0-26-0.3-46.8-0.3
+	V362.4l42-0.2c88.9-0.4,115.8-36.7,115.8-110.4c0-69.2-43.7-103.9-131.1-103.9l-51.5,0.1v363.7l-152.6-1.5V2H209
+	c63.2,0,116.4,10.3,159.7,30.9c-4.4,9.6-6.9,20.3-6.9,31.6c0,40.5,31.9,73.5,71.2,73.5C446.9,138,459.9,133.8,470.9,126.7z
+	 M370.8,64.5c0,35.6,27.8,64.5,62.2,64.5s62.2-28.9,62.2-64.5S467.4,0,433,0S370.8,28.9,370.8,64.5z"/>
 </svg>
