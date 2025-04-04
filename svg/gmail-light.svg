@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<path class="st0" d="M512,157.3l-53,39.8l-53,39.8V98.3l30.8-23c14.6-10.9,33-12.6,49.3-4.5c16.3,8.1,26,23.9,26,42.1V157.3z
-	 M405.9,253.5v192.8h77c16.1,0,29.1-13.1,29.1-29.1V174l-53,39.8L405.9,253.5z M0,417.4c0,16,13.1,29,29.1,29h77V253.5L0,174V417.4z
-	 M0,112.8v44.5l106.1,79.5V98.3L75.3,75.2C60.7,64.2,42.3,62.6,26,70.7C9.7,78.9,0,94.6,0,112.8z M256,210.7L119.4,108.3v138.5v0
-	L256,349.3l136.6-102.4V108.3L256,210.7z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="m512 157.3-53 39.8-53 39.8V98.3l30.8-23c14.6-10.9 33-12.6 49.3-4.5s26 23.9 26 42.1v44.4zm-106.1 96.2v192.8h77c16.1 0 29.1-13.1 29.1-29.1V174l-53 39.8zM0 417.4c0 16 13.1 29 29.1 29h77V253.5L0 174zm0-304.6v44.5l106.1 79.5V98.3L75.3 75.2c-14.6-11-33-12.6-49.3-4.5C9.7 78.9 0 94.6 0 112.8m256 97.9L119.4 108.3v138.5L256 349.3l136.6-102.4V108.3z" style="fill:#fff"/></svg>

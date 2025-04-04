@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="svg3688" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-filename="/home/tom/projects/securesync/graphics/logo.png"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
-	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<path d="M437.1,181.7V76.2H331L256.1,1.9l-74.9,74.3H74.9v105.4L0,256.1l74.9,74.3v105.4h106.2l74.9,74.3l74.9-74.3h106.1V330.3
-	l74.9-74.3L437.1,181.7z M370.2,325l-24.7-23.5c7.6-13.5,11.8-28.8,11.8-45.1c0-53.3-45.4-96.6-101.3-96.6V188c0,0,0.1,0,0.1,0
-	c37.6,0,68.1,30.4,68.1,67.8c0,31.4-21.5,57.8-50.6,65.5l49.9,47.6L256,433.3v-48.3c-74.6,0-135.1-57.6-135.1-128.8
-	c0-25.3,7.7-48.8,20.9-68.6l24.7,23.5c-7.6,13.5-11.8,28.8-11.8,45.1c0,53.3,45.4,96.6,101.3,96.6v-29.2c-37.5-0.1-68-30.5-68-67.8
-	c0-31,21.1-57.2,49.7-65.3l-49.3-47L256,79.3v48.3c74.6,0,135.1,57.6,135.1,128.8C391.1,281.7,383.3,305.2,370.2,325z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M437.1 181.7V76.2H331L256.1 1.9l-74.9 74.3H74.9v105.4L0 256.1l74.9 74.3v105.4h106.2l74.9 74.3 74.9-74.3H437V330.3l74.9-74.3zM370.2 325l-24.7-23.5c7.6-13.5 11.8-28.8 11.8-45.1 0-53.3-45.4-96.6-101.3-96.6V188h.1c37.6 0 68.1 30.4 68.1 67.8 0 31.4-21.5 57.8-50.6 65.5l49.9 47.6-67.5 64.4V385c-74.6 0-135.1-57.6-135.1-128.8 0-25.3 7.7-48.8 20.9-68.6l24.7 23.5c-7.6 13.5-11.8 28.8-11.8 45.1 0 53.3 45.4 96.6 101.3 96.6v-29.2c-37.5-.1-68-30.5-68-67.8 0-31 21.1-57.2 49.7-65.3l-49.3-47L256 79.3v48.3c74.6 0 135.1 57.6 135.1 128.8 0 25.3-7.8 48.8-20.9 68.6"/></svg>

@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns:serif="http://www.serif.com/"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
-	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<path class="st0" d="M315.9,256.1c0-22.5-131.3-94.9-153.4-83.8s-21.8,156.9,0,167.6C184.3,350.7,315.9,278.6,315.9,256.1z
-	 M511.9,256.1c0-67.9-395.5-285.7-462-252.5s-66.2,472.4,0,505.3C115.7,541.5,511.9,323.7,511.9,256.1z M107.7,421.7
-	c-43.3-21.5-43.6-309.3,0-331.1s302.7,121.2,302.7,165.6S151,443.2,107.7,421.7z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M315.9 256.1c0-22.5-131.3-94.9-153.4-83.8s-21.8 156.9 0 167.6c21.8 10.8 153.4-61.3 153.4-83.8m196 0c0-67.9-395.5-285.7-462-252.5s-66.2 472.4 0 505.3c65.8 32.6 462-185.2 462-252.8M107.7 421.7c-43.3-21.5-43.6-309.3 0-331.1s302.7 121.2 302.7 165.6-259.4 187-302.7 165.5" style="fill:#fff"/></svg>

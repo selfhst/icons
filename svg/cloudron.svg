@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="svg4519" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-filename="cloudron-logo.png"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
-	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#03A9F4;}
-	.st1{fill:#FFFFFF;}
-</style>
-<path id="path4162" inkscape:export-xdpi="67.349998" inkscape:export-ydpi="67.349998" inkscape:flatsided="true" inkscape:randomized="0" inkscape:rounded="0.12490573" sodipodi:arg1="-0.52224059" sodipodi:arg2="0.0013581913" sodipodi:cx="12.46875" sodipodi:cy="-99.893143" sodipodi:r1="19.266006" sodipodi:r2="16.307295" sodipodi:sides="6" sodipodi:type="star" class="st0" d="
-	M384.5,30.9C412.5,47,512.6,224.4,512.6,256.7c0,32.3-100,209.7-128.1,225.8c-28.1,16.1-228.1,16.1-256.2,0
-	C100.3,465.1,0.3,287.7,0.3,255.5c0-32.3,100-209.7,128.1-225.8C156.4,13.5,356.4,14.8,384.5,30.9L384.5,30.9z"/>
-<path class="st1" d="M301.5,228.7c17.1,0,31.7-13.6,31.7-32.3v-53.3c0-17.4-13.4-32.3-31.7-32.3h-51.2c-18.3,0-32.9,14.9-32.9,32.3
-	v53.3c0,0.4,0,0.8,0,1.3c-2-0.4-4-0.6-6.1-0.6h-52.4c-18.3,0-31.7,14.9-31.7,32.3v53.3c0,17.4,13.4,32.3,31.7,32.3h52.4
-	c2.1,0,4.1-0.2,6.1-0.6v53.3c0,17.4,13.4,32.3,31.7,32.3h52.4c17.1,0,31.7-13.6,31.7-32.3v-53.3c0-17.4-13.4-32.3-31.7-32.3h-51.2
-	c-2.5,0-5,0.3-7.3,0.8c0,0,0-0.1,0-0.1v-53.3c0-0.4,0-0.8,0-1.3c2,0.4,4,0.6,6.1,0.6H301.5z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M384.5 30.9c28 16.1 128.1 193.5 128.1 225.8s-100 209.7-128.1 225.8-228.1 16.1-256.2 0c-28-17.4-128-194.8-128-227 0-32.3 100-209.7 128.1-225.8 28-16.2 228-14.9 256.1 1.2" style="fill:#03a9f4"/><path d="M301.5 228.7c17.1 0 31.7-13.6 31.7-32.3v-53.3c0-17.4-13.4-32.3-31.7-32.3h-51.2c-18.3 0-32.9 14.9-32.9 32.3v54.6c-2-.4-4-.6-6.1-.6h-52.4c-18.3 0-31.7 14.9-31.7 32.3v53.3c0 17.4 13.4 32.3 31.7 32.3h52.4c2.1 0 4.1-.2 6.1-.6v53.3c0 17.4 13.4 32.3 31.7 32.3h52.4c17.1 0 31.7-13.6 31.7-32.3v-53.3c0-17.4-13.4-32.3-31.7-32.3h-51.2c-2.5 0-5 .3-7.3.8v-54.7c2 .4 4 .6 6.1.6h52.4z" style="fill:#fff"/></svg>
