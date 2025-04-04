@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st1{opacity:0.4;fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-</style>
-<path id="b_00000062891860662642805150000012920918694181293241_" class="st0" d="M320,464c128-110.6,192-201.3,192-272
-	C512,86,426,0,320,0S128,86,128,192C128,262.7,192,353.4,320,464z"/>
-<path id="d_00000058556438217669868610000015498597765972531894_" class="st1" d="M192,48c128,110.6,192,201.3,192,272
-	c0,106-86,192-192,192S0,426,0,320C0,249.3,64,158.6,192,48z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M320 464c128-110.6 192-201.3 192-272C512 86 426 0 320 0S128 86 128 192c0 70.7 64 161.4 192 272" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"/><path d="M192 48c128 110.6 192 201.3 192 272 0 106-86 192-192 192S0 426 0 320c0-70.7 64-161.4 192-272" style="opacity:.4;fill-rule:evenodd;clip-rule:evenodd;fill:#fff"/></svg>

@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Blue" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<path class="st0" d="M511.9,255.8c-0.5,9-1.4,16.4-2.6,25.6c-21.5-0.5-45.1-0.6-68.9-0.7c1.1-8.4,2-16.9,2-25.6
-	c0-103.2-83.7-186.9-186.9-186.9S68.6,152,68.6,255.2s83.7,186.9,186.9,186.9c0.1,0,0.4,0,0.5,0c0,28.5,0,53.7,0,69.9
-	C114.7,512,0,397.3,0,256S114.7,0,256,0S512,114.7,511.9,255.8z M268.3,84.9h-25.6v172.6v9.7v14.3h139v-24H268.3V84.9z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M511.9 255.8c-.5 9-1.4 16.4-2.6 25.6-21.5-.5-45.1-.6-68.9-.7 1.1-8.4 2-16.9 2-25.6 0-103.2-83.7-186.9-186.9-186.9S68.6 152 68.6 255.2s83.7 186.9 186.9 186.9h.5V512C114.7 512 0 397.3 0 256S114.7 0 256 0s256 114.7 255.9 255.8M268.3 84.9h-25.6v196.6h139v-24H268.3z" style="fill:#fff"/></svg>

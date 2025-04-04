@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="svg16" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" sodipodi:docname="logseq_icon_simple.svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
-	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#002B34;}
-	.st1{fill:#86C8C8;}
-</style>
-<path id="rect4" class="st0" d="M116.6,0h278.8C459.8,0,512,59.7,512,133.4v245.2c0,73.7-52.2,133.4-116.6,133.4H116.6
-	C52.2,512,0,452.3,0,378.6V133.4C0,59.7,52.2,0,116.6,0z"/>
-<path class="st1" d="M167.1,182.3c-24,27.4-68.3,27.9-98.9,1.1S32.1,112.7,56,85.2s68.1-28.2,98.9-1.5
-	c30.7,26.7,36.3,70.6,12.5,98.2 M304.2,198.5c92.1,0,166.7,58.3,166.7,130.2s-74.6,130.2-166.7,130.2s-166.7-58.3-166.7-130.2
-	S212.1,198.5,304.2,198.5z M279.8,55.5c38.1-8.2,73.3,5.1,78.6,29.7s-21.4,51.1-59.5,59.3c-38.1,8.2-73.3-5.1-78.6-29.7
-	S241.7,63.6,279.8,55.5z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M116.6 0h278.8C459.8 0 512 59.7 512 133.4v245.2c0 73.7-52.2 133.4-116.6 133.4H116.6C52.2 512 0 452.3 0 378.6V133.4C0 59.7 52.2 0 116.6 0" style="fill:#002b34"/><path d="M167.1 182.3c-24 27.4-68.3 27.9-98.9 1.1S32.1 112.7 56 85.2s68.1-28.2 98.9-1.5c30.7 26.7 36.3 70.6 12.5 98.2m136.8 16.6c92.1 0 166.7 58.3 166.7 130.2s-74.6 130.2-166.7 130.2-166.7-58.3-166.7-130.2 74.6-130.2 166.7-130.2m-24.4-143c38.1-8.2 73.3 5.1 78.6 29.7s-21.4 51.1-59.5 59.3-73.3-5.1-78.6-29.7 21.4-51.2 59.5-59.3" style="fill:#86c8c8"/></svg>

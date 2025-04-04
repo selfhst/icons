@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="Layer_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" sodipodi:docname="minio-ar21.svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
-	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#F05A28;}
-	.st1{fill:#010000;}
-</style>
-<path id="path88" inkscape:connector-curvature="0" class="st0" d="M322,25c0,0,50.2,80.9,67.1,109.6c0.3,0.5,0.3,1,0,1.5
-	c-0.5,0.5-1.3,0.5-1.8,0l-86.9-90.5L322,25z"/>
-<path id="path90" inkscape:connector-curvature="0" class="st1" d="M173.9,320c14.7-31.2,34.7-59.6,59.1-84
-	c9.1-9.2,18.9-17.9,29.3-26v64L173.9,320z M122.7,379.2L262.4,308v162.7l31.5,41.3V291.8l19.5-9.8c46.8-23.6,65.5-80.6,42.1-127.3
-	c-4.2-8.3-9.6-16-16-22.6l-72.2-75.2c-5.9-6.5-5.5-16.5,0.7-22.5c6.5-6,16.5-5.6,22.6,0.7l9.8,10.5L322,25
-	c-25.4-33.1-56.7-29.3-74.8-12.4c-18.4,17.4-19.3,46.3-1.9,64.8l0,0l72.5,75.6c24.5,26.2,23.2,67.2-3,91.7c-3.4,3.1-7.1,6-11.1,8.4
-	l-9.8,5.1V155.4C206.2,200.5,143.4,282.6,122.7,379.2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M322 25s50.2 80.9 67.1 109.6q.45.75 0 1.5c-.5.5-1.3.5-1.8 0l-86.9-90.5z" style="fill:#f05a28"/><path d="M173.9 320c14.7-31.2 34.7-59.6 59.1-84 9.1-9.2 18.9-17.9 29.3-26v64zm-51.2 59.2L262.4 308v162.7l31.5 41.3V291.8l19.5-9.8c46.8-23.6 65.5-80.6 42.1-127.3-4.2-8.3-9.6-16-16-22.6l-72.2-75.2c-5.9-6.5-5.5-16.5.7-22.5 6.5-6 16.5-5.6 22.6.7l9.8 10.5L322 25c-25.4-33.1-56.7-29.3-74.8-12.4-18.4 17.4-19.3 46.3-1.9 64.8l72.5 75.6c24.5 26.2 23.2 67.2-3 91.7-3.4 3.1-7.1 6-11.1 8.4l-9.8 5.1V155.4c-87.7 45.1-150.5 127.2-171.2 223.8" style="fill:#010000"/></svg>
