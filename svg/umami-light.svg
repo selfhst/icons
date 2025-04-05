@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<path class="st0" d="M494.1,183.9h-28.7C440.5,91.6,356.1,23.5,256,23.5S71.5,91.6,46.7,183.9H17.9C7.7,183.9,0,191.6,0,201.8v17.9
-	c0,5.1,0,7.7,0,12.8c0,140.8,115.2,256,256,256c138.2,0,253.4-110.1,256-250.9c0,0,0,0,0-2.6v-33.3
-	C512,191.6,504.3,183.9,494.1,183.9z M256,47.4c86.7,0,160.3,57.6,184.4,136.5H71.6C95.7,105,169.3,47.4,256,47.4z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M494.1 183.9h-28.7C440.5 91.6 356.1 23.5 256 23.5S71.5 91.6 46.7 183.9H17.9C7.7 183.9 0 191.6 0 201.8v30.7c0 140.8 115.2 256 256 256 138.2 0 253.4-110.1 256-250.9v-35.9c0-10.1-7.7-17.8-17.9-17.8M256 47.4c86.7 0 160.3 57.6 184.4 136.5H71.6C95.7 105 169.3 47.4 256 47.4" style="fill:#fff"/></svg>

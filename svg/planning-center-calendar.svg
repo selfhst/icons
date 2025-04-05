@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
-	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-</style>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="201.5227" y1="177.4854" x2="1225.5039" y2="-846.496" gradientTransform="matrix(0.4 0 0 -0.4 -29.4 122.2)">
-	<stop  offset="0" style="stop-color:#F25436"/>
-	<stop  offset="1" style="stop-color:#CD4D38"/>
-</linearGradient>
-<path class="st0" d="M256,0C51.2,0,0,51.2,0,256s51.2,256,256,256s256-51.2,256-256S460.8,0,256,0"/>
-<path class="st1" d="M207.1,163.8v-17.9c0-7.8-6.3-14.2-14.1-14.2c0,0,0,0,0,0h-6.8c-7.8,0-14.2,6.3-14.2,14.2c0,0,0,0,0,0v17.9
-	h-23.2c-8.3,0-15,6.7-15,15v181.8c0,8.3,6.7,15,15,15h214.5c8.3,0,15-6.7,15-15V178.7c0-8.3-6.7-15-15-15h-23.2v-17.9
-	c0-7.8-6.3-14.2-14.1-14.2c0,0,0,0-0.1,0h-6.8c-7.8,0-14.2,6.3-14.2,14.2c0,0,0,0,0,0v17.9H207.1z M340.1,336.1H171.9v-106h168.1
-	V336.1z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><linearGradient id="planning-center-calendar_svg__a" x1="201.523" x2="1225.504" y1="177.485" y2="-846.496" gradientTransform="matrix(.4 0 0 -.4 -29.4 122.2)" gradientUnits="userSpaceOnUse"><stop offset="0" style="stop-color:#f25436"/><stop offset="1" style="stop-color:#cd4d38"/></linearGradient><path d="M256 0C51.2 0 0 51.2 0 256s51.2 256 256 256 256-51.2 256-256S460.8 0 256 0" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#planning-center-calendar_svg__a)"/><path d="M207.1 163.8v-17.9c0-7.8-6.3-14.2-14.1-14.2h-6.8c-7.8 0-14.2 6.3-14.2 14.2v17.9h-23.2c-8.3 0-15 6.7-15 15v181.8c0 8.3 6.7 15 15 15h214.5c8.3 0 15-6.7 15-15V178.7c0-8.3-6.7-15-15-15h-23.2v-17.9c0-7.8-6.3-14.2-14.1-14.2h-6.9c-7.8 0-14.2 6.3-14.2 14.2v17.9h-97.8zm133 172.3H171.9v-106H340v106z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"/></svg>

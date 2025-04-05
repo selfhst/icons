@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="svg841" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
-	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#68C87A;}
-</style>
-<path class="st0" d="M201,201c30.4-30.4,79.6-30.4,110,0c30.4,30.4,30.4,79.6,0,110c-30.4,30.4-79.6,30.4-110,0
-	C170.6,280.6,170.6,231.4,201,201z M89.6,61.4c-107.4,91.9-120,253.4-28.3,360.8c83.8,98.1,227.4,118.5,335.2,47.7l-59.6-69.8
-	c-68.8,38.6-155.4,23.2-206.6-36.8c-59.3-69.4-51.1-173.7,18.2-233l0.1-0.1c69.4-59.3,173.8-51.1,233.1,18.3l0,0
-	c51.3,60,52.9,147.9,4,209.8l59.6,69.9c86.8-95.4,89.1-240.5,5.3-338.5C358.8-17.8,197.2-30.5,89.6,61.4L89.6,61.4L89.6,61.4z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M201 201c30.4-30.4 79.6-30.4 110 0s30.4 79.6 0 110-79.6 30.4-110 0-30.4-79.6 0-110M89.6 61.4c-107.4 91.9-120 253.4-28.3 360.8 83.8 98.1 227.4 118.5 335.2 47.7l-59.6-69.8c-68.8 38.6-155.4 23.2-206.6-36.8-59.3-69.4-51.1-173.7 18.2-233l.1-.1c69.4-59.3 173.8-51.1 233.1 18.3 51.3 60 52.9 147.9 4 209.8l59.6 69.9c86.8-95.4 89.1-240.5 5.3-338.5-91.8-107.5-253.4-120.2-361-28.3" style="fill:#68c87a"/></svg>

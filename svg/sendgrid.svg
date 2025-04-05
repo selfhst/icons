@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#9DD6E3;}
-	.st1{fill:#00A9D1;}
-	.st2{fill:#2191C4;}
-	.st3{fill:#3F72AB;}
-</style>
-<path class="st0" d="M512,0v341.3H341.3V512H0V170.7h170.7V0H512z"/>
-<path class="st1" d="M341.3,341.3H512V170.7H341.3V341.3z M170.7,170.7h170.6V0H170.7V170.7z"/>
-<polygon class="st2" points="170.7,341.3 341.3,341.3 341.3,170.7 170.7,170.7 "/>
-<path class="st3" d="M0,512h170.7V341.3H0V512z M341.3,170.7H512V0H341.3V170.7z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M512 0v341.3H341.3V512H0V170.7h170.7V0z" style="fill:#9dd6e3"/><path d="M341.3 341.3H512V170.7H341.3zM170.7 170.7h170.6V0H170.7z" style="fill:#00a9d1"/><path d="M170.7 341.3h170.6V170.7H170.7z" style="fill:#2191c4"/><path d="M0 512h170.7V341.3H0zm341.3-341.3H512V0H341.3z" style="fill:#3f72ab"/></svg>
