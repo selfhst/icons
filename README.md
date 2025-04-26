@@ -1,4 +1,4 @@
-[![CC BY 4.0][cc-by-shield]][cc-by] [![](https://data.jsdelivr.com/v1/package/gh/selfhst/icons/badge)](https://www.jsdelivr.com/package/gh/selfhst/icons)
+[![](https://data.jsdelivr.com/v1/package/gh/selfhst/icons/badge)](https://www.jsdelivr.com/package/gh/selfhst/icons)
 
 # selfh.st/icons
 
