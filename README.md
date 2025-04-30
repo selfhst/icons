@@ -9,7 +9,7 @@ The collection is available for browsing via the directory at [selfh.st/icons](h
 To self-host the collection, users can clone, download, or sync the repository with a tool like [git-sync](https://github.com/AkashRajpurohit/git-sync) and serve it with a web server of their choosing (Caddy, NGINX, etc.).
 
 
-### Color Options
+## Color Options
 
 By default, most SVG icons are available in three color formats:
 
@@ -19,7 +19,7 @@ By default, most SVG icons are available in three color formats:
 
 (Toggles to view icons by color type are available in the [directory hosted on the selfh.st website](https://selfh.st/icons).)
 
-### Custom Colors
+## Custom Colors
 
 Because the dark and light versions of each icon are monochromatic, CSS can theoretically be leveraged to apply custom colors to the icons. 
 
@@ -28,21 +28,21 @@ This only works, however, when the SVG code is embedded directly onto a webpage.
 As a workaround, a lightweight self-hosted server has been published via Docker that utilizes a URL parameter for color conversion on the fly. Continue reading for further instructions.
 
 
-#### Deploying the Custom Color Container
+### Deploying the Custom Color Container
 
-* Introduction
-* Deploying the container
-* Configuring a reverse proxy (optional)
-* Linking to a custom icon
-* Changelog
+* [Introduction](https://github.com/selfhst/icons#introduction)
+* [Deploying the container](https://github.com/selfhst/icons#deployment)
+* [Configuring a reverse proxy (optional)](https://github.com/selfhst/icons#reverse-proxy)
+* [Linking to a custom icon](https://github.com/selfhst/icons#linking)
+* [Changelog](https://github.com/selfhst/icons#changelog)
 
-##### Introduction
+#### Introduction
 
 The Docker image below allows users to host a local server that acts as a proxy between requests and jsDelivr. When a color parameter is detected in the URL, the server will intercept the requests, fill the SVG file with that color, and serve it to the user.
 
 Once deployed, users can append ```?color=eeeeee``` to the end of a URL to specify a custom color (replacing ```eeeeee``` with any [hex color code](https://htmlcolorcodes.com/)).
 
-##### Deployment
+#### Deployment
 
 The container can be easily deployed via docker-compose with the following snippet:
 
@@ -56,7 +56,7 @@ selfhst-icons:
 
 No volume mounts or environment variables are currently required.
 
-##### Reverse Proxy
+#### Reverse Proxy
 
 While out of the scope of this guide, many applications will require users to leverage HTTPS when linking to icons served from the container.
 
@@ -68,7 +68,7 @@ icons.selfh.st {
 }
 ```
 
-##### Linking
+#### Linking
 
 After the container has been deployed, users can easily link to any existing icon within the collection:
 
