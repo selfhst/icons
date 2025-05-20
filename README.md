@@ -1,13 +1,29 @@
-[![](https://data.jsdelivr.com/v1/package/gh/selfhst/icons/badge)](https://www.jsdelivr.com/package/gh/selfhst/icons)
+<div align="center">
+  <img width="400" src="https://cdn.jsdelivr.net/gh/selfhst/cdn/assets/site/logos/selfh-st-icons.svg" alt="selfh.st/icons Logo">
+</div>
+<br/>
+<p align="center">
+<a href="https://selfh.st/support/#/portal/support">
+<img src="https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff" alt="Stripe"/></a>
+<a href="https://ko-fi.com/selfhst">
+<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
+<a href="https://patreon.com/selfhst">
+<img src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
+<a href="https://buymeacoffee.com/selfhst">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+</p>
+<br/>
 
-# selfh.st/icons
+<div align="center">
+  <img width="800" style="border-radius: 8px;" src="https://cdn.jsdelivr.net/gh/selfhst/cdn/assets/site/screenshots/selfh-st-icons.png" alt="selfh.st/icons Screenshot">
+</div>
+<br/>
 
 [selfh.st/icons](https://selfh.st/icons) is a collection of 4,400+ logos and icons for self-hosted (and non-self-hosted) software.
 
 The collection is available for browsing via the directory at [selfh.st/icons](https://selfh.st/icons) and served to users directly from this repo using the jsDelivr content delivery network.
 
-To self-host the collection, users can clone, download, or sync the repository with a tool like [git-sync](https://github.com/AkashRajpurohit/git-sync) and serve it with a web server of their choosing (Caddy, NGINX, etc.).
-
+To self-host the collection, users can clone, download, or sync the repository with a tool such [git-sync](https://github.com/AkashRajpurohit/git-sync) and serve it via a web server of their choosing (Caddy, NGINX, etc.).
 
 ## Color Options
 
