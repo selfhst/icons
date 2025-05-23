@@ -19,11 +19,11 @@
 </div>
 <br/>
 
-[selfh.st/icons](https://selfh.st/icons) is a collection of 4,400+ logos and icons for self-hosted (and non-self-hosted) software.
+[selfh.st/icons](https://selfh.st/icons) is a collection of 4,500+ logos and icons for self-hosted (and non-self-hosted) software.
 
 The collection is available for browsing via the directory at [selfh.st/icons](https://selfh.st/icons) and served to users directly from this repo using the jsDelivr content delivery network.
 
-To self-host the collection, users can clone, download, or sync the repository with a tool such [git-sync](https://github.com/AkashRajpurohit/git-sync) and serve it via a web server of their choosing (Caddy, NGINX, etc.).
+To self-host the collection, users can clone, download, or sync the repository with a tool such as [git-sync](https://github.com/AkashRajpurohit/git-sync) and serve it via a web server of their choosing (Caddy, NGINX, etc.).
 
 ## Color Options
 
