@@ -1,0 +1,98 @@
+name: Build and Push Docker Images
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'build/**'
+      - '.github/workflows/build-and-push.yml'
+  
+  release:
+    types: [ published ]
+  
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version tag (e.g., 2.0.0)'
+        required: true
+        default: 'latest'
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: selfhst/icons
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v3
+    
+    - name: Log in to Container Registry
+      uses: docker/login-action@v3
+      with:
+        registry: ${{ env.REGISTRY }}
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Read version from file
+      id: version
+      run: |
+        VERSION=$(cat build/VERSION | tr -d '\n')
+        echo "version=$VERSION" >> $GITHUB_OUTPUT
+        echo "Version from file: $VERSION"
+        
+        # Extract semantic version parts
+        MAJOR=$(echo $VERSION | cut -d. -f1)
+        MINOR=$(echo $VERSION | cut -d. -f1-2)
+        
+        echo "major_version=$MAJOR" >> $GITHUB_OUTPUT
+        echo "minor_version=$MINOR" >> $GITHUB_OUTPUT
+        echo "Major: $MAJOR, Minor: $MINOR"
+    
+    - name: Extract metadata
+      id: meta
+      uses: docker/metadata-action@v5
+      with:
+        images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+        tags: |
+          # For releases, use the release tag
+          type=ref,event=tag
+          # For main branch pushes, create semantic version tags
+          type=raw,value=${{ steps.version.outputs.version }},enable={{is_default_branch}}
+          type=raw,value=${{ steps.version.outputs.major_version }},enable={{is_default_branch}}
+          type=raw,value=${{ steps.version.outputs.minor_version }},enable={{is_default_branch}}
+          type=raw,value=latest,enable={{is_default_branch}}
+        labels: |
+          org.opencontainers.image.title=selfh.st/icons
+          org.opencontainers.image.description=Self-hosted icon server with custom color support
+          org.opencontainers.image.version=${{ steps.version.outputs.version }}
+          org.opencontainers.image.source=https://github.com/${{ github.repository }}
+    
+    - name: Build and push Docker image
+      uses: docker/build-push-action@v5
+      with:
+        context: ./build
+        platforms: linux/amd64,linux/arm64,linux/arm/v7
+        push: true
+        tags: ${{ steps.meta.outputs.tags }}
+        labels: ${{ steps.meta.outputs.labels }}
+        cache-from: type=gha
+        cache-to: type=gha,mode=max
+    
+    - name: Output image info
+      run: |
+        echo "🐳 Images built and pushed:"
+        echo "${{ steps.meta.outputs.tags }}" | sed 's/^/  - /'
+        echo ""
+        echo "🏗️ Supported architectures:"
+        echo "  - linux/amd64 (Intel/AMD x86_64)"
+        echo "  - linux/arm64 (ARM 64-bit, Apple M1, Raspberry Pi 4)"
+        echo "  - linux/arm/v7 (ARM 32-bit, Raspberry Pi 2/3)"
