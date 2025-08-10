@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     if: contains(github.event.head_commit.message, 'build/')
     permissions:
-      contents: read
+      contents: write
       packages: write
     
     steps:
@@ -86,12 +86,10 @@ jobs:
         cache-to: type=gha,mode=max
     
     - name: Create GitHub Release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      uses: softprops/action-gh-release@v1
       with:
         tag_name: v${{ steps.version.outputs.version }}
-        release_name: Release v${{ steps.version.outputs.version }}
+        name: Release v${{ steps.version.outputs.version }}
         body: |
           ## What's Changed
           - Docker images updated to version ${{ steps.version.outputs.version }}
