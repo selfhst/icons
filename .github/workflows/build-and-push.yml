@@ -3,9 +3,6 @@ name: Build and Push Docker Images
 on:
   push:
     branches: [ main ]
-    paths:
-      - 'build/**'
-      - '.github/workflows/build-and-push.yml'
   
   release:
     types: [ published ]
@@ -24,6 +21,7 @@ env:
 jobs:
   build-and-push:
     runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'build/')
     permissions:
       contents: read
       packages: write
@@ -88,7 +86,6 @@ jobs:
         cache-to: type=gha,mode=max
     
     - name: Create GitHub Release
-      if: github.ref == 'refs/heads/main' && contains(github.event.head_commit.message, 'build/')
       uses: actions/create-release@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
