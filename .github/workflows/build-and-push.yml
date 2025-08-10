@@ -87,6 +87,28 @@ jobs:
         cache-from: type=gha
         cache-to: type=gha,mode=max
     
+    - name: Create GitHub Release
+      if: github.ref == 'refs/heads/main' && contains(github.event.head_commit.message, 'build/')
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: v${{ steps.version.outputs.version }}
+        release_name: Release v${{ steps.version.outputs.version }}
+        body: |
+          ## What's Changed
+          - Docker images updated to version ${{ steps.version.outputs.version }}
+          
+          ## Docker Images
+          ```
+          docker pull ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ steps.version.outputs.version }}
+          docker pull ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
+          ```
+          
+          Supported platforms: linux/amd64, linux/arm64, linux/arm/v7
+        draft: true
+        prerelease: false
+
     - name: Output image info
       run: |
         echo "🐳 Images built and pushed:"
