@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://img.shields.io/github/stars/selfhst/icons">
   <img src="https://img.shields.io/badge/icons-5,143-0f60d9">
-  <img src="https://img.shields.io/github/v/release/selfhst/icons?label=latest%20release&color=9926e0">
   <img src="https://img.shields.io/jsdelivr/gh/hm/selfhst/icons">
 </div>
 
