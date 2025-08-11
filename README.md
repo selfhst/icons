@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/selfhst/icons">
-  <a href="https://selfh.st/icons"><img src="https://img.shields.io/badge/icons-5,143-0f60d9"></a>
-  <a href="https://github.com/selfhst/icons/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/latest-v2.0.0-9926e0"></a>
+  <a href="https://selfh.st/icons"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fselfhst.github.io%2Fcdn%2Fassets%2Fbadges%2Ficons.json&query=%24.count&label=icons&color=0f60d9"></a>
+  <a href="https://github.com/selfhst/icons/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fselfhst.github.io%2Fcdn%2Fassets%2Fbadges%2Ficons.json&query=%24.release&label=release&color=9926e0"></a>
   <a href="https://www.jsdelivr.com/package/gh/selfhst/icons"><img src="https://img.shields.io/jsdelivr/gh/hm/selfhst/icons"></a>
 </div>
 
