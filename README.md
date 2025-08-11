@@ -4,11 +4,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/selfhst/icons">
-  <img src="https://img.shields.io/badge/icons-5,143-0f60d9">
-  <img src="https://img.shields.io/jsdelivr/gh/hm/selfhst/icons">
+  <a href="https://selfh.st/icons"><img src="https://img.shields.io/badge/icons-5,143-0f60d9"></a>
+  <a href="https://github.com/selfhst/icons/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/latest-v2.0.0-9926e0"></a>
+  <a href="https://www.jsdelivr.com/package/gh/selfhst/icons"><img src="https://img.shields.io/jsdelivr/gh/hm/selfhst/icons"></a>
 </div>
 
-## selfh.st/icons
+### selfh.st/icons
 
 [selfh.st/icons](https://selfh.st/icons) is a collection of logos and icons for self-hosted (and non-self-hosted) software.
 
@@ -16,10 +17,10 @@ The collection is available for browsing via the directory at [selfh.st/icons](h
 
 To self-host the collection, users should refer to the [repository's wiki](https://github.com/selfhst/icons/wiki).
 
-## Custom Colors
+### Custom Colors
 
 By default, the directory provides SVG icons (when available) in standard, dark, and light colors. Users looking to display the icons using colors of their choice can become a [paid member of selfh.st](https://selfh.st/perks) or [deploy the collection themselves](https://github.com/selfhst/icons/wiki).
 
-## Requests
+### Requests
 
 Requests for new or updated icons can be made via the repository's [discussions](https://github.com/selfhst/icons/discussions). To ensure quality and consistency, pull requests will not be accepted from unapproved members.
