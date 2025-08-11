@@ -84,25 +84,6 @@ jobs:
         labels: ${{ steps.meta.outputs.labels }}
         cache-from: type=gha
         cache-to: type=gha,mode=max
-    
-    - name: Create GitHub Release
-      uses: softprops/action-gh-release@v1
-      with:
-        tag_name: v${{ steps.version.outputs.version }}
-        name: Release v${{ steps.version.outputs.version }}
-        body: |
-          ## What's Changed
-          - Docker images updated to version ${{ steps.version.outputs.version }}
-          
-          ## Docker Images
-          ```
-          docker pull ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ steps.version.outputs.version }}
-          docker pull ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
-          ```
-          
-          Supported platforms: linux/amd64, linux/arm64, linux/arm/v7
-        draft: true
-        prerelease: false
 
     - name: Output image info
       run: |
