@@ -358,6 +358,72 @@ func handleLegacyIcon(w http.ResponseWriter, r *http.Request) {
 	handleIcon(w, r)
 }
 
+func handleCustomIcon(w http.ResponseWriter, r *http.Request) {
+	vars := mux.Vars(r)
+	filename := vars["filename"]
+
+	if filename == "" {
+		http.Error(w, "Filename is required", http.StatusBadRequest)
+		return
+	}
+
+	// Build the path to the custom icon file
+	customPath := filepath.Join("/app/icons/custom", filename)
+
+	// Debug logging
+	log.Printf("[DEBUG] Looking for custom icon at: %s", customPath)
+
+	// Check if file exists
+	if !fileExists(customPath) {
+		// List directory contents for debugging
+		if files, err := os.ReadDir("/app/icons/custom"); err == nil {
+			var fileList []string
+			for _, file := range files {
+				fileList = append(fileList, file.Name())
+			}
+			log.Printf("[DEBUG] Files in /app/icons/custom: %v", fileList)
+		} else {
+			log.Printf("[DEBUG] Failed to read /app/icons/custom directory: %v", err)
+		}
+		log.Printf("[ERROR] Custom icon not found: \"%s\" at path: %s", filename, customPath)
+		http.Error(w, "Custom icon not found", http.StatusNotFound)
+		return
+	}
+
+	// Read the file
+	data, err := os.ReadFile(customPath)
+	if err != nil {
+		log.Printf("[ERROR] Failed to read custom icon \"%s\": %v", filename, err)
+		http.Error(w, "Failed to read custom icon", http.StatusInternalServerError)
+		return
+	}
+
+	// Determine content type based on file extension
+	ext := strings.ToLower(filepath.Ext(filename))
+	var contentType string
+	switch ext {
+	case ".png":
+		contentType = "image/png"
+	case ".jpg", ".jpeg":
+		contentType = "image/jpeg"
+	case ".gif":
+		contentType = "image/gif"
+	case ".svg":
+		contentType = "image/svg+xml"
+	case ".webp":
+		contentType = "image/webp"
+	case ".ico":
+		contentType = "image/x-icon"
+	default:
+		contentType = "application/octet-stream"
+	}
+
+	log.Printf("[SUCCESS] Serving custom icon: \"%s\" (%s)", filename, contentType)
+
+	w.Header().Set("Content-Type", contentType)
+	w.Write(data)
+}
+
 func handleRoot(w http.ResponseWriter, r *http.Request) {
 	configInfo := map[string]interface{}{
 		"server":    "Self-hosted icon server",
@@ -389,6 +455,9 @@ func main() {
 	cache = NewCache(config.CacheTTL, config.CacheSize)
 
 	r := mux.NewRouter()
+	
+	// Custom icons route: /custom/filename
+	r.HandleFunc("/custom/{filename}", handleCustomIcon).Methods("GET")
 	
 	// Main route: /iconname or /iconname/colorcode
 	r.HandleFunc("/{iconname}", handleIcon).Methods("GET")

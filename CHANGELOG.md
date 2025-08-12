@@ -1,3 +1,9 @@
+# v2.1.0
+
+## What's Changed
+
+* Added optional volume for custom (non-selfh.st) icons ([#495](https://github.com/selfhst/icons/issues/495))
+
 # v2.0.0
 
 ## Breaking Changes
