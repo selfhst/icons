@@ -23242,5 +23242,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-08-12 09:42:13+00:00"
+    },
+    {
+        "Name": "PowerSchool",
+        "Reference": "powerschool",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-08-12 12:27:39+00:00"
     }
 ]
