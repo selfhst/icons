@@ -23254,5 +23254,77 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2025-08-12 12:27:39+00:00"
+    },
+    {
+        "Name": "SchoolMessenger",
+        "Reference": "schoolmessenger",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-08-12 12:43:36+00:00"
+    },
+    {
+        "Name": "Ace Stream",
+        "Reference": "ace-stream",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-08-13 20:41:45+00:00"
+    },
+    {
+        "Name": "rwMarkable",
+        "Reference": "rwmarkable",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-14 09:41:54+00:00"
+    },
+    {
+        "Name": "DataPup",
+        "Reference": "datapup",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-14 09:51:53+00:00"
+    },
+    {
+        "Name": "Calibre-Web-Automated-Book-Downloader",
+        "Reference": "calibre-web-automated-book-downloader",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-14 09:57:02+00:00"
+    },
+    {
+        "Name": "Open Archiver",
+        "Reference": "open-archiver",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-14 10:35:10+00:00"
     }
 ]
