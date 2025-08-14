@@ -13094,11 +13094,11 @@
     {
         "Name": "AliExpress",
         "Reference": "aliexpress",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Other",
         "Tags": "Shopping",
         "CreatedAt": "2025-01-30 14:57:21+00:00"
@@ -23326,5 +23326,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-08-14 10:35:10+00:00"
+    },
+    {
+        "Name": "Spotizerr",
+        "Reference": "spotizerr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-14 12:17:52+00:00"
     }
 ]
