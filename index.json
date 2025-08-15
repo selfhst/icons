@@ -7532,7 +7532,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Self-Hosted",
-        "Tags": "",
+        "Tags": "Usenet",
         "CreatedAt": "2024-09-10 17:02:41+00:00"
     },
     {
@@ -9164,7 +9164,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Self-Hosted",
-        "Tags": "",
+        "Tags": "Usenet",
         "CreatedAt": "2024-10-03 11:16:24+00:00"
     },
     {
@@ -9476,7 +9476,7 @@
         "Light": "No",
         "Dark": "No",
         "Category": "Self-Hosted",
-        "Tags": "",
+        "Tags": "Usenet",
         "CreatedAt": "2024-10-13 11:57:13+00:00"
     },
     {
@@ -22868,7 +22868,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Self-Hosted",
-        "Tags": "",
+        "Tags": "Usenet",
         "CreatedAt": "2025-08-01 09:55:43+00:00"
     },
     {
@@ -23362,5 +23362,125 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-08-14 19:31:57+00:00"
+    },
+    {
+        "Name": "LMS Mixtape",
+        "Reference": "lms-mixtape",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-15 09:51:41+00:00"
+    },
+    {
+        "Name": "Ghostty",
+        "Reference": "ghostty",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-08-15 10:24:34+00:00"
+    },
+    {
+        "Name": "OpenRouter",
+        "Reference": "openrouter",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2025-08-15 10:27:36+00:00"
+    },
+    {
+        "Name": "Newshosting",
+        "Reference": "newshosting",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Usenet",
+        "CreatedAt": "2025-08-15 10:31:48+00:00"
+    },
+    {
+        "Name": "Mysterium",
+        "Reference": "mysterium",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "VPN",
+        "CreatedAt": "2025-08-15 10:33:54+00:00"
+    },
+    {
+        "Name": "Proton Lumo",
+        "Reference": "proton-lumo",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence,Proton",
+        "CreatedAt": "2025-08-15 10:43:00+00:00"
+    },
+    {
+        "Name": "Coursera",
+        "Reference": "coursera",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-08-15 10:44:45+00:00"
+    },
+    {
+        "Name": "Grok",
+        "Reference": "grok",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2025-08-15 10:52:44+00:00"
+    },
+    {
+        "Name": "NotebookLM",
+        "Reference": "notebooklm",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence,Google",
+        "CreatedAt": "2025-08-15 10:57:27+00:00"
+    },
+    {
+        "Name": "Qwik",
+        "Reference": "qwik",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-08-15 11:00:52+00:00"
     }
 ]
