@@ -23482,5 +23482,77 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2025-08-15 11:00:52+00:00"
+    },
+    {
+        "Name": "PuniPuni",
+        "Reference": "punipuni",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-18 09:55:15+00:00"
+    },
+    {
+        "Name": "Nirvati",
+        "Reference": "nirvati",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-18 09:59:13+00:00"
+    },
+    {
+        "Name": "Pango",
+        "Reference": "pango",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-18 10:03:14+00:00"
+    },
+    {
+        "Name": "Alby Hub",
+        "Reference": "alby-hub",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Cryptocurrency",
+        "CreatedAt": "2025-08-18 10:11:09+00:00"
+    },
+    {
+        "Name": "AIOStreams",
+        "Reference": "aiostreams",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-18 10:12:59+00:00"
+    },
+    {
+        "Name": "GoCron",
+        "Reference": "gocron",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-18 10:19:21+00:00"
     }
 ]
