@@ -23710,5 +23710,41 @@
         "Category": "Self-Hosted",
         "Tags": "Artificial Intelligence",
         "CreatedAt": "2025-08-19 09:58:13+00:00"
+    },
+    {
+        "Name": "Cr*nMaster",
+        "Reference": "cr-nmaster",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-20 09:30:16+00:00"
+    },
+    {
+        "Name": "PlexAuth",
+        "Reference": "plexauth",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-20 09:38:42+00:00"
+    },
+    {
+        "Name": "Portainer (v1)",
+        "Reference": "portainer-v1",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-20 09:52:02+00:00"
     }
 ]
