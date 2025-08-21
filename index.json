@@ -410,11 +410,11 @@
     {
         "Name": "Bazarr",
         "Reference": "bazarr",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-08-19 16:29:07+00:00"
@@ -23794,5 +23794,17 @@
         "Category": "Other",
         "Tags": "Automobiles",
         "CreatedAt": "2025-08-20 10:11:02+00:00"
+    },
+    {
+        "Name": "Portainer (Pink)",
+        "Reference": "portainer-pink",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-21 09:42:26+00:00"
     }
 ]
