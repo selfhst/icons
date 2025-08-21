@@ -23806,5 +23806,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-08-21 09:42:26+00:00"
+    },
+    {
+        "Name": "phpSysInfo",
+        "Reference": "phpsysinfo",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-21 10:07:26+00:00"
     }
 ]
