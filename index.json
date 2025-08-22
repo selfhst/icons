@@ -2354,11 +2354,11 @@
     {
         "Name": "Kometa",
         "Reference": "kometa",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-08-23 18:31:11+00:00"
@@ -23842,5 +23842,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-08-21 18:42:12+00:00"
+    },
+    {
+        "Name": "Peekaping",
+        "Reference": "peekaping",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-22 09:43:02+00:00"
     }
 ]
