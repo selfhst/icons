@@ -23854,5 +23854,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-08-22 09:43:02+00:00"
+    },
+    {
+        "Name": "PSWD",
+        "Reference": "pswd",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-24 10:28:34+00:00"
+    },
+    {
+        "Name": "Timesy",
+        "Reference": "timesy",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-24 10:29:55+00:00"
+    },
+    {
+        "Name": "Calmness",
+        "Reference": "calmness",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-24 10:31:44+00:00"
     }
 ]
