@@ -8828,7 +8828,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Self-Hosted,Other",
-        "Tags": "Operating System",
+        "Tags": "Operating System,Synology",
         "CreatedAt": "2024-09-22 10:15:54+00:00"
     },
     {
@@ -24022,5 +24022,89 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-08-27 09:54:11+00:00"
+    },
+    {
+        "Name": "nanoSmart",
+        "Reference": "nanosmart",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-28 09:35:22+00:00"
+    },
+    {
+        "Name": "Profilarr",
+        "Reference": "profilarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-28 17:29:26+00:00"
+    },
+    {
+        "Name": "Filedrop",
+        "Reference": "filedrop",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-28 19:09:45+00:00"
+    },
+    {
+        "Name": "Agregarr",
+        "Reference": "agregarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-08-28 19:27:41+00:00"
+    },
+    {
+        "Name": "Grass.io",
+        "Reference": "grass-io",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-08-28 20:36:38+00:00"
+    },
+    {
+        "Name": "Synology Photos",
+        "Reference": "synology-photos",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "Synology",
+        "CreatedAt": "2025-08-29 09:23:31+00:00"
+    },
+    {
+        "Name": "Surveillance Station",
+        "Reference": "surveillance-station",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "Synology",
+        "CreatedAt": "2025-08-29 09:23:47+00:00"
     }
 ]
