@@ -24334,5 +24334,53 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2025-08-31 11:49:54+00:00"
+    },
+    {
+        "Name": "Shields.io",
+        "Reference": "shields-io",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-09-01 10:07:52+00:00"
+    },
+    {
+        "Name": "Secrover",
+        "Reference": "secrover",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-01 10:19:02+00:00"
+    },
+    {
+        "Name": "Chhoto URL",
+        "Reference": "chhoto-url",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-01 10:41:17+00:00"
+    },
+    {
+        "Name": "Eternal Vows",
+        "Reference": "eternal-vows",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-01 10:55:08+00:00"
     }
 ]
