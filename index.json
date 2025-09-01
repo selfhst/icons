@@ -12806,11 +12806,11 @@
     {
         "Name": "PufferPanel",
         "Reference": "pufferpanel",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-01-24 23:29:36+00:00"
