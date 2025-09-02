@@ -24394,5 +24394,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-09-02 09:12:48+00:00"
+    },
+    {
+        "Name": "Gopeed",
+        "Reference": "gopeed",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-02 10:43:12+00:00"
+    },
+    {
+        "Name": "Pogocache",
+        "Reference": "pogocache",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-02 11:55:43+00:00"
+    },
+    {
+        "Name": "Sprout Track",
+        "Reference": "sprout-track",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-02 12:04:10+00:00"
     }
 ]
