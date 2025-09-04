@@ -24502,5 +24502,65 @@
         "Category": "Other",
         "Tags": "Video Games",
         "CreatedAt": "2025-09-03 09:56:05+00:00"
+    },
+    {
+        "Name": "/dev/push",
+        "Reference": "dev-push",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-03 14:15:34+00:00"
+    },
+    {
+        "Name": "DoorOpener",
+        "Reference": "dooropener",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-04 00:51:12+00:00"
+    },
+    {
+        "Name": "VitePress",
+        "Reference": "vitepress",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-09-04 00:53:45+00:00"
+    },
+    {
+        "Name": "Nuxt",
+        "Reference": "nuxt",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-09-04 00:54:22+00:00"
+    },
+    {
+        "Name": "Vue.js",
+        "Reference": "vue-js",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-09-04 00:55:55+00:00"
     }
 ]
