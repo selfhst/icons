@@ -24562,5 +24562,41 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2025-09-04 00:55:55+00:00"
+    },
+    {
+        "Name": "Ambys",
+        "Reference": "ambys",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-04 18:46:22+00:00"
+    },
+    {
+        "Name": "Sharry",
+        "Reference": "sharry",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-05 10:01:07+00:00"
+    },
+    {
+        "Name": "Stylus",
+        "Reference": "stylus",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-05 19:42:27+00:00"
     }
 ]
