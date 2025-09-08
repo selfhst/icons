@@ -4584,8 +4584,8 @@
         "CreatedAt": "2024-09-06 09:45:55+00:00"
     },
     {
-        "Name": "RSS Translator",
-        "Reference": "rss-translator",
+        "Name": "RSSBox",
+        "Reference": "rssbox",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
