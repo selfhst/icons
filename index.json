@@ -24598,5 +24598,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-09-05 19:42:27+00:00"
+    },
+    {
+        "Name": "DosVault",
+        "Reference": "dosvault",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Video Games",
+        "CreatedAt": "2025-09-08 10:02:20+00:00"
+    },
+    {
+        "Name": "Container Hub",
+        "Reference": "container-hub",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-08 10:07:55+00:00"
+    },
+    {
+        "Name": "Flint",
+        "Reference": "flint",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-08 10:10:41+00:00"
+    },
+    {
+        "Name": "OurSchool",
+        "Reference": "ourschool",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-08 10:13:10+00:00"
     }
 ]
