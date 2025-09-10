@@ -8954,11 +8954,11 @@
     {
         "Name": "Suwayomi",
         "Reference": "suwayomi",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-09-30 10:03:21+00:00"
@@ -24670,5 +24670,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-09-10 09:02:13+00:00"
+    },
+    {
+        "Name": "Pixelfin",
+        "Reference": "pixelfin",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-10 09:52:49+00:00"
+    },
+    {
+        "Name": "Reel",
+        "Reference": "reel",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-10 10:01:42+00:00"
+    },
+    {
+        "Name": "DockFlare",
+        "Reference": "dockflare",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-10 10:23:20+00:00"
     }
 ]
