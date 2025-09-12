@@ -24730,5 +24730,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-09-11 09:10:01+00:00"
+    },
+    {
+        "Name": "SoulSync",
+        "Reference": "soulsync",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-12 09:08:28+00:00"
     }
 ]
