@@ -2558,11 +2558,11 @@
     {
         "Name": "Linkwarden",
         "Reference": "linkwarden",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-08-26 11:48:34+00:00"
