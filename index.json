@@ -11160,13 +11160,13 @@
         "CreatedAt": "2024-12-12 11:00:35+00:00"
     },
     {
-        "Name": "LinuxContainers",
-        "Reference": "linuxcontainers",
+        "Name": "Linux Containers (LXC)",
+        "Reference": "linux-containers-lxc",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-12-12 11:03:14+00:00"
@@ -24766,5 +24766,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-09-12 23:21:40+00:00"
+    },
+    {
+        "Name": "PDFMathTranslate",
+        "Reference": "pdfmathtranslate",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-14 11:18:06+00:00"
+    },
+    {
+        "Name": "Invio",
+        "Reference": "invio",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-14 11:54:37+00:00"
+    },
+    {
+        "Name": "Diun Dash",
+        "Reference": "diun-dash",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-14 12:01:19+00:00"
+    },
+    {
+        "Name": "Syncwave",
+        "Reference": "syncwave",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-14 12:24:00+00:00"
     }
 ]
