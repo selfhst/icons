@@ -24934,5 +24934,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-09-15 12:19:05+00:00"
+    },
+    {
+        "Name": "Youtarr",
+        "Reference": "youtarr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-16 09:16:41+00:00"
+    },
+    {
+        "Name": "Lufin",
+        "Reference": "lufin",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-16 09:28:49+00:00"
+    },
+    {
+        "Name": "Visual DB",
+        "Reference": "visual-db",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-16 10:04:05+00:00"
+    },
+    {
+        "Name": "Unraid Guardian",
+        "Reference": "unraid-guardian",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-16 10:14:08+00:00"
     }
 ]
