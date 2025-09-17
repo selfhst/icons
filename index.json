@@ -24982,5 +24982,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-09-16 10:14:08+00:00"
+    },
+    {
+        "Name": "Wally",
+        "Reference": "wally",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-16 14:39:14+00:00"
+    },
+    {
+        "Name": "Night Watcher",
+        "Reference": "night-watcher",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-17 09:15:28+00:00"
+    },
+    {
+        "Name": "Apache Superset",
+        "Reference": "apache-superset",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-17 09:27:14+00:00"
+    },
+    {
+        "Name": "Atria",
+        "Reference": "atria",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-17 09:47:42+00:00"
     }
 ]
