@@ -25030,5 +25030,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-09-17 09:47:42+00:00"
+    },
+    {
+        "Name": "Dockform",
+        "Reference": "dockform",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-17 11:58:24+00:00"
+    },
+    {
+        "Name": "Nanote",
+        "Reference": "nanote",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-17 20:03:46+00:00"
+    },
+    {
+        "Name": "PlexAniBridge",
+        "Reference": "plexanibridge",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-18 09:40:34+00:00"
+    },
+    {
+        "Name": "Rocky Linux",
+        "Reference": "rocky-linux",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Operating System",
+        "CreatedAt": "2025-09-18 10:21:01+00:00"
+    },
+    {
+        "Name": "VerneMQ",
+        "Reference": "vernemq",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-18 10:24:07+00:00"
     }
 ]
