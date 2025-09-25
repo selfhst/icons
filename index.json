@@ -25258,5 +25258,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-09-23 10:50:45+00:00"
+    },
+    {
+        "Name": "HabitSync",
+        "Reference": "habitsync",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-25 09:35:28+00:00"
+    },
+    {
+        "Name": "QuickBars",
+        "Reference": "quickbars",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-09-25 09:42:17+00:00"
     }
 ]
