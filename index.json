@@ -25318,5 +25318,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-09-29 10:01:34+00:00"
+    },
+    {
+        "Name": "ComicOPDS",
+        "Reference": "comicopds",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-01 10:04:15+00:00"
+    },
+    {
+        "Name": "CookCLI",
+        "Reference": "cookcli",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-01 10:26:51+00:00"
     }
 ]
