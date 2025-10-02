@@ -6288,8 +6288,8 @@
         "CreatedAt": "2024-09-10 09:37:09+00:00"
     },
     {
-        "Name": "Microsoft Teams",
-        "Reference": "microsoft-teams",
+        "Name": "Microsoft Teams (2018)",
+        "Reference": "microsoft-teams-2018",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -6492,8 +6492,8 @@
         "CreatedAt": "2024-09-10 09:48:54+00:00"
     },
     {
-        "Name": "Microsoft Outlook",
-        "Reference": "microsoft-outlook",
+        "Name": "Microsoft Outlook (2018)",
+        "Reference": "microsoft-outlook-2018",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -6912,8 +6912,8 @@
         "CreatedAt": "2024-09-10 11:17:54+00:00"
     },
     {
-        "Name": "Microsoft Excel",
-        "Reference": "microsoft-excel",
+        "Name": "Microsoft Excel (2018)",
+        "Reference": "microsoft-excel-2018",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -6924,8 +6924,8 @@
         "CreatedAt": "2024-09-10 11:18:27+00:00"
     },
     {
-        "Name": "Microsoft OneDrive",
-        "Reference": "microsoft-onedrive",
+        "Name": "Microsoft OneDrive (2018)",
+        "Reference": "microsoft-onedrive-2018",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -6936,8 +6936,8 @@
         "CreatedAt": "2024-09-10 11:18:58+00:00"
     },
     {
-        "Name": "Microsoft OneNote",
-        "Reference": "microsoft-onenote",
+        "Name": "Microsoft OneNote (2018)",
+        "Reference": "microsoft-onenote-2018",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -6948,8 +6948,8 @@
         "CreatedAt": "2024-09-10 11:19:28+00:00"
     },
     {
-        "Name": "Microsoft PowerPoint",
-        "Reference": "microsoft-powerpoint",
+        "Name": "Microsoft PowerPoint (2018)",
+        "Reference": "microsoft-powerpoint-2018",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -6972,8 +6972,8 @@
         "CreatedAt": "2024-09-10 11:20:30+00:00"
     },
     {
-        "Name": "Microsoft Word",
-        "Reference": "microsoft-word",
+        "Name": "Microsoft Word (2018)",
+        "Reference": "microsoft-word-2018",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -25510,5 +25510,101 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-02 09:14:39+00:00"
+    },
+    {
+        "Name": "Quetre",
+        "Reference": "quetre",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-02 14:54:19+00:00"
+    },
+    {
+        "Name": "Microsoft OneDrive",
+        "Reference": "microsoft-onedrive",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Microsoft,Office",
+        "CreatedAt": "2025-10-02 15:30:51+00:00"
+    },
+    {
+        "Name": "Microsoft OneNote",
+        "Reference": "microsoft-onenote",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Microsoft,Office",
+        "CreatedAt": "2025-10-02 15:55:29+00:00"
+    },
+    {
+        "Name": "Microsoft Outlook",
+        "Reference": "microsoft-outlook",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Microsoft,Office",
+        "CreatedAt": "2025-10-02 16:03:20+00:00"
+    },
+    {
+        "Name": "Microsoft PowerPoint",
+        "Reference": "microsoft-powerpoint",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Microsoft,Office",
+        "CreatedAt": "2025-10-02 16:06:23+00:00"
+    },
+    {
+        "Name": "Microsoft Excel",
+        "Reference": "microsoft-excel",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Microsoft,Office",
+        "CreatedAt": "2025-10-02 16:10:59+00:00"
+    },
+    {
+        "Name": "Microsoft Word",
+        "Reference": "microsoft-word",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Microsoft,Office",
+        "CreatedAt": "2025-10-02 16:15:18+00:00"
+    },
+    {
+        "Name": "Microsoft Teams",
+        "Reference": "microsoft-teams",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Microsoft,Office",
+        "CreatedAt": "2025-10-02 16:18:50+00:00"
     }
 ]
