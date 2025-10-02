@@ -25498,5 +25498,17 @@
         "Category": "Other",
         "Tags": "Microsoft,Office",
         "CreatedAt": "2025-10-01 18:30:04+00:00"
+    },
+    {
+        "Name": "DockMon",
+        "Reference": "dockmon",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-02 09:14:39+00:00"
     }
 ]
