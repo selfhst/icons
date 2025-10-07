@@ -5222,11 +5222,11 @@
     {
         "Name": "Tiny Tiny RSS",
         "Reference": "tiny-tiny-rss",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-09-06 15:30:34+00:00"
@@ -25642,5 +25642,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-06 11:20:01+00:00"
+    },
+    {
+        "Name": "Sonobarr",
+        "Reference": "sonobarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-07 09:47:46+00:00"
+    },
+    {
+        "Name": "TubeTimeout",
+        "Reference": "tubetimeout",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-07 09:52:37+00:00"
     }
 ]
