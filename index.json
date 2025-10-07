@@ -25666,5 +25666,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-07 09:52:37+00:00"
+    },
+    {
+        "Name": "Private Captcha",
+        "Reference": "private-captcha",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-07 10:02:03+00:00"
     }
 ]
