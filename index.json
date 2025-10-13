@@ -25786,5 +25786,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-13 10:32:57+00:00"
+    },
+    {
+        "Name": "nextExplorer",
+        "Reference": "nextexplorer",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-13 10:38:58+00:00"
     }
 ]
