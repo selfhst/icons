@@ -25714,5 +25714,77 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-09 13:09:26+00:00"
+    },
+    {
+        "Name": "BentoPDF",
+        "Reference": "bentopdf",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-13 10:10:08+00:00"
+    },
+    {
+        "Name": "SMARTFOX",
+        "Reference": "smartfox",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-10-13 10:20:05+00:00"
+    },
+    {
+        "Name": "Boxarr",
+        "Reference": "boxarr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-13 10:23:04+00:00"
+    },
+    {
+        "Name": "Miles & More",
+        "Reference": "miles-and-more",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Airlines",
+        "CreatedAt": "2025-10-13 10:27:14+00:00"
+    },
+    {
+        "Name": "Lufthansa",
+        "Reference": "lufthansa",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Airlines",
+        "CreatedAt": "2025-10-13 10:28:25+00:00"
+    },
+    {
+        "Name": "VMware ESX",
+        "Reference": "vmware-esx",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-13 10:32:57+00:00"
     }
 ]
