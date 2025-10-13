@@ -7464,8 +7464,8 @@
         "CreatedAt": "2024-09-10 13:30:05+00:00"
     },
     {
-        "Name": "Apple TV+",
-        "Reference": "apple-tv-plus",
+        "Name": "Apple TV",
+        "Reference": "apple-tv",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
