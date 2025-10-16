@@ -25798,5 +25798,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-13 10:38:58+00:00"
+    },
+    {
+        "Name": "PequeRoku",
+        "Reference": "pequeroku",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-15 09:52:53+00:00"
+    },
+    {
+        "Name": "Poznote",
+        "Reference": "poznote",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-16 11:41:51+00:00"
+    },
+    {
+        "Name": "Shopware",
+        "Reference": "shopware",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-16 11:43:50+00:00"
     }
 ]
