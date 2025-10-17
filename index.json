@@ -25834,5 +25834,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-16 11:43:50+00:00"
+    },
+    {
+        "Name": "File Portal",
+        "Reference": "file-portal",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-16 17:01:22+00:00"
+    },
+    {
+        "Name": "Vertigo (Comics)",
+        "Reference": "vertigo-comics",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-17 09:21:39+00:00"
+    },
+    {
+        "Name": "Kite (Kubernetes)",
+        "Reference": "kite-kubernetes",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-17 09:21:51+00:00"
     }
 ]
