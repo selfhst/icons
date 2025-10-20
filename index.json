@@ -25870,5 +25870,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-17 09:21:51+00:00"
+    },
+    {
+        "Name": "jfa-go",
+        "Reference": "jfa-go",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-20 22:57:05+00:00"
+    },
+    {
+        "Name": "Seagate",
+        "Reference": "seagate",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-10-20 22:58:23+00:00"
+    },
+    {
+        "Name": "Zorin OS",
+        "Reference": "zorin-os",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Operating System",
+        "CreatedAt": "2025-10-20 23:00:08+00:00"
     }
 ]
