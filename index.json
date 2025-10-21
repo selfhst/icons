@@ -25930,5 +25930,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-21 10:07:05+00:00"
+    },
+    {
+        "Name": "Jotty",
+        "Reference": "jotty",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-21 21:27:14+00:00"
     }
 ]
