@@ -25906,5 +25906,29 @@
         "Category": "Other",
         "Tags": "Operating System",
         "CreatedAt": "2025-10-20 23:00:08+00:00"
+    },
+    {
+        "Name": "Folding@home",
+        "Reference": "folding-home",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-10-21 09:23:21+00:00"
+    },
+    {
+        "Name": "IronCalc",
+        "Reference": "ironcalc",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-21 10:07:05+00:00"
     }
 ]
