@@ -25942,5 +25942,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-21 21:27:14+00:00"
+    },
+    {
+        "Name": "qui",
+        "Reference": "qui",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-22 12:22:21+00:00"
+    },
+    {
+        "Name": "Minne",
+        "Reference": "minne",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-22 12:38:29+00:00"
+    },
+    {
+        "Name": "PatchMon",
+        "Reference": "patchmon",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-22 20:08:22+00:00"
+    },
+    {
+        "Name": "Dashwise",
+        "Reference": "dashwise",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-23 09:30:53+00:00"
     }
 ]
