@@ -25990,5 +25990,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-23 09:30:53+00:00"
+    },
+    {
+        "Name": "ChronoFrame",
+        "Reference": "chronoframe",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-23 18:21:25+00:00"
+    },
+    {
+        "Name": "Guardian (Plex)",
+        "Reference": "guardian-plex",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-23 21:04:20+00:00"
+    },
+    {
+        "Name": "Nightlio",
+        "Reference": "nightlio",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-24 09:25:58+00:00"
     }
 ]
