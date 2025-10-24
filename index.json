@@ -26026,5 +26026,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-24 09:25:58+00:00"
+    },
+    {
+        "Name": "Streamyfin",
+        "Reference": "streamyfin",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-24 10:13:30+00:00"
+    },
+    {
+        "Name": "Penn State Nittany Lions",
+        "Reference": "penn-state-nittany-lions",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Sports",
+        "CreatedAt": "2025-10-24 10:18:53+00:00"
     }
 ]
