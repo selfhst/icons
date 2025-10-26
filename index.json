@@ -26050,5 +26050,29 @@
         "Category": "Other",
         "Tags": "Sports",
         "CreatedAt": "2025-10-24 10:18:53+00:00"
+    },
+    {
+        "Name": "Scuttle",
+        "Reference": "scuttle",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-24 18:18:47+00:00"
+    },
+    {
+        "Name": "Onetime Secret",
+        "Reference": "onetime-secret",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-26 20:24:25+00:00"
     }
 ]
