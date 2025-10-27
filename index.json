@@ -5573,8 +5573,8 @@
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-09-06 20:26:32+00:00"
@@ -26074,5 +26074,101 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-26 20:24:25+00:00"
+    },
+    {
+        "Name": "Gosuki",
+        "Reference": "gosuki",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-27 09:48:38+00:00"
+    },
+    {
+        "Name": "Alexandrie",
+        "Reference": "alexandrie",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-27 09:54:41+00:00"
+    },
+    {
+        "Name": "UptimeKit",
+        "Reference": "uptimekit",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-27 09:57:42+00:00"
+    },
+    {
+        "Name": "MusicBrainz",
+        "Reference": "musicbrainz",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-10-27 10:03:02+00:00"
+    },
+    {
+        "Name": "MusicBrainz Picard",
+        "Reference": "musicbrainz-picard",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-10-27 10:08:20+00:00"
+    },
+    {
+        "Name": "ListenBrainz",
+        "Reference": "listenbrainz",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-27 10:09:30+00:00"
+    },
+    {
+        "Name": "SoulSolid",
+        "Reference": "soulsolid",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-27 10:13:38+00:00"
+    },
+    {
+        "Name": "Networking Toolbox",
+        "Reference": "networking-toolbox",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-27 10:18:21+00:00"
     }
 ]
