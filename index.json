@@ -21026,11 +21026,11 @@
     {
         "Name": "Gitea Mirror",
         "Reference": "gitea-mirror",
-        "SVG": "Yes",
+        "SVG": "No",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "Yes",
-        "Dark": "Yes",
+        "Light": "No",
+        "Dark": "No",
         "Category": "Self-Hosted",
         "Tags": "Git",
         "CreatedAt": "2025-06-02 10:15:43+00:00"
@@ -26230,5 +26230,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-28 13:07:51+00:00"
+    },
+    {
+        "Name": "Super Productivity",
+        "Reference": "super-productivity",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-10-30 14:27:12+00:00"
     }
 ]
