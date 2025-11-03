@@ -26242,5 +26242,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-10-30 14:27:12+00:00"
+    },
+    {
+        "Name": "Posterizarr",
+        "Reference": "posterizarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-03 10:33:20+00:00"
+    },
+    {
+        "Name": "SnowShare",
+        "Reference": "snowshare",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-03 10:34:46+00:00"
     }
 ]
