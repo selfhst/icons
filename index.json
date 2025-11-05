@@ -26266,5 +26266,77 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-11-03 10:34:46+00:00"
+    },
+    {
+        "Name": "Safebox",
+        "Reference": "safebox",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-03 14:30:41+00:00"
+    },
+    {
+        "Name": "Unblink",
+        "Reference": "unblink",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-05 10:17:00+00:00"
+    },
+    {
+        "Name": "HyperDX",
+        "Reference": "hyperdx",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-05 10:21:50+00:00"
+    },
+    {
+        "Name": "BlueMap",
+        "Reference": "bluemap",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "Minecraft,Video Games",
+        "CreatedAt": "2025-11-05 10:25:18+00:00"
+    },
+    {
+        "Name": "Postgresus",
+        "Reference": "postgresus",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-05 10:48:16+00:00"
+    },
+    {
+        "Name": "WYGIWYH",
+        "Reference": "wygiwyh",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-05 11:10:13+00:00"
     }
 ]
