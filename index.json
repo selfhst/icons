@@ -26338,5 +26338,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-11-05 11:10:13+00:00"
+    },
+    {
+        "Name": "Zigbee",
+        "Reference": "zigbee",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-11-05 17:50:44+00:00"
     }
 ]
