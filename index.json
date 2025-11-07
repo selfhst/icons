@@ -26350,5 +26350,53 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2025-11-05 17:50:44+00:00"
+    },
+    {
+        "Name": "NoteDiscovery",
+        "Reference": "notediscovery",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-06 13:47:01+00:00"
+    },
+    {
+        "Name": "Plezy",
+        "Reference": "plezy",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-06 14:05:30+00:00"
+    },
+    {
+        "Name": "Splunk",
+        "Reference": "splunk",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-11-07 10:18:04+00:00"
+    },
+    {
+        "Name": "Doco-CD",
+        "Reference": "doco-cd",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-07 10:30:09+00:00"
     }
 ]
