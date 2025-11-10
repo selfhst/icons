@@ -26398,5 +26398,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-11-07 10:30:09+00:00"
+    },
+    {
+        "Name": "JellySwarm",
+        "Reference": "jellyswarm",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-07 21:04:40+00:00"
+    },
+    {
+        "Name": "SplitPro",
+        "Reference": "splitpro",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-10 10:11:19+00:00"
+    },
+    {
+        "Name": "Portal (Relay)",
+        "Reference": "portal-relay",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-10 10:20:57+00:00"
+    },
+    {
+        "Name": "8mb.local",
+        "Reference": "8mb-local",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-10 10:44:35+00:00"
+    },
+    {
+        "Name": "StitchTracker",
+        "Reference": "stitchtracker",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-10 10:49:24+00:00"
     }
 ]
