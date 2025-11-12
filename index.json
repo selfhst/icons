@@ -26518,5 +26518,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-11-11 10:17:25+00:00"
+    },
+    {
+        "Name": "Dex (Auth)",
+        "Reference": "dex-auth",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-12 11:04:17+00:00"
+    },
+    {
+        "Name": "OpenFGA",
+        "Reference": "openfga",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-12 11:07:28+00:00"
     }
 ]
