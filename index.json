@@ -26542,5 +26542,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-11-12 11:07:28+00:00"
+    },
+    {
+        "Name": "nemorosa",
+        "Reference": "nemorosa",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-13 10:59:30+00:00"
     }
 ]
