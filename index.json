@@ -26554,5 +26554,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-11-13 10:59:30+00:00"
+    },
+    {
+        "Name": "mergerfs",
+        "Reference": "mergerfs",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-13 13:08:51+00:00"
     }
 ]
