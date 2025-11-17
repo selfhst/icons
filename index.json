@@ -26590,5 +26590,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-11-14 09:48:20+00:00"
+    },
+    {
+        "Name": "LogLynx",
+        "Reference": "loglynx",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-17 10:15:25+00:00"
+    },
+    {
+        "Name": "Kagi",
+        "Reference": "kagi",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-11-17 10:26:26+00:00"
+    },
+    {
+        "Name": "Ocular",
+        "Reference": "ocular",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-17 11:56:19+00:00"
     }
 ]
