@@ -26662,5 +26662,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-11-19 10:52:15+00:00"
+    },
+    {
+        "Name": "Eonvelope",
+        "Reference": "eonvelope",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-19 10:59:36+00:00"
+    },
+    {
+        "Name": "Nixopus",
+        "Reference": "nixopus",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-20 10:37:16+00:00"
+    },
+    {
+        "Name": "Journiv",
+        "Reference": "journiv",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-20 10:48:31+00:00"
+    },
+    {
+        "Name": "SpendSpentSpent",
+        "Reference": "spendspentspent",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-20 10:54:15+00:00"
     }
 ]
