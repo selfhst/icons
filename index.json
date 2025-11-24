@@ -5069,8 +5069,8 @@
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-09-06 14:17:40+00:00"
@@ -26734,5 +26734,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-11-20 20:08:27+00:00"
+    },
+    {
+        "Name": "Conslee",
+        "Reference": "conslee",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-24 11:03:03+00:00"
+    },
+    {
+        "Name": "Makers Vault",
+        "Reference": "makers-vault",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-24 11:03:19+00:00"
+    },
+    {
+        "Name": "Free (ISP)",
+        "Reference": "free-isp",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Cellular Carriers",
+        "CreatedAt": "2025-11-24 12:14:07+00:00"
+    },
+    {
+        "Name": "withoutbg",
+        "Reference": "withoutbg",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-24 12:21:29+00:00"
+    },
+    {
+        "Name": "OpenCCU",
+        "Reference": "openccu",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-24 12:37:00+00:00"
     }
 ]
