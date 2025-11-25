@@ -26772,7 +26772,7 @@
         "CreatedAt": "2025-11-24 12:14:07+00:00"
     },
     {
-        "Name": "withoutbg",
+        "Name": "withoutBG",
         "Reference": "withoutbg",
         "SVG": "Yes",
         "PNG": "Yes",
@@ -26794,5 +26794,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-11-24 12:37:00+00:00"
+    },
+    {
+        "Name": "Borg UI",
+        "Reference": "borg-ui",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-25 10:57:41+00:00"
+    },
+    {
+        "Name": "Easy Redmine",
+        "Reference": "easy-redmine",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-25 11:15:24+00:00"
+    },
+    {
+        "Name": "Robinson",
+        "Reference": "robinson",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-25 11:18:47+00:00"
     }
 ]
