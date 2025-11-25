@@ -117,7 +117,7 @@ func loadConfig() *Config {
 	return &Config{
 		Port:               port,
 		IconSource:         iconSource,
-		JSDelivrURL:        "https://cdn.jsdelivr.net/gh/selfhst/icons",
+		JSDelivrURL:        "https://cdn.jsdelivr.net/gh/selfhst/icons@main",
 		LocalPath:          "/app/icons",
 		StandardIconFormat: standardFormat,
 		CacheTTL:           time.Hour,

@@ -1,3 +1,9 @@
+# v2.2.0
+
+## What's Changed
+
+* Remote source now points to main branch to ensure latest icons are fetched
+
 # v2.1.0
 
 ## What's Changed
