@@ -935,6 +935,18 @@
         "Tags": "",
         "CreatedAt": "2024-08-22 11:16:48+00:00"
     },
+		{
+        "Name": "DiscoPanel",
+        "Reference": "discopanel",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-29 18:36:00+00:00"
+    },
     {
         "Name": "Discourse",
         "Reference": "discourse",
