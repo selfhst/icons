@@ -26854,5 +26854,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-11-28 10:58:50+00:00"
+    },
+    {
+        "Name": "DiscoPanel",
+        "Reference": "discopanel",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Minecraft,Video Games",
+        "CreatedAt": "2025-11-30 11:23:21+00:00"
+    },
+    {
+        "Name": "iPlayarr",
+        "Reference": "iplayarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-30 11:40:55+00:00"
+    },
+    {
+        "Name": "OpenAdServer",
+        "Reference": "openadserver",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-11-30 12:01:43+00:00"
     }
 ]
