@@ -26938,5 +26938,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-12-01 11:05:17+00:00"
+    },
+    {
+        "Name": "ComfyUI",
+        "Reference": "comfyui",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2025-12-01 13:46:10+00:00"
+    },
+    {
+        "Name": "Jeedom",
+        "Reference": "jeedom",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-01 13:48:14+00:00"
+    },
+    {
+        "Name": "OTS",
+        "Reference": "ots",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-01 13:53:59+00:00"
+    },
+    {
+        "Name": "Upgopher",
+        "Reference": "upgopher",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-01 14:07:01+00:00"
+    },
+    {
+        "Name": "Verdaccio",
+        "Reference": "verdaccio",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-01 14:10:39+00:00"
     }
 ]
