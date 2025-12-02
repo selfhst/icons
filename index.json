@@ -27394,5 +27394,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-12-01 22:18:34+00:00"
+    },
+    {
+        "Name": "Edubuntu",
+        "Reference": "edubuntu",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Operating System",
+        "CreatedAt": "2025-12-02 10:50:08+00:00"
+    },
+    {
+        "Name": "Kubuntu",
+        "Reference": "kubuntu",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Operating System",
+        "CreatedAt": "2025-12-02 10:51:44+00:00"
+    },
+    {
+        "Name": "Xubuntu",
+        "Reference": "xubuntu",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Operating System",
+        "CreatedAt": "2025-12-02 10:53:59+00:00"
+    },
+    {
+        "Name": "PruneMate",
+        "Reference": "prunemate",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-02 11:16:07+00:00"
     }
 ]
