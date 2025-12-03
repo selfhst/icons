@@ -6728,7 +6728,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Other",
-        "Tags": "Microsoft",
+        "Tags": "Microsoft,Operating System",
         "CreatedAt": "2024-09-10 10:08:45+00:00"
     },
     {
@@ -6824,7 +6824,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Other",
-        "Tags": "Microsoft",
+        "Tags": "Microsoft,Operating System",
         "CreatedAt": "2024-09-10 10:29:27+00:00"
     },
     {
@@ -27442,5 +27442,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-12-02 11:16:07+00:00"
+    },
+    {
+        "Name": "Virola",
+        "Reference": "virola",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-02 11:48:58+00:00"
+    },
+    {
+        "Name": "here/now",
+        "Reference": "here-now",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-02 12:52:20+00:00"
+    },
+    {
+        "Name": "cooklang-chef",
+        "Reference": "cooklang-chef",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-03 10:25:44+00:00"
+    },
+    {
+        "Name": "Bichon",
+        "Reference": "bichon",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-03 11:06:43+00:00"
+    },
+    {
+        "Name": "Parity (Unraid)",
+        "Reference": "parity-unraid",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-03 11:12:06+00:00"
     }
 ]
