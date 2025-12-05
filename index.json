@@ -27562,5 +27562,29 @@
         "Category": "Other",
         "Tags": "Operating System",
         "CreatedAt": "2025-12-04 16:17:20+00:00"
+    },
+    {
+        "Name": "Ecowitt",
+        "Reference": "ecowitt",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-12-05 09:55:59+00:00"
+    },
+    {
+        "Name": "Pingora Proxy Manager",
+        "Reference": "pingora-proxy-manager",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-05 10:12:28+00:00"
     }
 ]
