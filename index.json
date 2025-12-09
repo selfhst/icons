@@ -27634,5 +27634,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-12-08 11:23:52+00:00"
+    },
+    {
+        "Name": "Norish",
+        "Reference": "norish",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-09 12:46:45+00:00"
+    },
+    {
+        "Name": "Notifuse",
+        "Reference": "notifuse",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-09 12:48:39+00:00"
     }
 ]
