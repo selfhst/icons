@@ -27694,5 +27694,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-12-12 17:06:27+00:00"
+    },
+    {
+        "Name": "Relic (Storage)",
+        "Reference": "relic-storage",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-15 11:08:11+00:00"
+    },
+    {
+        "Name": "Scanopy",
+        "Reference": "scanopy",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-15 11:38:52+00:00"
     }
 ]
