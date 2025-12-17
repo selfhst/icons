@@ -27718,5 +27718,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-12-15 11:38:52+00:00"
+    },
+    {
+        "Name": "Tracearr",
+        "Reference": "tracearr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-17 02:04:54+00:00"
     }
 ]
