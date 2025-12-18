@@ -27730,5 +27730,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-12-17 02:04:54+00:00"
+    },
+    {
+        "Name": "Bitify",
+        "Reference": "bitify",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-18 10:36:19+00:00"
+    },
+    {
+        "Name": "Koffan",
+        "Reference": "koffan",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-18 10:39:36+00:00"
+    },
+    {
+        "Name": "Newsku",
+        "Reference": "newsku",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-18 10:48:48+00:00"
+    },
+    {
+        "Name": "Gmail Cleaner",
+        "Reference": "gmail-cleaner",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-18 10:55:00+00:00"
     }
 ]
