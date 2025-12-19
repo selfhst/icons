@@ -27778,5 +27778,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-12-18 10:55:00+00:00"
+    },
+    {
+        "Name": "Whisper Money",
+        "Reference": "whisper-money",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-18 12:11:19+00:00"
+    },
+    {
+        "Name": "KamiYomu",
+        "Reference": "kamiyomu",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-18 20:14:38+00:00"
+    },
+    {
+        "Name": "TradingView",
+        "Reference": "tradingview",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2025-12-19 11:27:15+00:00"
+    },
+    {
+        "Name": "Octopus (Deploy)",
+        "Reference": "octopus-deploy",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-19 11:29:02+00:00"
+    },
+    {
+        "Name": "Maker Management Platform",
+        "Reference": "maker-management-platform",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-19 11:30:55+00:00"
     }
 ]
