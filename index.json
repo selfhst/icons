@@ -27838,5 +27838,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-12-19 11:30:55+00:00"
+    },
+    {
+        "Name": "Oak (Identity)",
+        "Reference": "oak-identity",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-19 15:25:26+00:00"
     }
 ]
