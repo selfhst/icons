@@ -27850,5 +27850,77 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-12-19 15:25:26+00:00"
+    },
+    {
+        "Name": "Surmai",
+        "Reference": "surmai",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-22 10:15:49+00:00"
+    },
+    {
+        "Name": "MKVToolNix",
+        "Reference": "mkvtoolnix",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-22 10:18:47+00:00"
+    },
+    {
+        "Name": "InstradaOGM",
+        "Reference": "instradaogm",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-22 10:23:25+00:00"
+    },
+    {
+        "Name": "Piler",
+        "Reference": "piler",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-22 10:28:08+00:00"
+    },
+    {
+        "Name": "Libre Wedding Planner",
+        "Reference": "libre-wedding-planner",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-22 10:47:55+00:00"
+    },
+    {
+        "Name": "Listseerr",
+        "Reference": "listseerr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-22 10:59:05+00:00"
     }
 ]
