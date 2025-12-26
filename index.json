@@ -26316,8 +26316,8 @@
         "CreatedAt": "2025-11-05 10:25:18+00:00"
     },
     {
-        "Name": "Postgresus",
-        "Reference": "postgresus",
+        "Name": "Databasus",
+        "Reference": "databasus",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -27922,5 +27922,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-12-22 10:59:05+00:00"
+    },
+    {
+        "Name": "Cinephage",
+        "Reference": "cinephage",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-23 18:38:39+00:00"
+    },
+    {
+        "Name": "Swiish",
+        "Reference": "swiish",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-23 18:50:25+00:00"
+    },
+    {
+        "Name": "Tugtainer",
+        "Reference": "tugtainer",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-23 18:58:02+00:00"
+    },
+    {
+        "Name": "Rackarr",
+        "Reference": "rackarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-26 13:02:27+00:00"
     }
 ]
