@@ -28102,5 +28102,29 @@
         "Category": "Other",
         "Tags": "Shopping",
         "CreatedAt": "2025-12-29 11:52:37+00:00"
+    },
+    {
+        "Name": "Voux",
+        "Reference": "voux",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-29 17:38:03+00:00"
+    },
+    {
+        "Name": "Homescreen Hero",
+        "Reference": "homescreen-hero",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2025-12-31 11:50:37+00:00"
     }
 ]
