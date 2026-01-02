@@ -28294,5 +28294,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-02 17:48:11+00:00"
+    },
+    {
+        "Name": "MantisBT",
+        "Reference": "mantisbt",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-02 17:55:28+00:00"
     }
 ]
