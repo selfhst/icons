@@ -88,10 +88,10 @@ jobs:
 
     - name: Output image info
       run: |
-        echo "🐳 Images built and pushed:"
+        echo "Images built and pushed:"
         echo "${{ steps.meta.outputs.tags }}" | sed 's/^/  - /'
         echo ""
-        echo "🏗️ Supported architectures:"
-        echo "  - linux/amd64 (Intel/AMD x86_64)"
-        echo "  - linux/arm64 (ARM 64-bit, Apple M1, Raspberry Pi 4)"
-        echo "  - linux/arm/v7 (ARM 32-bit, Raspberry Pi 2/3)"
+        echo "Supported architectures:"
+        echo "  - linux/amd64"
+        echo "  - linux/arm64"
+        echo "  - linux/arm/v7"

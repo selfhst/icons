@@ -1,13 +1,1 @@
-node_modules
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.git
-.gitignore
-README.md
-.env
-.nyc_output
-coverage
-.vscode
-.DS_Store
-*.log
+VERSION

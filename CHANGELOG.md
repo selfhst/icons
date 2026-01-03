@@ -1,3 +1,15 @@
+# v3.0.0
+
+## Breaking Changes
+
+The legacy custom color URL ```domain.com/icon.svg?color=000000``` is no longer supported. See the [supported methods for building URLs](https://github.com/selfhst/icons/wiki#building-links) in the project's wiki if this change impacts you.
+
+## What's Changed
+
+* Added support for the new AVIF and ICO formats
+* Updated Go version to [v1.25](https://go.dev/doc/go1.25)
+* Removed unmaintained [gorilla/mux](https://github.com/gorilla/mux) external dependency in favor of [net/http enhancements introduced in Go 1.22](https://go.dev/blog/routing-enhancements)
+
 # v2.2.0
 
 ## What's Changed

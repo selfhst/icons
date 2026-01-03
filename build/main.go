@@ -12,8 +12,6 @@ import (
 	"strings"
 	"sync"
 	"time"
-
-	"github.com/gorilla/mux"
 )
 
 type Config struct {
@@ -67,7 +65,6 @@ func (c *Cache) Set(key, value string) {
 	c.mutex.Lock()
 	defer c.mutex.Unlock()
 
-	// Remove oldest item if cache is full
 	if len(c.items) >= c.max {
 		var oldestKey string
 		var oldestTime time.Time
@@ -109,8 +106,8 @@ func loadConfig() *Config {
 	if standardFormat == "" {
 		standardFormat = "svg"
 	}
-	// Validate format
-	if standardFormat != "svg" && standardFormat != "png" && standardFormat != "webp" {
+
+	if standardFormat != "svg" && standardFormat != "png" && standardFormat != "webp" && standardFormat != "avif" && standardFormat != "ico" {
 		standardFormat = "svg"
 	}
 
@@ -173,14 +170,12 @@ func fetchRemoteFile(url string) (string, error) {
 func applySVGColor(svgContent, colorCode string) string {
 	color := "#" + colorCode
 	
-	// Replace style fill attributes
 	re1 := regexp.MustCompile(`style="[^"]*fill:\s*#fff[^"]*"`)
 	svgContent = re1.ReplaceAllStringFunc(svgContent, func(match string) string {
 		re2 := regexp.MustCompile(`fill:\s*#fff`)
 		return re2.ReplaceAllString(match, "fill:"+color)
 	})
 	
-	// Replace direct fill attributes
 	re3 := regexp.MustCompile(`fill="#fff"`)
 	svgContent = re3.ReplaceAllString(svgContent, `fill="`+color+`"`)
 	
@@ -193,6 +188,10 @@ func getContentType(format string) string {
 		return "image/png"
 	case "webp":
 		return "image/webp"
+	case "avif":
+		return "image/avif"
+	case "ico":
+		return "image/x-icon"
 	case "svg":
 		return "image/svg+xml"
 	default:
@@ -208,16 +207,14 @@ func getCacheKey(iconName, colorCode string) string {
 }
 
 func handleIcon(w http.ResponseWriter, r *http.Request) {
-	vars := mux.Vars(r)
-	iconName := vars["iconname"]
-	colorCode := vars["colorcode"]
+	iconName := r.PathValue("iconname")
+	colorCode := r.PathValue("colorcode")
 
 	if iconName == "" {
 		http.Error(w, "Icon name is required", http.StatusBadRequest)
 		return
 	}
 
-	// Validate color if provided
 	if colorCode != "" && !isValidHexColor(colorCode) {
 		log.Printf("[ERROR] Invalid color code for icon \"%s\": %s", iconName, colorCode)
 		http.Error(w, "Invalid color code. Use 6-digit hex without #", http.StatusBadRequest)
@@ -226,21 +223,17 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 
 	cacheKey := getCacheKey(iconName, colorCode)
 
-	// Determine content type and format to serve
 	var contentType string
 	var formatToServe string
 	
 	if colorCode != "" {
-		// Always use SVG for colorization
 		contentType = "image/svg+xml"
 		formatToServe = "svg"
 	} else {
-		// Use standard format when no color specified
 		contentType = getContentType(config.StandardIconFormat)
 		formatToServe = config.StandardIconFormat
 	}
 
-	// Check cache first
 	if cached, found := cache.Get(cacheKey); found {
 		log.Printf("[CACHE] Serving cached icon: \"%s\"%s (%s)", iconName, 
 			func() string { if colorCode != "" { return " with color " + colorCode } else { return "" } }(),
@@ -254,9 +247,7 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 	var err error
 
 	if config.IconSource == "local" {
-		// Use local volume
 		if colorCode != "" {
-			// Try to find -light version for colorization (always SVG)
 			lightPath := filepath.Join(config.LocalPath, "svg", iconName+"-light.svg")
 			if fileExists(lightPath) {
 				iconContent, err = readLocalFile(lightPath)
@@ -265,12 +256,10 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 				}
 			}
 		} else {
-			// No color - try to serve standard format
 			var standardPath string
 			if formatToServe == "svg" {
 				standardPath = filepath.Join(config.LocalPath, "svg", iconName+".svg")
 			} else {
-				// For PNG/WebP, use format-specific directories
 				standardPath = filepath.Join(config.LocalPath, formatToServe, iconName+"."+formatToServe)
 			}
 			
@@ -279,7 +268,6 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 			}
 		}
 		
-		// Fall back to SVG if standard format not found
 		if iconContent == "" {
 			svgPath := filepath.Join(config.LocalPath, "svg", iconName+".svg")
 			if fileExists(svgPath) {
@@ -289,9 +277,7 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 			}
 		}
 	} else {
-		// Use remote CDN
 		if colorCode != "" {
-			// Try to find -light version for colorization (always SVG)
 			lightURL := config.JSDelivrURL + "/svg/" + iconName + "-light.svg"
 			if urlExists(lightURL) {
 				iconContent, err = fetchRemoteFile(lightURL)
@@ -300,7 +286,6 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 				}
 			}
 		} else {
-			// No color - try to serve standard format
 			var standardURL string
 			if formatToServe == "svg" {
 				standardURL = config.JSDelivrURL + "/svg/" + iconName + ".svg"
@@ -313,7 +298,6 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 			}
 		}
 		
-		// Fall back to SVG if standard format not found
 		if iconContent == "" {
 			svgURL := config.JSDelivrURL + "/svg/" + iconName + ".svg"
 			iconContent, err = fetchRemoteFile(svgURL)
@@ -330,7 +314,6 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Cache the result
 	cache.Set(cacheKey, iconContent)
 
 	log.Printf("[SUCCESS] Serving icon: \"%s\"%s (%s, source: %s)", iconName,
@@ -341,41 +324,19 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 	w.Write([]byte(iconContent))
 }
 
-func handleLegacyIcon(w http.ResponseWriter, r *http.Request) {
-	vars := mux.Vars(r)
-	colorQuery := r.URL.Query().Get("color")
-
-	var colorCode string
-	if colorQuery != "" {
-		cleanColor := strings.TrimPrefix(colorQuery, "#")
-		if isValidHexColor(cleanColor) {
-			colorCode = cleanColor
-		}
-	}
-
-	// Redirect internally to new handler
-	vars["colorcode"] = colorCode
-	handleIcon(w, r)
-}
-
 func handleCustomIcon(w http.ResponseWriter, r *http.Request) {
-	vars := mux.Vars(r)
-	filename := vars["filename"]
+	filename := r.PathValue("filename")
 
 	if filename == "" {
 		http.Error(w, "Filename is required", http.StatusBadRequest)
 		return
 	}
 
-	// Build the path to the custom icon file
 	customPath := filepath.Join("/app/icons/custom", filename)
 
-	// Debug logging
 	log.Printf("[DEBUG] Looking for custom icon at: %s", customPath)
 
-	// Check if file exists
 	if !fileExists(customPath) {
-		// List directory contents for debugging
 		if files, err := os.ReadDir("/app/icons/custom"); err == nil {
 			var fileList []string
 			for _, file := range files {
@@ -390,7 +351,6 @@ func handleCustomIcon(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Read the file
 	data, err := os.ReadFile(customPath)
 	if err != nil {
 		log.Printf("[ERROR] Failed to read custom icon \"%s\": %v", filename, err)
@@ -398,7 +358,6 @@ func handleCustomIcon(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Determine content type based on file extension
 	ext := strings.ToLower(filepath.Ext(filename))
 	var contentType string
 	switch ext {
@@ -412,6 +371,8 @@ func handleCustomIcon(w http.ResponseWriter, r *http.Request) {
 		contentType = "image/svg+xml"
 	case ".webp":
 		contentType = "image/webp"
+	case ".avif":
+		contentType = "image/avif"
 	case ".ico":
 		contentType = "image/x-icon"
 	default:
@@ -454,20 +415,14 @@ func main() {
 	config = loadConfig()
 	cache = NewCache(config.CacheTTL, config.CacheSize)
 
-	r := mux.NewRouter()
-	
-	// Custom icons route: /custom/filename
-	r.HandleFunc("/custom/{filename}", handleCustomIcon).Methods("GET")
-	
-	// Main route: /iconname or /iconname/colorcode
-	r.HandleFunc("/{iconname}", handleIcon).Methods("GET")
-	r.HandleFunc("/{iconname}/{colorcode}", handleIcon).Methods("GET")
-	
-	// Legacy route: /iconname.svg?color=colorcode
-	r.HandleFunc("/{iconname}.svg", handleLegacyIcon).Methods("GET")
-	
-	// Root endpoint
-	r.HandleFunc("/", handleRoot).Methods("GET")
+	mux := http.NewServeMux()
+
+	mux.HandleFunc("GET /custom/{filename}", handleCustomIcon)
+
+	mux.HandleFunc("GET /{iconname}/{colorcode}", handleIcon)
+	mux.HandleFunc("GET /{iconname}", handleIcon)
+
+	mux.HandleFunc("GET /", handleRoot)
 
 	log.Printf("Icon server listening on port %s", config.Port)
 	log.Printf("Icon source: %s", func() string {
@@ -478,5 +433,5 @@ func main() {
 	}())
 	log.Printf("Cache settings: TTL %ds, Max %d items", int(config.CacheTTL.Seconds()), config.CacheSize)
 
-	log.Fatal(http.ListenAndServe(":"+config.Port, r))
+	log.Fatal(http.ListenAndServe(":"+config.Port, mux))
 }
