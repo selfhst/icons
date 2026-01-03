@@ -7565,8 +7565,8 @@
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2024-09-10 17:08:40+00:00"
@@ -8323,7 +8323,7 @@
         "WebP": "Yes",
         "Light": "Yes",
         "Dark": "Yes",
-        "Category": "Self-Hosted,ActivityPub",
+        "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-09-13 13:35:11+00:00"
     },
@@ -28306,5 +28306,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-02 17:55:28+00:00"
+    },
+    {
+        "Name": "Hypermind",
+        "Reference": "hypermind",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-03 10:40:04+00:00"
     }
 ]
