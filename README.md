@@ -27,7 +27,9 @@ When available, SVG icons are used as the starting point for all icon formats. O
 | PNG | All |
 | WebP | All |
 | AVIF | All |
-| ICO | All |
+| ICO<sup>1</sup> | All |
+
+<sup>1</sup>Includes the following sizes: 16x16, 32x32, 48x48, 64x64, 128x128
 
 ## Custom Colors
 

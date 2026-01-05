@@ -28318,5 +28318,101 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-03 10:40:04+00:00"
+    },
+    {
+        "Name": "Spotify to Plex",
+        "Reference": "spotify-to-plex",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-05 11:11:04+00:00"
+    },
+    {
+        "Name": "Playerr",
+        "Reference": "playerr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-05 11:13:28+00:00"
+    },
+    {
+        "Name": "ThinkRead",
+        "Reference": "thinkread",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-05 11:18:14+00:00"
+    },
+    {
+        "Name": "Crow CI",
+        "Reference": "crow-ci",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-05 12:52:06+00:00"
+    },
+    {
+        "Name": "Swiparr",
+        "Reference": "swiparr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-05 12:56:33+00:00"
+    },
+    {
+        "Name": "Questarr",
+        "Reference": "questarr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-05 12:58:01+00:00"
+    },
+    {
+        "Name": "Minecraft Creeper",
+        "Reference": "minecraft-creeper",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Minecraft,Video Games",
+        "CreatedAt": "2026-01-05 13:06:23+00:00"
+    },
+    {
+        "Name": "Minecraft (Detailed)",
+        "Reference": "minecraft-detailed",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "Minecraft,Video Games",
+        "CreatedAt": "2026-01-05 13:11:02+00:00"
     }
 ]
