@@ -28414,5 +28414,29 @@
         "Category": "Other",
         "Tags": "Minecraft,Video Games",
         "CreatedAt": "2026-01-05 13:11:02+00:00"
+    },
+    {
+        "Name": "Workout Tracker",
+        "Reference": "workout-tracker",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-06 10:12:39+00:00"
+    },
+    {
+        "Name": "OptiStack",
+        "Reference": "optistack",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-06 12:26:10+00:00"
     }
 ]
