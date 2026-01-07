@@ -28438,5 +28438,89 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-06 12:26:10+00:00"
+    },
+    {
+        "Name": "TimeTracker",
+        "Reference": "timetracker",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-07 10:32:24+00:00"
+    },
+    {
+        "Name": "Curator (Bookmarks)",
+        "Reference": "curator-bookmarks",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-07 10:35:54+00:00"
+    },
+    {
+        "Name": "MintHCM",
+        "Reference": "minthcm",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-07 10:40:05+00:00"
+    },
+    {
+        "Name": "Databasement",
+        "Reference": "databasement",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-07 11:03:01+00:00"
+    },
+    {
+        "Name": "ClovaLink",
+        "Reference": "clovalink",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-07 11:06:56+00:00"
+    },
+    {
+        "Name": "Logwell",
+        "Reference": "logwell",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-07 11:10:56+00:00"
+    },
+    {
+        "Name": "Agam Space",
+        "Reference": "agam-space",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-07 11:16:56+00:00"
     }
 ]
