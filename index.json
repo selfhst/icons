@@ -28522,5 +28522,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-07 11:16:56+00:00"
+    },
+    {
+        "Name": "Replane",
+        "Reference": "replane",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-07 14:01:39+00:00"
+    },
+    {
+        "Name": "qbitwebui",
+        "Reference": "qbitwebui",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-07 17:58:44+00:00"
+    },
+    {
+        "Name": "Senlo",
+        "Reference": "senlo",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-08 11:09:01+00:00"
+    },
+    {
+        "Name": "GWN Manager",
+        "Reference": "gwn-manager",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-01-08 11:11:55+00:00"
+    },
+    {
+        "Name": "LogLibrarian",
+        "Reference": "loglibrarian",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-08 11:12:10+00:00"
     }
 ]
