@@ -28582,5 +28582,77 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-08 11:12:10+00:00"
+    },
+    {
+        "Name": "GeoPulse",
+        "Reference": "geopulse",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-08 15:23:22+00:00"
+    },
+    {
+        "Name": "AdGuard Home Central Manager",
+        "Reference": "adguard-home-central-manager",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-08 15:54:31+00:00"
+    },
+    {
+        "Name": "SyncLyrics",
+        "Reference": "synclyrics",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-08 16:11:53+00:00"
+    },
+    {
+        "Name": "PDFCraft",
+        "Reference": "pdfcraft",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-08 19:19:22+00:00"
+    },
+    {
+        "Name": "AtlasNode",
+        "Reference": "atlasnode",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-08 20:46:30+00:00"
+    },
+    {
+        "Name": "Shrinkray",
+        "Reference": "shrinkray",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-09 10:12:15+00:00"
     }
 ]
