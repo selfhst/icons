@@ -28882,5 +28882,29 @@
         "Category": "Self-Hosted",
         "Tags": "Frappe",
         "CreatedAt": "2026-01-12 12:21:40+00:00"
+    },
+    {
+        "Name": "Perses",
+        "Reference": "perses",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-13 10:18:14+00:00"
+    },
+    {
+        "Name": "DockPilot",
+        "Reference": "dockpilot",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-13 12:41:20+00:00"
     }
 ]
