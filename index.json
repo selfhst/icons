@@ -28906,5 +28906,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-13 12:41:20+00:00"
+    },
+    {
+        "Name": "SimpleDMS",
+        "Reference": "simpledms",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-14 10:28:26+00:00"
+    },
+    {
+        "Name": "Nametag",
+        "Reference": "nametag",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-14 10:31:33+00:00"
+    },
+    {
+        "Name": "nodecast-tv",
+        "Reference": "nodecast-tv",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-14 10:34:56+00:00"
     }
 ]
