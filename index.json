@@ -28942,5 +28942,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-14 10:34:56+00:00"
+    },
+    {
+        "Name": "Coneshare",
+        "Reference": "coneshare",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-14 14:23:26+00:00"
+    },
+    {
+        "Name": "Tinfoil",
+        "Reference": "tinfoil",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Video Games",
+        "CreatedAt": "2026-01-14 19:44:28+00:00"
+    },
+    {
+        "Name": "YugabyteDB",
+        "Reference": "yugabytedb",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-01-15 11:21:06+00:00"
     }
 ]
