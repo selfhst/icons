@@ -28978,5 +28978,17 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-01-15 11:21:06+00:00"
+    },
+    {
+        "Name": "Aurral",
+        "Reference": "aurral",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-16 10:16:23+00:00"
     }
 ]
