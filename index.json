@@ -28990,5 +28990,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-16 10:16:23+00:00"
+    },
+    {
+        "Name": "Fava",
+        "Reference": "fava",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-16 12:23:46+00:00"
+    },
+    {
+        "Name": "string.is",
+        "Reference": "string-is",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-16 12:23:53+00:00"
+    },
+    {
+        "Name": "Sortarr",
+        "Reference": "sortarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-16 12:28:20+00:00"
     }
 ]
