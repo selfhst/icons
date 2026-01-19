@@ -29026,5 +29026,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-16 12:28:20+00:00"
+    },
+    {
+        "Name": "ThingsBoard",
+        "Reference": "thingsboard",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-19 10:52:02+00:00"
     }
 ]
