@@ -29038,5 +29038,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-19 10:52:02+00:00"
+    },
+    {
+        "Name": "MarkStack",
+        "Reference": "markstack",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-20 11:18:44+00:00"
+    },
+    {
+        "Name": "Portabase",
+        "Reference": "portabase",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-21 10:17:21+00:00"
+    },
+    {
+        "Name": "LidBrainz",
+        "Reference": "lidbrainz",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-21 10:39:41+00:00"
+    },
+    {
+        "Name": "AuralArchive",
+        "Reference": "auralarchive",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-21 10:55:31+00:00"
     }
 ]
