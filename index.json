@@ -13442,11 +13442,11 @@
     {
         "Name": "Shelfmark",
         "Reference": "shelfmark",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-02-05 10:24:08+00:00"
@@ -29086,5 +29086,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-21 10:55:31+00:00"
+    },
+    {
+        "Name": "Self-Hosted Metrics",
+        "Reference": "self-hosted-metrics",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-21 13:14:17+00:00"
+    },
+    {
+        "Name": "cobalt",
+        "Reference": "cobalt",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-22 10:27:52+00:00"
+    },
+    {
+        "Name": "XplicitTrust",
+        "Reference": "xplicittrust",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "VPN",
+        "CreatedAt": "2026-01-22 10:30:53+00:00"
+    },
+    {
+        "Name": "Beets-flask",
+        "Reference": "beets-flask",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-22 10:34:16+00:00"
     }
 ]
