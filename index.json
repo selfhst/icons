@@ -2018,11 +2018,11 @@
     {
         "Name": "Homepage",
         "Reference": "homepage",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-08-23 12:05:27+00:00"
@@ -29134,5 +29134,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-22 10:34:16+00:00"
+    },
+    {
+        "Name": "Crontab Guru",
+        "Reference": "crontab-guru",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-22 11:13:51+00:00"
+    },
+    {
+        "Name": "PriceGhost",
+        "Reference": "priceghost",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-23 10:21:26+00:00"
     }
 ]
