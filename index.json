@@ -29158,5 +29158,89 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-23 10:21:26+00:00"
+    },
+    {
+        "Name": "7-Zip",
+        "Reference": "7-zip",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-01-24 23:22:09+00:00"
+    },
+    {
+        "Name": "Salesforce",
+        "Reference": "salesforce",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-01-24 23:23:19+00:00"
+    },
+    {
+        "Name": "ViniPlay",
+        "Reference": "viniplay",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-24 23:25:33+00:00"
+    },
+    {
+        "Name": "IRS",
+        "Reference": "irs",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-01-24 23:27:14+00:00"
+    },
+    {
+        "Name": "Social Security Administration",
+        "Reference": "social-security-administration",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-01-24 23:31:24+00:00"
+    },
+    {
+        "Name": "Contabo",
+        "Reference": "contabo",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-01-24 23:34:55+00:00"
+    },
+    {
+        "Name": "Pulp Project",
+        "Reference": "pulp-project",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-24 23:37:58+00:00"
     }
 ]
