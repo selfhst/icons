@@ -29242,5 +29242,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-24 23:37:58+00:00"
+    },
+    {
+        "Name": "Debrid Unlimited Media Bridge",
+        "Reference": "debrid-unlimited-media-bridge",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-26 10:17:39+00:00"
+    },
+    {
+        "Name": "Urocissa",
+        "Reference": "urocissa",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-26 10:37:41+00:00"
+    },
+    {
+        "Name": "Ignidash",
+        "Reference": "ignidash",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-26 10:43:55+00:00"
+    },
+    {
+        "Name": "Initiative (Project Management)",
+        "Reference": "initiative-project-management",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-26 10:47:59+00:00"
+    },
+    {
+        "Name": "FilaMeter",
+        "Reference": "filameter",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-26 10:57:15+00:00"
     }
 ]
