@@ -29302,5 +29302,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-01-26 10:57:15+00:00"
+    },
+    {
+        "Name": "YouTube Watcher",
+        "Reference": "youtube-watcher",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-27 11:13:15+00:00"
+    },
+    {
+        "Name": "Ideon",
+        "Reference": "ideon",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-27 13:14:43+00:00"
+    },
+    {
+        "Name": "Moltbot",
+        "Reference": "moltbot",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-28 10:47:14+00:00"
     }
 ]
