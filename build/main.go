@@ -169,16 +169,27 @@ func fetchRemoteFile(url string) (string, error) {
 
 func applySVGColor(svgContent, colorCode string) string {
 	color := "#" + colorCode
-	
+
+	// Replace fill:#fff
 	re1 := regexp.MustCompile(`style="[^"]*fill:\s*#fff[^"]*"`)
 	svgContent = re1.ReplaceAllStringFunc(svgContent, func(match string) string {
 		re2 := regexp.MustCompile(`fill:\s*#fff`)
 		return re2.ReplaceAllString(match, "fill:"+color)
 	})
-	
+
 	re3 := regexp.MustCompile(`fill="#fff"`)
 	svgContent = re3.ReplaceAllString(svgContent, `fill="`+color+`"`)
-	
+
+	// Replace stop-color:#fff in gradients
+	re4 := regexp.MustCompile(`style="[^"]*stop-color:\s*#fff[^"]*"`)
+	svgContent = re4.ReplaceAllStringFunc(svgContent, func(match string) string {
+		re5 := regexp.MustCompile(`stop-color:\s*#fff`)
+		return re5.ReplaceAllString(match, "stop-color:"+color)
+	})
+
+	re6 := regexp.MustCompile(`stop-color="#fff"`)
+	svgContent = re6.ReplaceAllString(svgContent, `stop-color="`+color+`"`)
+
 	return svgContent
 }
 
