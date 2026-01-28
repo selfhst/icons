@@ -1,3 +1,9 @@
+# v3.1.0
+
+## What's Changed
+
+* Updated logic to also replace gradient fills with custom colors when applicable
+
 # v3.0.0
 
 ## Breaking Changes
