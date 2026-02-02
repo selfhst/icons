@@ -54,7 +54,6 @@ func (c *Cache) Get(key string) (string, bool) {
 	}
 
 	if time.Since(item.Timestamp) > c.ttl {
-		delete(c.items, key)
 		return "", false
 	}
 
@@ -429,6 +428,11 @@ func main() {
 	mux := http.NewServeMux()
 
 	mux.HandleFunc("GET /custom/{filename}", handleCustomIcon)
+
+	// Suppress favicon load error message in logs when viewing via browser
+	mux.HandleFunc("GET /favicon.ico", func(w http.ResponseWriter, r *http.Request) {
+		w.WriteHeader(http.StatusNoContent)
+	})
 
 	mux.HandleFunc("GET /{iconname}/{colorcode}", handleIcon)
 	mux.HandleFunc("GET /{iconname}", handleIcon)

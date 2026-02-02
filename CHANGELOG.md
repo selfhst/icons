@@ -1,3 +1,10 @@
+# v3.1.1
+
+## What's Changed
+
+* Fixed crash caused by concurrent writes under high load ([#684](https://github.com/selfhst/icons/issues/684))
+* Suppress favicon error log message when viewing icons directly from a browser
+
 # v3.1.0
 
 ## What's Changed
