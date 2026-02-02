@@ -29328,8 +29328,20 @@
         "CreatedAt": "2026-01-27 13:14:43+00:00"
     },
     {
-        "Name": "Moltbot",
-        "Reference": "moltbot",
+        "Name": "OpenClaw",
+        "Reference": "openclaw",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-01-28 10:47:14+00:00"
+    },
+    {
+        "Name": "LastSignal",
+        "Reference": "lastsignal",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -29337,6 +29349,114 @@
         "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
-        "CreatedAt": "2026-01-28 10:47:14+00:00"
+        "CreatedAt": "2026-01-28 20:22:17+00:00"
+    },
+    {
+        "Name": "Harbor Scale",
+        "Reference": "harbor-scale",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-01-29 10:34:08+00:00"
+    },
+    {
+        "Name": "YACReader",
+        "Reference": "yacreader",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-02-02 10:52:03+00:00"
+    },
+    {
+        "Name": "YACReaderLibrary",
+        "Reference": "yacreaderlibrary",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-02 10:52:30+00:00"
+    },
+    {
+        "Name": "llama.cpp",
+        "Reference": "llama-cpp",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-02-02 10:54:30+00:00"
+    },
+    {
+        "Name": "GL.iNet",
+        "Reference": "gl-inet",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-02-02 10:57:56+00:00"
+    },
+    {
+        "Name": "WattBox",
+        "Reference": "wattbox",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-02-02 11:07:13+00:00"
+    },
+    {
+        "Name": "ZimaOS",
+        "Reference": "zimaos",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Operating System",
+        "CreatedAt": "2026-02-02 11:13:20+00:00"
+    },
+    {
+        "Name": "Xfinity",
+        "Reference": "xfinity",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Cellular Carriers,Streaming",
+        "CreatedAt": "2026-02-02 11:17:14+00:00"
+    },
+    {
+        "Name": "UptimeRobot",
+        "Reference": "uptimerobot",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-02-02 11:31:08+00:00"
     }
 ]
