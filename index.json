@@ -29458,5 +29458,65 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-02-02 11:31:08+00:00"
+    },
+    {
+        "Name": "OpenSSH",
+        "Reference": "openssh",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-02-03 17:07:42+00:00"
+    },
+    {
+        "Name": "Yazi",
+        "Reference": "yazi",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-02-03 17:09:50+00:00"
+    },
+    {
+        "Name": "Fresh (Editor)",
+        "Reference": "fresh-editor",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-02-03 17:12:39+00:00"
+    },
+    {
+        "Name": "QDirStat",
+        "Reference": "qdirstat",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-03 17:15:23+00:00"
+    },
+    {
+        "Name": "Cloudflare Zero Trust",
+        "Reference": "cloudflare-zero-trust",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-02-04 11:03:44+00:00"
     }
 ]
