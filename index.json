@@ -29518,5 +29518,53 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-02-04 11:03:44+00:00"
+    },
+    {
+        "Name": "Logchef",
+        "Reference": "logchef",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-04 12:24:25+00:00"
+    },
+    {
+        "Name": "Neohabit",
+        "Reference": "neohabit",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-04 16:19:40+00:00"
+    },
+    {
+        "Name": "TYPO3",
+        "Reference": "typo3",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-04 22:02:19+00:00"
+    },
+    {
+        "Name": "Notepad++",
+        "Reference": "notepad-plus-plus",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-02-05 10:56:27+00:00"
     }
 ]
