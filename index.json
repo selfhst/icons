@@ -29614,5 +29614,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-02-05 12:40:00+00:00"
+    },
+    {
+        "Name": "Riffle",
+        "Reference": "riffle",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-05 15:39:43+00:00"
+    },
+    {
+        "Name": "Plumio",
+        "Reference": "plumio",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-06 09:58:37+00:00"
+    },
+    {
+        "Name": "Dynacat",
+        "Reference": "dynacat",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-06 10:11:55+00:00"
     }
 ]
