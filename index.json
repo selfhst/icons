@@ -29650,5 +29650,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-02-06 10:11:55+00:00"
+    },
+    {
+        "Name": "ReadMeABook",
+        "Reference": "readmeabook",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-09 10:03:42+00:00"
+    },
+    {
+        "Name": "HomeDock OS",
+        "Reference": "homedock-os",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Operating System",
+        "CreatedAt": "2026-02-09 10:07:01+00:00"
+    },
+    {
+        "Name": "DJI Logbook",
+        "Reference": "dji-logbook",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-09 10:46:45+00:00"
+    },
+    {
+        "Name": "onWatch",
+        "Reference": "onwatch",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-02-09 10:51:24+00:00"
+    },
+    {
+        "Name": "GitBundle",
+        "Reference": "gitbundle",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Git",
+        "CreatedAt": "2026-02-09 10:58:53+00:00"
     }
 ]
