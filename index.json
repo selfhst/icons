@@ -29770,5 +29770,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-02-10 11:21:17+00:00"
+    },
+    {
+        "Name": "KoShelf",
+        "Reference": "koshelf",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-11 10:40:54+00:00"
+    },
+    {
+        "Name": "PowerDNS",
+        "Reference": "powerdns",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-11 10:44:48+00:00"
+    },
+    {
+        "Name": "OxiCloud",
+        "Reference": "oxicloud",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Cloud Storage",
+        "CreatedAt": "2026-02-11 11:12:19+00:00"
+    },
+    {
+        "Name": "FrankMD",
+        "Reference": "frankmd",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-11 11:29:23+00:00"
+    },
+    {
+        "Name": "Revel",
+        "Reference": "revel",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-11 11:34:17+00:00"
     }
 ]
