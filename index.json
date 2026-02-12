@@ -29842,5 +29842,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-02-11 12:02:57+00:00"
+    },
+    {
+        "Name": "drydock",
+        "Reference": "drydock",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-12 10:40:10+00:00"
+    },
+    {
+        "Name": "Zensical",
+        "Reference": "zensical",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-12 10:42:49+00:00"
+    },
+    {
+        "Name": "Kaneo",
+        "Reference": "kaneo",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-12 10:53:45+00:00"
     }
 ]
