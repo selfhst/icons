@@ -30070,5 +30070,17 @@
         "Category": "Other",
         "Tags": "Microsoft",
         "CreatedAt": "2026-02-13 14:11:12+00:00"
+    },
+    {
+        "Name": "Twenty (CRM)",
+        "Reference": "twenty-crm",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-13 16:49:44+00:00"
     }
 ]
