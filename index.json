@@ -29926,5 +29926,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-02-13 10:36:32+00:00"
+    },
+    {
+        "Name": "Will Be Done",
+        "Reference": "will-be-done",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-13 10:44:10+00:00"
+    },
+    {
+        "Name": "aMuTorrent",
+        "Reference": "amutorrent",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-13 10:47:07+00:00"
     }
 ]
