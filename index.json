@@ -30082,5 +30082,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-02-13 16:49:44+00:00"
+    },
+    {
+        "Name": "Seerr",
+        "Reference": "seerr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-15 09:33:13+00:00"
     }
 ]
