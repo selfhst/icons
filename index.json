@@ -30214,5 +30214,89 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-02-16 11:45:50+00:00"
+    },
+    {
+        "Name": "Onyka",
+        "Reference": "onyka",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-17 10:12:52+00:00"
+    },
+    {
+        "Name": "Aeterna",
+        "Reference": "aeterna",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-17 10:17:07+00:00"
+    },
+    {
+        "Name": "SlotPoll",
+        "Reference": "slotpoll",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-17 10:24:19+00:00"
+    },
+    {
+        "Name": "GoSpeak",
+        "Reference": "gospeak",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-17 10:31:33+00:00"
+    },
+    {
+        "Name": "Launcharr",
+        "Reference": "launcharr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-17 10:37:09+00:00"
+    },
+    {
+        "Name": "MediKeep",
+        "Reference": "medikeep",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-17 10:46:23+00:00"
+    },
+    {
+        "Name": "Scoutarr",
+        "Reference": "scoutarr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-17 10:49:34+00:00"
     }
 ]
