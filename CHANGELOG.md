@@ -1,3 +1,12 @@
+# v3.2.0
+
+## What's Changed
+
+* [Feature] Added PRIMARY_COLOR variable to easily apply a single custom color to all icons (see Wiki for additional details)
+* [Feature] Added REMOTE_URL to allow users to serve icons from their own remote sources (see Wiki for additional details) ([#690](https://github.com/selfhst/icons/issues/690))
+* Reduced remote icon load time by removing redundant existence checks
+* Updated Go version to [v1.26](https://go.dev/doc/go1.26)
+
 # v3.1.1
 
 ## What's Changed
@@ -19,7 +28,7 @@ The legacy custom color URL ```domain.com/icon.svg?color=000000``` is no longer 
 
 ## What's Changed
 
-* Added support for the new AVIF and ICO formats
+* [Feature] Added support for the new AVIF and ICO formats
 * Updated Go version to [v1.25](https://go.dev/doc/go1.25)
 * Removed unmaintained [gorilla/mux](https://github.com/gorilla/mux) external dependency in favor of [net/http enhancements introduced in Go 1.22](https://go.dev/blog/routing-enhancements)
 
@@ -33,7 +42,7 @@ The legacy custom color URL ```domain.com/icon.svg?color=000000``` is no longer 
 
 ## What's Changed
 
-* Added optional volume for custom (non-selfh.st) icons ([#495](https://github.com/selfhst/icons/issues/495))
+* [Feature] Added optional volume for custom (non-selfh.st) icons ([#495](https://github.com/selfhst/icons/issues/495))
 
 # v2.0.0
 

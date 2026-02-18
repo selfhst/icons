@@ -17,9 +17,10 @@ import (
 type Config struct {
 	Port               string
 	IconSource         string
-	JSDelivrURL        string
+	RemoteURL          string
 	LocalPath          string
 	StandardIconFormat string
+	PrimaryColor       string
 	CacheTTL           time.Duration
 	CacheSize          int
 }
@@ -110,12 +111,20 @@ func loadConfig() *Config {
 		standardFormat = "svg"
 	}
 
+	remoteURL := os.Getenv("REMOTE_URL")
+	if remoteURL == "" {
+		remoteURL = "https://cdn.jsdelivr.net/gh/selfhst/icons@main"
+	}
+
+	primaryColor := strings.TrimPrefix(os.Getenv("PRIMARY_COLOR"), "#")
+
 	return &Config{
 		Port:               port,
 		IconSource:         iconSource,
-		JSDelivrURL:        "https://cdn.jsdelivr.net/gh/selfhst/icons@main",
+		RemoteURL:        remoteURL,
 		LocalPath:          "/app/icons",
 		StandardIconFormat: standardFormat,
+		PrimaryColor:       primaryColor,
 		CacheTTL:           time.Hour,
 		CacheSize:          500,
 	}
@@ -131,14 +140,6 @@ func fileExists(path string) bool {
 	return err == nil
 }
 
-func urlExists(url string) bool {
-	resp, err := http.Head(url)
-	if err != nil {
-		return false
-	}
-	defer resp.Body.Close()
-	return resp.StatusCode == http.StatusOK
-}
 
 func readLocalFile(path string) (string, error) {
 	data, err := os.ReadFile(path)
@@ -225,6 +226,14 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	primaryFallback := false
+	if colorCode == "primary" {
+		if config.PrimaryColor == "" {
+			primaryFallback = true
+		}
+		colorCode = config.PrimaryColor
+	}
+
 	if colorCode != "" && !isValidHexColor(colorCode) {
 		log.Printf("[ERROR] Invalid color code for icon \"%s\": %s", iconName, colorCode)
 		http.Error(w, "Invalid color code. Use 6-digit hex without #", http.StatusBadRequest)
@@ -288,28 +297,31 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 		}
 	} else {
 		if colorCode != "" {
-			lightURL := config.JSDelivrURL + "/svg/" + iconName + "-light.svg"
-			if urlExists(lightURL) {
-				iconContent, err = fetchRemoteFile(lightURL)
-				if err == nil {
-					iconContent = applySVGColor(iconContent, colorCode)
-				}
+			lightURL := config.RemoteURL + "/svg/" + iconName + "-light.svg"
+			iconContent, err = fetchRemoteFile(lightURL)
+			if err == nil {
+				iconContent = applySVGColor(iconContent, colorCode)
+			} else {
+				iconContent = ""
+				err = nil
 			}
 		} else {
 			var standardURL string
 			if formatToServe == "svg" {
-				standardURL = config.JSDelivrURL + "/svg/" + iconName + ".svg"
+				standardURL = config.RemoteURL + "/svg/" + iconName + ".svg"
 			} else {
-				standardURL = config.JSDelivrURL + "/" + formatToServe + "/" + iconName + "." + formatToServe
+				standardURL = config.RemoteURL + "/" + formatToServe + "/" + iconName + "." + formatToServe
 			}
-			
-			if urlExists(standardURL) {
-				iconContent, err = fetchRemoteFile(standardURL)
+
+			iconContent, err = fetchRemoteFile(standardURL)
+			if err != nil {
+				iconContent = ""
+				err = nil
 			}
 		}
 		
 		if iconContent == "" {
-			svgURL := config.JSDelivrURL + "/svg/" + iconName + ".svg"
+			svgURL := config.RemoteURL + "/svg/" + iconName + ".svg"
 			iconContent, err = fetchRemoteFile(svgURL)
 			contentType = "image/svg+xml"
 			formatToServe = "svg"
@@ -326,8 +338,14 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 
 	cache.Set(cacheKey, iconContent)
 
-	log.Printf("[SUCCESS] Serving icon: \"%s\"%s (%s, source: %s)", iconName,
-		func() string { if colorCode != "" { return " with color " + colorCode } else { return "" } }(),
+	log.Printf("[%s] Serving icon: \"%s\"%s (%s, source: %s)",
+		func() string { if primaryFallback { return "WARN" } else { return "SUCCESS" } }(),
+		iconName,
+		func() string {
+			if colorCode != "" { return " with color " + colorCode }
+			if primaryFallback { return " (PRIMARY_COLOR not set, using standard format)" }
+			return ""
+		}(),
 		formatToServe, config.IconSource)
 
 	w.Header().Set("Content-Type", contentType)
@@ -412,7 +430,7 @@ func handleRoot(w http.ResponseWriter, r *http.Request) {
 				if config.IconSource == "local" {
 					return config.LocalPath
 				}
-				return config.JSDelivrURL
+				return config.RemoteURL
 			}(),
 		},
 	}
@@ -444,7 +462,7 @@ func main() {
 		if config.IconSource == "local" {
 			return "Local volume"
 		}
-		return "Remote CDN"
+		return "Remote: " + config.RemoteURL
 	}())
 	log.Printf("Cache settings: TTL %ds, Max %d items", int(config.CacheTTL.Seconds()), config.CacheSize)
 
