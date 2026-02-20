@@ -20052,18 +20052,6 @@
         "CreatedAt": "2025-05-15 12:44:27+00:00"
     },
     {
-        "Name": "Twenty",
-        "Reference": "twenty",
-        "SVG": "Yes",
-        "PNG": "Yes",
-        "WebP": "Yes",
-        "Light": "Yes",
-        "Dark": "Yes",
-        "Category": "Self-Hosted",
-        "Tags": "",
-        "CreatedAt": "2025-05-15 14:47:53+00:00"
-    },
-    {
         "Name": "Typebot",
         "Reference": "typebot",
         "SVG": "Yes",
@@ -30406,5 +30394,53 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-02-18 13:49:43+00:00"
+    },
+    {
+        "Name": "TidyQuest",
+        "Reference": "tidyquest",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-18 15:29:03+00:00"
+    },
+    {
+        "Name": "Global Threat Map",
+        "Reference": "global-threat-map",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-19 14:22:05+00:00"
+    },
+    {
+        "Name": "Unraid PWA",
+        "Reference": "unraid-pwa",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-19 20:58:32+00:00"
+    },
+    {
+        "Name": "RackPeek",
+        "Reference": "rackpeek",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-20 11:21:44+00:00"
     }
 ]
