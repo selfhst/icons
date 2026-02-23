@@ -30442,5 +30442,77 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-02-20 11:21:44+00:00"
+    },
+    {
+        "Name": "Rahoot",
+        "Reference": "rahoot",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-23 12:32:18+00:00"
+    },
+    {
+        "Name": "Kima Hub",
+        "Reference": "kima-hub",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-23 12:38:17+00:00"
+    },
+    {
+        "Name": "Strapi",
+        "Reference": "strapi",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-23 12:40:55+00:00"
+    },
+    {
+        "Name": "Snapmaker",
+        "Reference": "snapmaker",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Shopping",
+        "CreatedAt": "2026-02-23 12:43:39+00:00"
+    },
+    {
+        "Name": "tinyMediaManager",
+        "Reference": "tinymediamanager",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-02-23 12:45:51+00:00"
+    },
+    {
+        "Name": "Satisfactory",
+        "Reference": "satisfactory",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "Video Games",
+        "CreatedAt": "2026-02-23 12:48:11+00:00"
     }
 ]
