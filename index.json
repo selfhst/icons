@@ -30538,5 +30538,101 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-02-24 11:17:43+00:00"
+    },
+    {
+        "Name": "Invoice Builder",
+        "Reference": "invoice-builder",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-25 10:41:27+00:00"
+    },
+    {
+        "Name": "Comentario",
+        "Reference": "comentario",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-26 10:16:26+00:00"
+    },
+    {
+        "Name": "Rauthy",
+        "Reference": "rauthy",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-26 10:16:44+00:00"
+    },
+    {
+        "Name": "TrueConf",
+        "Reference": "trueconf",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-26 10:20:53+00:00"
+    },
+    {
+        "Name": "git-pages",
+        "Reference": "git-pages",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-26 10:27:05+00:00"
+    },
+    {
+        "Name": "SOLECTRUS",
+        "Reference": "solectrus",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-26 10:28:22+00:00"
+    },
+    {
+        "Name": "Sando",
+        "Reference": "sando",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-26 10:52:06+00:00"
+    },
+    {
+        "Name": "Kitsu",
+        "Reference": "kitsu",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-26 10:54:28+00:00"
     }
 ]
