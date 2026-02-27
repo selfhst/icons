@@ -30634,5 +30634,77 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-02-26 10:54:28+00:00"
+    },
+    {
+        "Name": "Gryt",
+        "Reference": "gryt",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-26 11:09:18+00:00"
+    },
+    {
+        "Name": "HitKeep",
+        "Reference": "hitkeep",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-26 11:29:53+00:00"
+    },
+    {
+        "Name": "Laterfeed",
+        "Reference": "laterfeed",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-26 11:33:45+00:00"
+    },
+    {
+        "Name": "Linux Update Dashboard",
+        "Reference": "linux-update-dashboard",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-27 10:40:30+00:00"
+    },
+    {
+        "Name": "SurrealDB",
+        "Reference": "surrealdb",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-27 13:23:50+00:00"
+    },
+    {
+        "Name": "DOCSight",
+        "Reference": "docsight",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-27 13:32:05+00:00"
     }
 ]
