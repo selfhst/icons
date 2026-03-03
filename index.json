@@ -30266,11 +30266,11 @@
     {
         "Name": "MediKeep",
         "Reference": "medikeep",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-02-17 10:46:23+00:00"
@@ -30706,5 +30706,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-02-27 13:32:05+00:00"
+    },
+    {
+        "Name": "MinusPod",
+        "Reference": "minuspod",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-02-27 15:40:38+00:00"
+    },
+    {
+        "Name": "Habitat (Social)",
+        "Reference": "habitat-social",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-02 10:18:33+00:00"
+    },
+    {
+        "Name": "PVE NoteBuddy",
+        "Reference": "pve-notebuddy",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-02 12:50:55+00:00"
+    },
+    {
+        "Name": "Sunwet",
+        "Reference": "sunwet",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-02 13:00:36+00:00"
     }
 ]
