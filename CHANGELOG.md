@@ -1,9 +1,42 @@
+# v4.0.0
+
+This release initially set out to address a request to support icon extensions in URLs, but quickly grew into a number of under the hood optimization/security fixes and a new ```hybrid``` mode that allows users with local collections to set remote icons as a fallback.
+
+## Breaking Changes
+
+The ```STANDARD_ICON_FORMAT``` variable has been deprecated and users now have the option to specify their desired icon extension in the URL. If an extension is not specified, the server will default to WebP.
+
+Users should review the updated methods for referencing icons in the [project's wiki](https://github.com/selfhst/icons/wiki#building-links) when upgrading.
+
+## What's Changed
+
+* [Feature] Added support for icon extensions in the URL (```example.svg```, ```example.png```, etc.) ([#718](https://github.com/selfhst/icons/issues/718), [#737](https://github.com/selfhst/icons/issues/737))
+* [Feature] Added support for custom color URL parameters (```?color=2d2d2d```) as an alternative to paths (```icon/2d2d2d```) ([#737](https://github.com/selfhst/icons/issues/737))
+* [Feature] Added a new ```hybrid``` source option that prioritizes local collections and falls back to remote when missing
+* [Feature] Added an optional ```LOG_LEVEL``` variable to control log verbosity
+* [Feature] Added an optional ```CORS_ALLOWED_ORIGINS``` variable (defaults to all or ```*```)
+* [Feature] Added optional variables for configurable cache times (```CACHE_TTL```) and size (```CACHE_SIZE```)
+* [Feature] Added an optional ```REMOTE_TIMEOUT``` variable to prevent the server from hanging when requests take too long (default: ```10``` seconds)
+* Configured WebP as the global default when no extension is specified or an unsupported extension is requested
+* Added Docker health checks via the `-healthcheck` flag to accommodate scratch's lack of tooling (curl/wget)
+* Added startup validations and logging to warn users of misconfigured variables
+* Added graceful shutdowns to allow in-flight requests to complete before exiting
+* Added validations to properly identify ```#fff``` and ```#ffffff``` when colorizing icons
+* Added request completion time to log messages
+* Added case normalization checks to prevent the server from caching the same icon multiple times
+* Added GZIP compression for SVG requests with proper proxy headers
+* Added a security check for icons names with ```/```, ```\```, or ```..``` (attempted path traversal)
+* Added an ```X-Cache``` response header to signal cache status without having to view container logs
+* Added a process to regularly clean stale cache entries
+* Removed redundant file existence checks for local icons
+* Removed unnecessary directory scans when a custom icon is not found (initially included for debugging purposes)
+
 # v3.2.0
 
 ## What's Changed
 
-* [Feature] Added PRIMARY_COLOR variable to easily apply a single custom color to all icons (see Wiki for additional details)
-* [Feature] Added REMOTE_URL to allow users to serve icons from their own remote sources (see Wiki for additional details) ([#690](https://github.com/selfhst/icons/issues/690))
+* [Feature] Added ```PRIMARY_COLOR``` variable to easily apply a single custom color to all icons (see Wiki for additional details)
+* [Feature] Added ```REMOTE_URL``` to allow users to serve icons from their own remote sources (see Wiki for additional details) ([#690](https://github.com/selfhst/icons/issues/690))
 * Reduced remote icon load time by removing redundant existence checks
 * Updated Go version to [v1.26](https://go.dev/doc/go1.26)
 
