@@ -31150,5 +31150,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-03-06 11:57:58+00:00"
+    },
+    {
+        "Name": "Vykar",
+        "Reference": "vykar",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-06 14:06:49+00:00"
+    },
+    {
+        "Name": "Cannoli Shell",
+        "Reference": "cannoli-shell",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-03-06 14:07:12+00:00"
+    },
+    {
+        "Name": "Pixiv",
+        "Reference": "pixiv",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-03-08 18:18:42+00:00"
+    },
+    {
+        "Name": "MCPHub",
+        "Reference": "mcphub",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-08 18:24:49+00:00"
+    },
+    {
+        "Name": "Lemonade (AI)",
+        "Reference": "lemonade-ai",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-08 18:30:06+00:00"
     }
 ]
