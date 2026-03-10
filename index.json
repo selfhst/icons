@@ -31234,5 +31234,113 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-03-09 10:29:21+00:00"
+    },
+    {
+        "Name": "Cachet",
+        "Reference": "cachet",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-09 13:09:46+00:00"
+    },
+    {
+        "Name": "Music Grabber",
+        "Reference": "music-grabber",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-10 09:46:06+00:00"
+    },
+    {
+        "Name": "ADSB.im",
+        "Reference": "adsb-im",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-10 09:50:55+00:00"
+    },
+    {
+        "Name": "autopulse",
+        "Reference": "autopulse",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-10 09:51:52+00:00"
+    },
+    {
+        "Name": "Mermaid",
+        "Reference": "mermaid",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-03-10 09:56:16+00:00"
+    },
+    {
+        "Name": "PegaProx",
+        "Reference": "pegaprox",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-10 09:59:44+00:00"
+    },
+    {
+        "Name": "Langfuse",
+        "Reference": "langfuse",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-03-10 10:05:07+00:00"
+    },
+    {
+        "Name": "Interactive Brokers",
+        "Reference": "interactive-brokers",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Banks",
+        "CreatedAt": "2026-03-10 10:09:07+00:00"
+    },
+    {
+        "Name": "Degoog",
+        "Reference": "degoog",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-10 10:12:48+00:00"
     }
 ]
