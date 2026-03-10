@@ -30876,8 +30876,8 @@
         "CreatedAt": "2026-03-05 12:07:18+00:00"
     },
     {
-        "Name": "Hibbert Razor (Yarnl)",
-        "Reference": "hibbert-razor-yarnl",
+        "Name": "Hibbert Gamer (Yarnl)",
+        "Reference": "hibbert-gamer-yarnl",
         "SVG": "No",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -30924,8 +30924,8 @@
         "CreatedAt": "2026-03-05 12:08:32+00:00"
     },
     {
-        "Name": "Lucy Fallout (Yarnl)",
-        "Reference": "lucy-fallout-yarnl",
+        "Name": "Lucy Nuked (Yarnl)",
+        "Reference": "lucy-nuked-yarnl",
         "SVG": "No",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -31044,8 +31044,8 @@
         "CreatedAt": "2026-03-05 12:10:45+00:00"
     },
     {
-        "Name": "V Cyberpunk (Yarnl)",
-        "Reference": "v-cyberpunk-yarnl",
+        "Name": "V Cyberpink (Yarnl)",
+        "Reference": "v-cyberpink-yarnl",
         "SVG": "No",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -31258,18 +31258,6 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-03-10 09:46:06+00:00"
-    },
-    {
-        "Name": "ADSB.im",
-        "Reference": "adsb-im",
-        "SVG": "No",
-        "PNG": "Yes",
-        "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
-        "Category": "Self-Hosted",
-        "Tags": "",
-        "CreatedAt": "2026-03-10 09:50:55+00:00"
     },
     {
         "Name": "autopulse",
