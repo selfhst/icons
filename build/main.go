@@ -558,7 +558,17 @@ func handleCustomIcon(w http.ResponseWriter, r *http.Request) {
 
 	filename = strings.ToLower(filename)
 
-	customPath := filepath.Join(config.LocalPath, "custom", filename)
+	actualFilename := filename
+	if entries, err := os.ReadDir(filepath.Join(config.LocalPath, "custom")); err == nil {
+		for _, entry := range entries {
+			if strings.ToLower(entry.Name()) == filename {
+				actualFilename = entry.Name()
+				break
+			}
+		}
+	}
+
+	customPath := filepath.Join(config.LocalPath, "custom", actualFilename)
 
 	stat, err := os.Stat(customPath)
 	if err != nil {
@@ -632,6 +642,15 @@ func main() {
 	httpClient = &http.Client{Timeout: config.RemoteTimeout}
 
 	mux := http.NewServeMux()
+
+	mux.HandleFunc("GET /", func(w http.ResponseWriter, r *http.Request) {
+		if r.URL.Path != "/" {
+			http.NotFound(w, r)
+			return
+		}
+		w.Header().Set("Content-Type", "text/plain; charset=utf-8")
+		fmt.Fprintf(w, "selfh.st/icons\n\nEndpoints:\n  GET /{iconname}\n  GET /{iconname}/{colorcode}\n  GET /custom/{filename}\n  GET /health\n")
+	})
 
 	mux.HandleFunc("GET /health", func(w http.ResponseWriter, r *http.Request) {
 		w.WriteHeader(http.StatusOK)

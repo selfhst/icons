@@ -1,3 +1,10 @@
+# v4.0.2
+
+## What's Changed
+
+* Fixed custom icon issue where names converted to lowercase for cache keys were also being used to look up the file path, causing requests for icons with uppercase characters to fail ([#751](https://github.com/selfhst/icons/issues/751))
+* Added server name and sample endpoints to the root path ([#752](https://github.com/selfhst/icons/issues/752))
+
 # v4.0.1
 
 ## What's Changed
