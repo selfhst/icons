@@ -79,6 +79,16 @@ func (c *Cache) Get(key string) (string, bool) {
 	return item.Content, true
 }
 
+func (c *Cache) cleanup() {
+	c.mutex.Lock()
+	defer c.mutex.Unlock()
+	for k, v := range c.items {
+		if time.Since(v.Timestamp) > c.ttl {
+			delete(c.items, k)
+		}
+	}
+}
+
 func (c *Cache) Set(key, value string) {
 	c.mutex.Lock()
 	defer c.mutex.Unlock()
@@ -432,7 +442,7 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 		w.Header().Set("Content-Type", contentType)
-		w.Header().Set("Cache-Control", "public, max-age=3600")
+		w.Header().Set("Cache-Control", fmt.Sprintf("public, max-age=%d", int(config.CacheTTL.Seconds())))
 		w.Header().Set("ETag", etag)
 		w.Header().Set("X-Cache", "HIT")
 		serveContent(w, r, contentType, cached)
@@ -525,7 +535,7 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	w.Header().Set("Content-Type", contentType)
-	w.Header().Set("Cache-Control", "public, max-age=3600")
+	w.Header().Set("Cache-Control", fmt.Sprintf("public, max-age=%d", int(config.CacheTTL.Seconds())))
 	w.Header().Set("ETag", etag)
 	w.Header().Set("X-Cache", "MISS")
 	serveContent(w, r, contentType, iconContent)
@@ -578,6 +588,7 @@ func handleCustomIcon(w http.ResponseWriter, r *http.Request) {
 	if cached, found := cache.Get(cacheKey); found {
 		logf(logLevelDebug, "[CACHE] Serving cached custom icon: \"%s\" %v", filename, formatDuration(time.Since(start)))
 		w.Header().Set("Content-Type", contentType)
+		w.Header().Set("Cache-Control", fmt.Sprintf("public, max-age=%d", int(config.CacheTTL.Seconds())))
 		w.Header().Set("ETag", etag)
 		w.Header().Set("X-Cache", "HIT")
 		serveContent(w, r, contentType, cached)
@@ -596,6 +607,7 @@ func handleCustomIcon(w http.ResponseWriter, r *http.Request) {
 	logf(logLevelInfo, "[SUCCESS] Serving custom icon: \"%s\" (%s) %v", filename, contentType, formatDuration(time.Since(start)))
 
 	w.Header().Set("Content-Type", contentType)
+	w.Header().Set("Cache-Control", fmt.Sprintf("public, max-age=%d", int(config.CacheTTL.Seconds())))
 	w.Header().Set("ETag", etag)
 	w.Header().Set("X-Cache", "MISS")
 	serveContent(w, r, contentType, string(data))
@@ -660,6 +672,20 @@ func main() {
 	quit := make(chan os.Signal, 1)
 	signal.Notify(quit, syscall.SIGINT, syscall.SIGTERM)
 
+	cleanupCtx, cleanupCancel := context.WithCancel(context.Background())
+	go func() {
+		ticker := time.NewTicker(config.CacheTTL)
+		defer ticker.Stop()
+		for {
+			select {
+			case <-ticker.C:
+				cache.cleanup()
+			case <-cleanupCtx.Done():
+				return
+			}
+		}
+	}()
+
 	go func() {
 		if err := server.ListenAndServe(); err != nil && err != http.ErrServerClosed {
 			log.Fatalf("Server error: %v", err)
@@ -667,6 +693,7 @@ func main() {
 	}()
 
 	<-quit
+	cleanupCancel()
 	log.Println("Shutting down...")
 
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)

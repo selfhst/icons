@@ -1,3 +1,10 @@
+# v4.0.1
+
+## What's Changed
+
+* Replaced hard-coded cache age values with the `CACHE_TTL` variable added in v4.0.0 ([#748](https://github.com/selfhst/icons/issues/748))
+* Updated background routine to periodically purge stale assets based on `CACHE_TTL` time
+
 # v4.0.0
 
 This release initially set out to address a request to support icon extensions in URLs, but quickly grew into a number of under the hood optimization/security fixes and a new ```hybrid``` mode that allows users with local collections to set remote icons as a fallback.
