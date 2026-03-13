@@ -31462,5 +31462,77 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-03-12 10:02:20+00:00"
+    },
+    {
+        "Name": "Cardinal Apps",
+        "Reference": "cardinal-apps",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-13 09:32:53+00:00"
+    },
+    {
+        "Name": "Cardinal Media Server",
+        "Reference": "cardinal-media-server",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-13 22:42:21+00:00"
+    },
+    {
+        "Name": "Cardinal Music",
+        "Reference": "cardinal-music",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-13 22:42:35+00:00"
+    },
+    {
+        "Name": "Cardinal Photos",
+        "Reference": "cardinal-photos",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-13 22:42:48+00:00"
+    },
+    {
+        "Name": "Cardinal Cinema",
+        "Reference": "cardinal-cinema",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-13 22:43:09+00:00"
+    },
+    {
+        "Name": "Sandwitches",
+        "Reference": "sandwitches",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-13 22:49:22+00:00"
     }
 ]
