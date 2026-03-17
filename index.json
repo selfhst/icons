@@ -31654,5 +31654,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-03-16 09:55:17+00:00"
+    },
+    {
+        "Name": "VirtualBox (2010)",
+        "Reference": "virtualbox-2010",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-03-16 13:52:58+00:00"
+    },
+    {
+        "Name": "VMware Workstation Pro",
+        "Reference": "vmware-workstation-pro",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-03-16 15:19:37+00:00"
+    },
+    {
+        "Name": "X(P)FeRD",
+        "Reference": "x-p-ferd",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-17 09:19:56+00:00"
     }
 ]
