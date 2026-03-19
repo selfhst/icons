@@ -31690,5 +31690,77 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-03-17 09:19:56+00:00"
+    },
+    {
+        "Name": "World Monitor",
+        "Reference": "world-monitor",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-19 10:12:06+00:00"
+    },
+    {
+        "Name": "ExcaliDash",
+        "Reference": "excalidash",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-19 10:26:46+00:00"
+    },
+    {
+        "Name": "Bulwark",
+        "Reference": "bulwark",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-19 11:53:02+00:00"
+    },
+    {
+        "Name": "Contao",
+        "Reference": "contao",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-19 12:01:00+00:00"
+    },
+    {
+        "Name": "NPS Enhanced",
+        "Reference": "nps-enhanced",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-19 12:20:54+00:00"
+    },
+    {
+        "Name": "DM Hero",
+        "Reference": "dm-hero",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-19 12:25:42+00:00"
     }
 ]
