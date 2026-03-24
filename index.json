@@ -31810,5 +31810,65 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-03-20 11:24:56+00:00"
+    },
+    {
+        "Name": "NOMAD (Travel)",
+        "Reference": "nomad-travel",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-23 09:44:23+00:00"
+    },
+    {
+        "Name": "Project NOMAD",
+        "Reference": "project-nomad",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-23 11:21:28+00:00"
+    },
+    {
+        "Name": "Houndarr",
+        "Reference": "houndarr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-23 11:31:12+00:00"
+    },
+    {
+        "Name": "KeyHelp",
+        "Reference": "keyhelp",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-23 19:49:38+00:00"
+    },
+    {
+        "Name": "re-command",
+        "Reference": "re-command",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-23 19:52:49+00:00"
     }
 ]
