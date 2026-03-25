@@ -31870,5 +31870,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-03-23 19:52:49+00:00"
+    },
+    {
+        "Name": "Storybook",
+        "Reference": "storybook",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-25 10:11:13+00:00"
+    },
+    {
+        "Name": "Snapcast",
+        "Reference": "snapcast",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-25 10:14:24+00:00"
+    },
+    {
+        "Name": "Homematic IP",
+        "Reference": "homematic-ip",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-03-25 10:16:46+00:00"
     }
 ]
