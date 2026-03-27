@@ -31918,5 +31918,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-03-26 09:34:44+00:00"
+    },
+    {
+        "Name": "MikoPBX",
+        "Reference": "mikopbx",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-03-27 09:46:41+00:00"
+    },
+    {
+        "Name": "LobeHub",
+        "Reference": "lobehub",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-03-27 09:48:07+00:00"
+    },
+    {
+        "Name": "ContainerSSH",
+        "Reference": "containerssh",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-27 09:50:10+00:00"
+    },
+    {
+        "Name": "GNS3",
+        "Reference": "gns3",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-03-27 09:54:25+00:00"
     }
 ]
