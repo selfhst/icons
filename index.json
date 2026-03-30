@@ -31966,5 +31966,101 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-03-27 09:54:25+00:00"
+    },
+    {
+        "Name": "IronClaw",
+        "Reference": "ironclaw",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-03-30 09:15:08+00:00"
+    },
+    {
+        "Name": "CoreDNS",
+        "Reference": "coredns",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-30 09:18:12+00:00"
+    },
+    {
+        "Name": "Bambuddy",
+        "Reference": "bambuddy",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-30 09:21:28+00:00"
+    },
+    {
+        "Name": "Bitfocus Companion",
+        "Reference": "bitfocus-companion",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-30 09:25:43+00:00"
+    },
+    {
+        "Name": "TREK",
+        "Reference": "trek",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-30 09:31:07+00:00"
+    },
+    {
+        "Name": "DockProbe",
+        "Reference": "dockprobe",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-30 09:40:52+00:00"
+    },
+    {
+        "Name": "Homelable",
+        "Reference": "homelable",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-30 09:45:48+00:00"
+    },
+    {
+        "Name": "Transmute",
+        "Reference": "transmute",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-03-30 09:53:47+00:00"
     }
 ]
