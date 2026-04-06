@@ -32086,5 +32086,77 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-04-02 09:29:50+00:00"
+    },
+    {
+        "Name": "Oikos",
+        "Reference": "oikos",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-03 09:06:01+00:00"
+    },
+    {
+        "Name": "Todoist",
+        "Reference": "todoist",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-04-06 09:57:57+00:00"
+    },
+    {
+        "Name": "MCSManager",
+        "Reference": "mcsmanager",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "Minecraft,Video Games",
+        "CreatedAt": "2026-04-06 10:00:47+00:00"
+    },
+    {
+        "Name": "Music Player Daemon",
+        "Reference": "music-player-daemon",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-06 10:05:52+00:00"
+    },
+    {
+        "Name": "GraphHopper",
+        "Reference": "graphhopper",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-06 10:08:16+00:00"
+    },
+    {
+        "Name": "Hey.Cafe",
+        "Reference": "hey-cafe",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "Social",
+        "CreatedAt": "2026-04-06 10:15:02+00:00"
     }
 ]
