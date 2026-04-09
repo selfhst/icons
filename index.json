@@ -14738,11 +14738,11 @@
     {
         "Name": "WagmiOS",
         "Reference": "wagmios",
-        "SVG": "Yes",
+        "SVG": "No",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "Yes",
-        "Dark": "Yes",
+        "Light": "No",
+        "Dark": "No",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2025-03-01 15:13:59+00:00"
@@ -25032,8 +25032,8 @@
         "CreatedAt": "2025-09-17 20:03:46+00:00"
     },
     {
-        "Name": "PlexAniBridge",
-        "Reference": "plexanibridge",
+        "Name": "AniBridge",
+        "Reference": "anibridge",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -32158,5 +32158,113 @@
         "Category": "Other",
         "Tags": "Social",
         "CreatedAt": "2026-04-06 10:15:02+00:00"
+    },
+    {
+        "Name": "AmicoScript",
+        "Reference": "amicoscript",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-07 10:29:40+00:00"
+    },
+    {
+        "Name": "Flow-Like",
+        "Reference": "flow-like",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-09 09:27:50+00:00"
+    },
+    {
+        "Name": "Zublo",
+        "Reference": "zublo",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-09 09:39:29+00:00"
+    },
+    {
+        "Name": "CrowdSec Manager",
+        "Reference": "crowdsec-manager",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-09 09:50:00+00:00"
+    },
+    {
+        "Name": "ALTCHA",
+        "Reference": "altcha",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-09 09:58:23+00:00"
+    },
+    {
+        "Name": "Linear",
+        "Reference": "linear",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-04-09 10:01:34+00:00"
+    },
+    {
+        "Name": "Philips Hue",
+        "Reference": "philips-hue",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-04-09 10:05:00+00:00"
+    },
+    {
+        "Name": "Capacitor (Runtime)",
+        "Reference": "capacitor-runtime",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-04-09 10:09:44+00:00"
+    },
+    {
+        "Name": "MediaLyze",
+        "Reference": "medialyze",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-09 10:13:08+00:00"
     }
 ]
