@@ -32266,5 +32266,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-04-09 10:13:08+00:00"
+    },
+    {
+        "Name": "Ties (Link Sharing)",
+        "Reference": "ties-link-sharing",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-09 16:10:13+00:00"
     }
 ]
