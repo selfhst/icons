@@ -8216,7 +8216,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Other",
-        "Tags": "",
+        "Tags": "HashiCorp",
         "CreatedAt": "2024-09-13 09:21:25+00:00"
     },
     {
@@ -8240,7 +8240,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Other",
-        "Tags": "",
+        "Tags": "HashiCorp",
         "CreatedAt": "2024-09-13 09:21:42+00:00"
     },
     {
@@ -8252,7 +8252,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Other",
-        "Tags": "",
+        "Tags": "HashiCorp",
         "CreatedAt": "2024-09-13 09:21:55+00:00"
     },
     {
@@ -8264,7 +8264,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Other",
-        "Tags": "",
+        "Tags": "HashiCorp",
         "CreatedAt": "2024-09-13 09:22:03+00:00"
     },
     {
@@ -8276,7 +8276,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Other",
-        "Tags": "",
+        "Tags": "HashiCorp",
         "CreatedAt": "2024-09-13 09:22:11+00:00"
     },
     {
@@ -8288,7 +8288,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Other",
-        "Tags": "",
+        "Tags": "HashiCorp",
         "CreatedAt": "2024-09-13 09:22:20+00:00"
     },
     {
@@ -8300,7 +8300,7 @@
         "Light": "Yes",
         "Dark": "Yes",
         "Category": "Other",
-        "Tags": "",
+        "Tags": "HashiCorp",
         "CreatedAt": "2024-09-13 09:22:29+00:00"
     },
     {
@@ -32278,5 +32278,101 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-04-09 16:10:13+00:00"
+    },
+    {
+        "Name": "Calagopus",
+        "Reference": "calagopus",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Video Games",
+        "CreatedAt": "2026-04-14 10:06:38+00:00"
+    },
+    {
+        "Name": "Oksskolten",
+        "Reference": "oksskolten",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-14 10:09:07+00:00"
+    },
+    {
+        "Name": "Smallstep",
+        "Reference": "smallstep",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-14 10:10:51+00:00"
+    },
+    {
+        "Name": "Sipeed",
+        "Reference": "sipeed",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-04-14 10:12:37+00:00"
+    },
+    {
+        "Name": "Vertiv",
+        "Reference": "vertiv",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Shopping",
+        "CreatedAt": "2026-04-14 10:14:24+00:00"
+    },
+    {
+        "Name": "HashiCorp",
+        "Reference": "hashicorp",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "HashiCorp",
+        "CreatedAt": "2026-04-14 10:18:03+00:00"
+    },
+    {
+        "Name": "Ownfoil",
+        "Reference": "ownfoil",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Video Games",
+        "CreatedAt": "2026-04-14 10:23:05+00:00"
+    },
+    {
+        "Name": "WebHook Tester",
+        "Reference": "webhook-tester",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-14 10:25:01+00:00"
     }
 ]
