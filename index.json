@@ -32374,5 +32374,77 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-04-14 10:25:01+00:00"
+    },
+    {
+        "Name": "Reclaimerr",
+        "Reference": "reclaimerr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-15 09:34:53+00:00"
+    },
+    {
+        "Name": "Marp",
+        "Reference": "marp",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-04-16 09:11:41+00:00"
+    },
+    {
+        "Name": "MarpUI",
+        "Reference": "marpui",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-16 09:12:52+00:00"
+    },
+    {
+        "Name": "Meerkat CRM",
+        "Reference": "meerkat-crm",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-16 09:25:11+00:00"
+    },
+    {
+        "Name": "ProxCenter",
+        "Reference": "proxcenter",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-16 09:43:12+00:00"
+    },
+    {
+        "Name": "Continuwuity",
+        "Reference": "continuwuity",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-16 09:46:32+00:00"
     }
 ]
