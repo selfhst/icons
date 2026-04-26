@@ -32628,18 +32628,6 @@
         "CreatedAt": "2026-04-23 09:37:36+00:00"
     },
     {
-        "Name": "OpenUEM",
-        "Reference": "openuem",
-        "SVG": "Yes",
-        "PNG": "Yes",
-        "WebP": "Yes",
-        "Light": "Yes",
-        "Dark": "Yes",
-        "Category": "Self-Hosted",
-        "Tags": "",
-        "CreatedAt": "2026-04-23 09:45:45+00:00"
-    },
-    {
         "Name": "Inexogy",
         "Reference": "inexogy",
         "SVG": "Yes",
@@ -32650,5 +32638,41 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-04-23 09:56:16+00:00"
+    },
+    {
+        "Name": "Faved",
+        "Reference": "faved",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-24 09:03:44+00:00"
+    },
+    {
+        "Name": "Wardrowbe",
+        "Reference": "wardrowbe",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-24 17:35:14+00:00"
+    },
+    {
+        "Name": "Nodyx",
+        "Reference": "nodyx",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-24 17:40:12+00:00"
     }
 ]
