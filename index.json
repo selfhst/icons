@@ -32674,5 +32674,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-04-24 17:40:12+00:00"
+    },
+    {
+        "Name": "SnapOtter",
+        "Reference": "snapotter",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-28 09:21:44+00:00"
+    },
+    {
+        "Name": "Arkeep",
+        "Reference": "arkeep",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-04-28 09:30:47+00:00"
     }
 ]
