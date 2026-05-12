@@ -5102,11 +5102,11 @@
     {
         "Name": "Swetrix",
         "Reference": "swetrix",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-09-06 14:32:12+00:00"
@@ -32722,5 +32722,101 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-04-29 10:12:01+00:00"
+    },
+    {
+        "Name": "OpenList",
+        "Reference": "openlist",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-11 11:48:16+00:00"
+    },
+    {
+        "Name": "Oscarr",
+        "Reference": "oscarr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-11 11:48:23+00:00"
+    },
+    {
+        "Name": "Noodle Gallery",
+        "Reference": "noodle-gallery",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-11 11:51:42+00:00"
+    },
+    {
+        "Name": "Local Content Share",
+        "Reference": "local-content-share",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-12 09:26:23+00:00"
+    },
+    {
+        "Name": "Hermes Agent",
+        "Reference": "hermes-agent",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-05-12 09:34:30+00:00"
+    },
+    {
+        "Name": "Zed",
+        "Reference": "zed",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-05-12 09:37:48+00:00"
+    },
+    {
+        "Name": "MailFlow",
+        "Reference": "mailflow",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-05-12 09:39:13+00:00"
+    },
+    {
+        "Name": "MatchExec",
+        "Reference": "matchexec",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-12 09:51:24+00:00"
     }
 ]
