@@ -32830,5 +32830,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-05-13 11:39:35+00:00"
+    },
+    {
+        "Name": "LeafWiki",
+        "Reference": "leafwiki",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-15 18:23:06+00:00"
+    },
+    {
+        "Name": "Homey",
+        "Reference": "homey",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-15 18:27:09+00:00"
+    },
+    {
+        "Name": "TravStats",
+        "Reference": "travstats",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-15 18:30:53+00:00"
+    },
+    {
+        "Name": "Capacitarr",
+        "Reference": "capacitarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-15 18:40:04+00:00"
     }
 ]
