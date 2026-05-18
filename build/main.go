@@ -1,10 +1,10 @@
 package main
 
 import (
+	"compress/gzip"
 	"context"
 	"fmt"
 	"hash/fnv"
-	"compress/gzip"
 	"io"
 	"log"
 	"net/http"
@@ -39,8 +39,9 @@ type Config struct {
 }
 
 type CacheItem struct {
-	Content   string
-	Timestamp time.Time
+	Content     string
+	ContentType string
+	Timestamp   time.Time
 }
 
 type Cache struct {
@@ -58,13 +59,13 @@ func NewCache(ttl time.Duration, maxSize int) *Cache {
 	}
 }
 
-func (c *Cache) Get(key string) (string, bool) {
+func (c *Cache) Get(key string) (CacheItem, bool) {
 	c.mutex.RLock()
 	item, exists := c.items[key]
 	c.mutex.RUnlock()
 
 	if !exists {
-		return "", false
+		return CacheItem{}, false
 	}
 
 	if time.Since(item.Timestamp) > c.ttl {
@@ -73,10 +74,10 @@ func (c *Cache) Get(key string) (string, bool) {
 			delete(c.items, key)
 		}
 		c.mutex.Unlock()
-		return "", false
+		return CacheItem{}, false
 	}
 
-	return item.Content, true
+	return item, true
 }
 
 func (c *Cache) cleanup() {
@@ -89,7 +90,7 @@ func (c *Cache) cleanup() {
 	}
 }
 
-func (c *Cache) Set(key, value string) {
+func (c *Cache) Set(key, content, contentType string) {
 	c.mutex.Lock()
 	defer c.mutex.Unlock()
 
@@ -109,8 +110,9 @@ func (c *Cache) Set(key, value string) {
 	}
 
 	c.items[key] = CacheItem{
-		Content:   value,
-		Timestamp: time.Now(),
+		Content:     content,
+		ContentType: contentType,
+		Timestamp:   time.Now(),
 	}
 }
 
@@ -120,14 +122,14 @@ var (
 	httpClient *http.Client
 )
 
+// whiteVal matches any way an SVG can express white as a color value:
+// 3/4/6/7/8-digit hex, the "white" keyword, or rgb()/rgba() of 255,255,255.
+const whiteVal = `#fff(?:[0-9a-fA-F]|fff[0-9a-fA-F]{0,2})?|white|rgba?\(\s*255\s*[,\s]\s*255\s*[,\s]\s*255\s*(?:[,/]\s*[0-9.]+%?\s*)?\)`
+
 var (
 	hexColorRe  = regexp.MustCompile(`^[0-9A-Fa-f]{6}$`)
-	reFillStyle = regexp.MustCompile(`style="[^"]*fill:\s*#fff(?:fff)?[^"]*"`)
-	reFillInner = regexp.MustCompile(`fill:\s*#fff(?:fff)?`)
-	reFillAttr  = regexp.MustCompile(`fill="#fff(?:fff)?"`)
-	reStopStyle = regexp.MustCompile(`style="[^"]*stop-color:\s*#fff(?:fff)?[^"]*"`)
-	reStopInner = regexp.MustCompile(`stop-color:\s*#fff(?:fff)?`)
-	reStopAttr  = regexp.MustCompile(`stop-color="#fff(?:fff)?"`)
+	reColorProp = regexp.MustCompile(`(?i)(fill|stop-color):(\s*)(` + whiteVal + `)([\s;}/),"']|$)`)
+	reColorAttr = regexp.MustCompile(`(?i)(fill|stop-color)=(["'])(` + whiteVal + `)(["'])`)
 )
 
 func logf(level int, format string, args ...any) {
@@ -149,6 +151,18 @@ func computeETag(content string) string {
 	return fmt.Sprintf(`"%x"`, h.Sum64())
 }
 
+func parseIntEnv(name string, def int) int {
+	v := os.Getenv(name)
+	if v == "" {
+		return def
+	}
+	if n, err := strconv.Atoi(v); err == nil && n > 0 {
+		return n
+	}
+	log.Printf("[WARN] Invalid %s value \"%s\", using default (%d)", name, v, def)
+	return def
+}
+
 func loadConfig() *Config {
 	port := os.Getenv("PORT")
 	if port == "" {
@@ -167,32 +181,9 @@ func loadConfig() *Config {
 
 	primaryColor := strings.TrimPrefix(os.Getenv("PRIMARY_COLOR"), "#")
 
-	cacheTTL := time.Hour
-	if v := os.Getenv("CACHE_TTL"); v != "" {
-		if n, err := strconv.Atoi(v); err == nil && n > 0 {
-			cacheTTL = time.Duration(n) * time.Second
-		} else {
-			log.Printf("[WARN] Invalid CACHE_TTL value \"%s\", using default (3600)", v)
-		}
-	}
-
-	cacheSize := 500
-	if v := os.Getenv("CACHE_SIZE"); v != "" {
-		if n, err := strconv.Atoi(v); err == nil && n > 0 {
-			cacheSize = n
-		} else {
-			log.Printf("[WARN] Invalid CACHE_SIZE value \"%s\", using default (500)", v)
-		}
-	}
-
-	remoteTimeout := 10 * time.Second
-	if v := os.Getenv("REMOTE_TIMEOUT"); v != "" {
-		if n, err := strconv.Atoi(v); err == nil && n > 0 {
-			remoteTimeout = time.Duration(n) * time.Second
-		} else {
-			log.Printf("[WARN] Invalid REMOTE_TIMEOUT value \"%s\", using default (10)", v)
-		}
-	}
+	cacheTTL := time.Duration(parseIntEnv("CACHE_TTL", 3600)) * time.Second
+	cacheSize := parseIntEnv("CACHE_SIZE", 500)
+	remoteTimeout := time.Duration(parseIntEnv("REMOTE_TIMEOUT", 10)) * time.Second
 
 	corsAllowedOrigins := os.Getenv("CORS_ALLOWED_ORIGINS")
 	if corsAllowedOrigins == "" {
@@ -319,20 +310,56 @@ func fetchRemoteFile(url string) (string, error) {
 	return string(data), nil
 }
 
+func hexRGB(code string) (int64, int64, int64) {
+	r, _ := strconv.ParseInt(code[0:2], 16, 0)
+	g, _ := strconv.ParseInt(code[2:4], 16, 0)
+	b, _ := strconv.ParseInt(code[4:6], 16, 0)
+	return r, g, b
+}
+
+// newWhite returns the replacement for a matched white value, preserving any
+// alpha channel from the original (8-digit hex, #rgba shorthand, or rgba()).
+func newWhite(value, hexColor, code string) string {
+	v := strings.ToLower(value)
+	switch {
+	case strings.HasPrefix(v, "#"):
+		h := v[1:]
+		switch len(h) {
+		case 4: // #rgba shorthand: expand the single alpha nibble
+			return hexColor + strings.Repeat(string(h[3]), 2)
+		case 7: // odd 7-digit form: expand trailing nibble
+			return hexColor + strings.Repeat(string(h[6]), 2)
+		case 8: // #rrggbbaa: keep the alpha byte
+			return hexColor + h[6:8]
+		default: // 3 or 6 digits: fully opaque
+			return hexColor
+		}
+	case strings.HasPrefix(v, "rgba("):
+		inner := value[strings.Index(value, "(")+1 : strings.LastIndex(value, ")")]
+		parts := strings.FieldsFunc(inner, func(r rune) bool {
+			return r == ',' || r == '/' || r == ' ' || r == '\t'
+		})
+		if len(parts) >= 4 {
+			r, g, b := hexRGB(code)
+			return fmt.Sprintf("rgba(%d, %d, %d, %s)", r, g, b, parts[len(parts)-1])
+		}
+		return hexColor
+	default: // "white" keyword or rgb() with no alpha
+		return hexColor
+	}
+}
+
 func applySVGColor(svgContent, colorCode string) string {
-	color := "#" + colorCode
+	hexColor := "#" + colorCode
 
-	// Replace fill:#fff
-	svgContent = reFillStyle.ReplaceAllStringFunc(svgContent, func(match string) string {
-		return reFillInner.ReplaceAllString(match, "fill:"+color)
+	svgContent = reColorProp.ReplaceAllStringFunc(svgContent, func(m string) string {
+		g := reColorProp.FindStringSubmatch(m)
+		return g[1] + ":" + g[2] + newWhite(g[3], hexColor, colorCode) + g[4]
 	})
-	svgContent = reFillAttr.ReplaceAllString(svgContent, `fill="`+color+`"`)
-
-	// Replace stop-color:#fff in gradients
-	svgContent = reStopStyle.ReplaceAllStringFunc(svgContent, func(match string) string {
-		return reStopInner.ReplaceAllString(match, "stop-color:"+color)
+	svgContent = reColorAttr.ReplaceAllStringFunc(svgContent, func(m string) string {
+		g := reColorAttr.FindStringSubmatch(m)
+		return g[1] + "=" + g[2] + newWhite(g[3], hexColor, colorCode) + g[4]
 	})
-	svgContent = reStopAttr.ReplaceAllString(svgContent, `stop-color="`+color+`"`)
 
 	return svgContent
 }
@@ -349,6 +376,19 @@ func serveContent(w http.ResponseWriter, r *http.Request, contentType, content s
 		}
 	}
 	io.WriteString(w, content)
+}
+
+func writeIconResponse(w http.ResponseWriter, r *http.Request, contentType, content, cacheStatus string) {
+	etag := computeETag(content)
+	if r.Header.Get("If-None-Match") == etag {
+		w.WriteHeader(http.StatusNotModified)
+		return
+	}
+	w.Header().Set("Content-Type", contentType)
+	w.Header().Set("Cache-Control", fmt.Sprintf("public, max-age=%d", int(config.CacheTTL.Seconds())))
+	w.Header().Set("ETag", etag)
+	w.Header().Set("X-Cache", cacheStatus)
+	serveContent(w, r, contentType, content)
 }
 
 func getContentType(format string) string {
@@ -436,16 +476,7 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 
 	if cached, found := cache.Get(cacheKey); found {
 		logf(logLevelDebug, "[CACHE] Serving cached icon: \"%s\"%s (%s) %v", baseName, colorSuffix, formatToServe, formatDuration(time.Since(start)))
-		etag := computeETag(cached)
-		if r.Header.Get("If-None-Match") == etag {
-			w.WriteHeader(http.StatusNotModified)
-			return
-		}
-		w.Header().Set("Content-Type", contentType)
-		w.Header().Set("Cache-Control", fmt.Sprintf("public, max-age=%d", int(config.CacheTTL.Seconds())))
-		w.Header().Set("ETag", etag)
-		w.Header().Set("X-Cache", "HIT")
-		serveContent(w, r, contentType, cached)
+		writeIconResponse(w, r, cached.ContentType, cached.Content, "HIT")
 		return
 	}
 
@@ -518,8 +549,7 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	cacheKey = getCacheKey(baseName+"."+formatToServe, colorCode)
-	cache.Set(cacheKey, iconContent)
+	cache.Set(cacheKey, iconContent, contentType)
 
 	level := "SUCCESS"
 	detail := colorSuffix
@@ -529,16 +559,7 @@ func handleIcon(w http.ResponseWriter, r *http.Request) {
 	}
 	logf(logLevelInfo, "[%s] Serving icon: \"%s\"%s (%s, source: %s) %v", level, baseName, detail, formatToServe, servedFrom, formatDuration(time.Since(start)))
 
-	etag := computeETag(iconContent)
-	if r.Header.Get("If-None-Match") == etag {
-		w.WriteHeader(http.StatusNotModified)
-		return
-	}
-	w.Header().Set("Content-Type", contentType)
-	w.Header().Set("Cache-Control", fmt.Sprintf("public, max-age=%d", int(config.CacheTTL.Seconds())))
-	w.Header().Set("ETag", etag)
-	w.Header().Set("X-Cache", "MISS")
-	serveContent(w, r, contentType, iconContent)
+	writeIconResponse(w, r, contentType, iconContent, "MISS")
 }
 
 func handleCustomIcon(w http.ResponseWriter, r *http.Request) {
@@ -597,11 +618,11 @@ func handleCustomIcon(w http.ResponseWriter, r *http.Request) {
 	cacheKey := "custom:" + filename + ":" + etag
 	if cached, found := cache.Get(cacheKey); found {
 		logf(logLevelDebug, "[CACHE] Serving cached custom icon: \"%s\" %v", filename, formatDuration(time.Since(start)))
-		w.Header().Set("Content-Type", contentType)
+		w.Header().Set("Content-Type", cached.ContentType)
 		w.Header().Set("Cache-Control", fmt.Sprintf("public, max-age=%d", int(config.CacheTTL.Seconds())))
 		w.Header().Set("ETag", etag)
 		w.Header().Set("X-Cache", "HIT")
-		serveContent(w, r, contentType, cached)
+		serveContent(w, r, cached.ContentType, cached.Content)
 		return
 	}
 
@@ -612,7 +633,7 @@ func handleCustomIcon(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	cache.Set(cacheKey, string(data))
+	cache.Set(cacheKey, string(data), contentType)
 
 	logf(logLevelInfo, "[SUCCESS] Serving custom icon: \"%s\" (%s) %v", filename, contentType, formatDuration(time.Since(start)))
 
