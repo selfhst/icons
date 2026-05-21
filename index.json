@@ -32878,5 +32878,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-05-15 18:40:04+00:00"
+    },
+    {
+        "Name": "Chorizard",
+        "Reference": "chorizard",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-21 17:10:14+00:00"
+    },
+    {
+        "Name": "DVinyl",
+        "Reference": "dvinyl",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-21 17:20:07+00:00"
+    },
+    {
+        "Name": "Pingvin Share X",
+        "Reference": "pingvin-share-x",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-21 17:48:28+00:00"
+    },
+    {
+        "Name": "DaDaBIK",
+        "Reference": "dadabik",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-05-21 17:51:39+00:00"
     }
 ]
