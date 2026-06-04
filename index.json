@@ -33082,5 +33082,29 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-05-29 10:27:22+00:00"
+    },
+    {
+        "Name": "NutriTrace",
+        "Reference": "nutritrace",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-04 09:43:21+00:00"
+    },
+    {
+        "Name": "MyFin",
+        "Reference": "myfin",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-04 09:48:22+00:00"
     }
 ]
