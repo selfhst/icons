@@ -33106,5 +33106,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-06-04 09:48:22+00:00"
+    },
+    {
+        "Name": "BookOrbit",
+        "Reference": "bookorbit",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-05 09:33:35+00:00"
+    },
+    {
+        "Name": "Hawser",
+        "Reference": "hawser",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-05 09:35:59+00:00"
+    },
+    {
+        "Name": "Traefik Manager",
+        "Reference": "traefik-manager",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-05 09:39:51+00:00"
+    },
+    {
+        "Name": "Attic (Assets)",
+        "Reference": "attic-assets",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-05 09:41:32+00:00"
+    },
+    {
+        "Name": "Subarr",
+        "Reference": "subarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-05 09:48:15+00:00"
     }
 ]
