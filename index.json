@@ -33250,5 +33250,101 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-06-10 21:19:13+00:00"
+    },
+    {
+        "Name": "Fizzy",
+        "Reference": "fizzy",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-15 09:32:34+00:00"
+    },
+    {
+        "Name": "MeshCore",
+        "Reference": "meshcore",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-15 09:39:11+00:00"
+    },
+    {
+        "Name": "RemoteTerm",
+        "Reference": "remoteterm",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-06-15 09:42:02+00:00"
+    },
+    {
+        "Name": "Microsoft Foundry",
+        "Reference": "microsoft-foundry",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence,Microsoft",
+        "CreatedAt": "2026-06-15 09:44:22+00:00"
+    },
+    {
+        "Name": "Google Antigravity",
+        "Reference": "google-antigravity",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-06-15 09:50:06+00:00"
+    },
+    {
+        "Name": "Ignis",
+        "Reference": "ignis",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-15 09:51:04+00:00"
+    },
+    {
+        "Name": "Microsoft Power Automate",
+        "Reference": "microsoft-power-automate",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Microsoft",
+        "CreatedAt": "2026-06-15 10:01:53+00:00"
+    },
+    {
+        "Name": "Amazon Alexa",
+        "Reference": "amazon-alexa",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Amazon",
+        "CreatedAt": "2026-06-15 10:08:41+00:00"
     }
 ]
