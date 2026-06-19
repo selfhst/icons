@@ -8150,11 +8150,11 @@
     {
         "Name": "AirTrail",
         "Reference": "airtrail",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-09-12 09:40:40+00:00"
@@ -33382,5 +33382,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-06-18 10:07:49+00:00"
+    },
+    {
+        "Name": "EyezOn",
+        "Reference": "eyezon",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-06-19 09:46:06+00:00"
+    },
+    {
+        "Name": "SolarAssistant",
+        "Reference": "solarassistant",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-06-19 09:50:21+00:00"
+    },
+    {
+        "Name": "Yopass",
+        "Reference": "yopass",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-19 09:54:14+00:00"
+    },
+    {
+        "Name": "9Router",
+        "Reference": "9router",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-06-19 10:03:54+00:00"
+    },
+    {
+        "Name": "SponsorBlock",
+        "Reference": "sponsorblock",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-06-19 10:08:01+00:00"
     }
 ]
