@@ -33442,5 +33442,77 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-06-19 10:08:01+00:00"
+    },
+    {
+        "Name": "Home Energy Manager",
+        "Reference": "home-energy-manager",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-06-29 09:10:51+00:00"
+    },
+    {
+        "Name": "GHIDRA",
+        "Reference": "ghidra",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-29 09:25:17+00:00"
+    },
+    {
+        "Name": "FMD",
+        "Reference": "fmd",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-29 09:29:27+00:00"
+    },
+    {
+        "Name": "Rudder",
+        "Reference": "rudder",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-29 09:31:12+00:00"
+    },
+    {
+        "Name": "Sveltia CMS",
+        "Reference": "sveltia-cms",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-29 09:36:42+00:00"
+    },
+    {
+        "Name": "AIOMetadata",
+        "Reference": "aiometadata",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-29 09:40:06+00:00"
     }
 ]
