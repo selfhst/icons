@@ -4646,11 +4646,11 @@
     {
         "Name": "Scrypted",
         "Reference": "scrypted",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-09-06 09:59:58+00:00"
@@ -31982,11 +31982,11 @@
     {
         "Name": "CoreDNS",
         "Reference": "coredns",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-03-30 09:18:12+00:00"
@@ -33514,5 +33514,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-06-29 09:40:06+00:00"
+    },
+    {
+        "Name": "Sencho",
+        "Reference": "sencho",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-30 09:35:46+00:00"
+    },
+    {
+        "Name": "tickward",
+        "Reference": "tickward",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-06-30 09:38:09+00:00"
+    },
+    {
+        "Name": "Livinity",
+        "Reference": "livinity",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Operating System",
+        "CreatedAt": "2026-06-30 09:41:40+00:00"
     }
 ]
