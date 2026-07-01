@@ -386,11 +386,11 @@
     {
         "Name": "Baikal",
         "Reference": "baikal",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-08-19 16:14:31+00:00"
@@ -33550,5 +33550,65 @@
         "Category": "Self-Hosted",
         "Tags": "Operating System",
         "CreatedAt": "2026-06-30 09:41:40+00:00"
+    },
+    {
+        "Name": "PulseWeaver",
+        "Reference": "pulseweaver",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-01 09:28:11+00:00"
+    },
+    {
+        "Name": "Seanime",
+        "Reference": "seanime",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-01 09:37:17+00:00"
+    },
+    {
+        "Name": "Downtify",
+        "Reference": "downtify",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-01 09:41:18+00:00"
+    },
+    {
+        "Name": "TypeType",
+        "Reference": "typetype",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-01 10:03:24+00:00"
+    },
+    {
+        "Name": "Tymeslot",
+        "Reference": "tymeslot",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-01 10:07:46+00:00"
     }
 ]
