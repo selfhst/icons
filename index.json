@@ -33802,5 +33802,89 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-07-08 20:03:08+00:00"
+    },
+    {
+        "Name": "Chatto",
+        "Reference": "chatto",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-09 09:21:50+00:00"
+    },
+    {
+        "Name": "bumpsight",
+        "Reference": "bumpsight",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-13 15:08:42+00:00"
+    },
+    {
+        "Name": "LightningROD",
+        "Reference": "lightningrod",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-13 15:10:40+00:00"
+    },
+    {
+        "Name": "Nora (AI)",
+        "Reference": "nora-ai",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-07-13 15:13:06+00:00"
+    },
+    {
+        "Name": "OpenShift",
+        "Reference": "openshift",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-07-13 15:27:32+00:00"
+    },
+    {
+        "Name": "okd",
+        "Reference": "okd",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-07-13 15:29:38+00:00"
+    },
+    {
+        "Name": "Clonarr",
+        "Reference": "clonarr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-13 17:46:56+00:00"
     }
 ]
