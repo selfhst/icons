@@ -33886,5 +33886,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-07-13 17:46:56+00:00"
+    },
+    {
+        "Name": "Grimoire (TTRPG)",
+        "Reference": "grimoire-ttrpg",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-14 09:02:10+00:00"
     }
 ]
