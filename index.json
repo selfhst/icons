@@ -33898,5 +33898,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-07-14 09:02:10+00:00"
+    },
+    {
+        "Name": "Nakama",
+        "Reference": "nakama",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-15 10:11:01+00:00"
+    },
+    {
+        "Name": "TaskView",
+        "Reference": "taskview",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-15 10:22:48+00:00"
+    },
+    {
+        "Name": "Ovumcy",
+        "Reference": "ovumcy",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-15 10:26:34+00:00"
     }
 ]
