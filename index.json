@@ -16140,8 +16140,8 @@
         "CreatedAt": "2025-03-30 10:51:19+00:00"
     },
     {
-        "Name": "Mantrae",
-        "Reference": "mantrae",
+        "Name": "Tether (Traefik)",
+        "Reference": "tether-traefik",
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
@@ -32762,11 +32762,11 @@
     {
         "Name": "Hermes Agent",
         "Reference": "hermes-agent",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Other",
         "Tags": "Artificial Intelligence",
         "CreatedAt": "2026-05-12 09:34:30+00:00"
@@ -34726,5 +34726,125 @@
         "Category": "Other",
         "Tags": "Shopping",
         "CreatedAt": "2026-09-09 10:15:46+00:00"
+    },
+    {
+        "Name": "MailDev",
+        "Reference": "maildev",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 09:34:09+00:00"
+    },
+    {
+        "Name": "nisd2",
+        "Reference": "nisd2",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 09:39:43+00:00"
+    },
+    {
+        "Name": "Chaptarr",
+        "Reference": "chaptarr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 09:44:32+00:00"
+    },
+    {
+        "Name": "Tidarr",
+        "Reference": "tidarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 09:46:17+00:00"
+    },
+    {
+        "Name": "Lumina Finance",
+        "Reference": "lumina-finance",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 09:47:25+00:00"
+    },
+    {
+        "Name": "Turing Smart Screen",
+        "Reference": "turing-smart-screen",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 09:56:21+00:00"
+    },
+    {
+        "Name": "Gotenberg",
+        "Reference": "gotenberg",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 10:12:09+00:00"
+    },
+    {
+        "Name": "Valhalla (Maps)",
+        "Reference": "valhalla-maps",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 10:24:37+00:00"
+    },
+    {
+        "Name": "Figma",
+        "Reference": "figma",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 10:26:47+00:00"
+    },
+    {
+        "Name": "Pinnule",
+        "Reference": "pinnule",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 10:30:16+00:00"
     }
 ]
