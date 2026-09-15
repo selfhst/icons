@@ -34790,11 +34790,11 @@
     {
         "Name": "Turing Smart Screen",
         "Reference": "turing-smart-screen",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-09-15 09:56:21+00:00"
@@ -34858,5 +34858,65 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-09-15 10:39:40+00:00"
+    },
+    {
+        "Name": "HomeTube",
+        "Reference": "hometube",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 11:35:17+00:00"
+    },
+    {
+        "Name": "BrainRotGuard",
+        "Reference": "brainrotguard",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 11:37:58+00:00"
+    },
+    {
+        "Name": "Calino",
+        "Reference": "calino",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 11:43:11+00:00"
+    },
+    {
+        "Name": "Cliparr",
+        "Reference": "cliparr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 11:49:01+00:00"
+    },
+    {
+        "Name": "Cloud in a Bottle",
+        "Reference": "cloud-in-a-bottle",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 12:08:22+00:00"
     }
 ]
