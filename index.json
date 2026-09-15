@@ -33122,11 +33122,11 @@
     {
         "Name": "Hawser",
         "Reference": "hawser",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-06-05 09:35:59+00:00"
@@ -34918,5 +34918,77 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-09-15 12:08:22+00:00"
+    },
+    {
+        "Name": "PriceBuddy",
+        "Reference": "pricebuddy",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 12:52:15+00:00"
+    },
+    {
+        "Name": "Compass (Dashboard)",
+        "Reference": "compass-dashboard",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 12:54:39+00:00"
+    },
+    {
+        "Name": "ImgCompress",
+        "Reference": "imgcompress",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 12:59:47+00:00"
+    },
+    {
+        "Name": "K7",
+        "Reference": "k7",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 13:03:55+00:00"
+    },
+    {
+        "Name": "May (Vehicles)",
+        "Reference": "may-vehicles",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 13:07:32+00:00"
+    },
+    {
+        "Name": "PKVault",
+        "Reference": "pkvault",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "Video Games",
+        "CreatedAt": "2026-09-15 13:12:52+00:00"
     }
 ]
