@@ -34625,7 +34625,7 @@
         "SVG": "No",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
+        "Light": "Yes",
         "Dark": "No",
         "Category": "Self-Hosted",
         "Tags": "",
@@ -34990,5 +34990,29 @@
         "Category": "Self-Hosted",
         "Tags": "Video Games",
         "CreatedAt": "2026-09-15 13:12:52+00:00"
+    },
+    {
+        "Name": "RSSMonster",
+        "Reference": "rssmonster",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 13:46:05+00:00"
+    },
+    {
+        "Name": "Account Center",
+        "Reference": "account-center",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-15 13:52:31+00:00"
     }
 ]
