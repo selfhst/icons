@@ -21998,7 +21998,7 @@
     {
         "Name": "Kuvasz",
         "Reference": "kuvasz",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
         "Light": "No",
@@ -35014,5 +35014,89 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-09-15 13:52:31+00:00"
+    },
+    {
+        "Name": "Netronome",
+        "Reference": "netronome",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-18 20:40:24+00:00"
+    },
+    {
+        "Name": "etcd",
+        "Reference": "etcd",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-18 20:46:29+00:00"
+    },
+    {
+        "Name": "gallery-dl",
+        "Reference": "gallery-dl",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-18 20:49:46+00:00"
+    },
+    {
+        "Name": "Haven",
+        "Reference": "haven",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-18 20:54:34+00:00"
+    },
+    {
+        "Name": "Red Hat",
+        "Reference": "red-hat",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Red Hat",
+        "CreatedAt": "2026-09-18 20:57:02+00:00"
+    },
+    {
+        "Name": "RHEL",
+        "Reference": "rhel",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Operating System,Red Hat",
+        "CreatedAt": "2026-09-18 21:00:44+00:00"
+    },
+    {
+        "Name": "Red Hat Lightspeed",
+        "Reference": "red-hat-lightspeed",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Red Hat",
+        "CreatedAt": "2026-09-18 21:03:13+00:00"
     }
 ]
