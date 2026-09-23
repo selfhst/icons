@@ -33506,11 +33506,11 @@
     {
         "Name": "AIOMetadata",
         "Reference": "aiometadata",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-06-29 09:40:06+00:00"
@@ -35098,5 +35098,77 @@
         "Category": "Other",
         "Tags": "Red Hat",
         "CreatedAt": "2026-09-18 21:03:13+00:00"
+    },
+    {
+        "Name": "CetusGuard",
+        "Reference": "cetusguard",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-23 09:41:03+00:00"
+    },
+    {
+        "Name": "Windshift",
+        "Reference": "windshift",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-23 09:47:39+00:00"
+    },
+    {
+        "Name": "Patzer",
+        "Reference": "patzer",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-23 09:54:35+00:00"
+    },
+    {
+        "Name": "Crowbarr",
+        "Reference": "crowbarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-23 09:59:51+00:00"
+    },
+    {
+        "Name": "PGSTY Silo",
+        "Reference": "pgsty-silo",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-23 10:03:21+00:00"
+    },
+    {
+        "Name": "Silo (Media Server)",
+        "Reference": "silo-media-server",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-09-23 10:08:19+00:00"
     }
 ]
