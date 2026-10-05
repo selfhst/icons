@@ -33110,11 +33110,11 @@
     {
         "Name": "BookOrbit",
         "Reference": "bookorbit",
-        "SVG": "Yes",
+        "SVG": "No",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "Yes",
-        "Dark": "Yes",
+        "Light": "No",
+        "Dark": "No",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-06-05 09:33:35+00:00"
@@ -35338,5 +35338,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-10-01 12:58:09+00:00"
+    },
+    {
+        "Name": "EpicMail",
+        "Reference": "epicmail",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-10-05 09:56:25+00:00"
+    },
+    {
+        "Name": "ByteChef",
+        "Reference": "bytechef",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-10-05 10:01:44+00:00"
+    },
+    {
+        "Name": "Tasterr",
+        "Reference": "tasterr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-10-05 10:07:02+00:00"
+    },
+    {
+        "Name": "msgvault",
+        "Reference": "msgvault",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-10-05 10:09:35+00:00"
     }
 ]
