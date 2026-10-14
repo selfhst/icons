@@ -35602,5 +35602,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-10-13 21:28:18+00:00"
+    },
+    {
+        "Name": "openGym",
+        "Reference": "opengym",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-10-14 09:27:02+00:00"
     }
 ]
