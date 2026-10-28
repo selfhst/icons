@@ -35614,5 +35614,113 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-10-14 09:27:02+00:00"
+    },
+    {
+        "Name": "Hindsight",
+        "Reference": "hindsight",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-10-27 23:49:45+00:00"
+    },
+    {
+        "Name": "Toparr",
+        "Reference": "toparr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-10-27 23:55:11+00:00"
+    },
+    {
+        "Name": "Synaplan",
+        "Reference": "synaplan",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-10-27 23:56:54+00:00"
+    },
+    {
+        "Name": "gancio",
+        "Reference": "gancio",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-10-28 00:03:56+00:00"
+    },
+    {
+        "Name": "Community Scripts",
+        "Reference": "community-scripts",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-10-28 00:05:41+00:00"
+    },
+    {
+        "Name": "Nostos",
+        "Reference": "nostos",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-10-28 00:18:07+00:00"
+    },
+    {
+        "Name": "Lightpanda",
+        "Reference": "lightpanda",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "Browsers",
+        "CreatedAt": "2026-10-28 00:22:12+00:00"
+    },
+    {
+        "Name": "Flux Operator",
+        "Reference": "flux-operator",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-10-28 00:23:51+00:00"
+    },
+    {
+        "Name": "Factorio",
+        "Reference": "factorio",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "Video Games",
+        "CreatedAt": "2026-10-28 00:26:30+00:00"
     }
 ]
