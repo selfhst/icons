@@ -35746,5 +35746,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-10-28 00:49:50+00:00"
+    },
+    {
+        "Name": "Kept (Notes)",
+        "Reference": "kept-notes",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-10-28 09:45:34+00:00"
     }
 ]
