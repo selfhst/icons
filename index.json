@@ -35722,5 +35722,29 @@
         "Category": "Other",
         "Tags": "Video Games",
         "CreatedAt": "2026-10-28 00:26:30+00:00"
+    },
+    {
+        "Name": "Soulbeet",
+        "Reference": "soulbeet",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-10-28 00:44:38+00:00"
+    },
+    {
+        "Name": "FileFlows Forge",
+        "Reference": "fileflows-forge",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-10-28 00:49:50+00:00"
     }
 ]
