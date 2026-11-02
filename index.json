@@ -35758,5 +35758,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-10-28 09:45:34+00:00"
+    },
+    {
+        "Name": "Felicloud",
+        "Reference": "felicloud",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-11-02 13:53:58+00:00"
     }
 ]
