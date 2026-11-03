@@ -35794,5 +35794,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-03 13:40:07+00:00"
+    },
+    {
+        "Name": "Kept (Inventory)",
+        "Reference": "kept-inventory",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-03 13:47:01+00:00"
+    },
+    {
+        "Name": "Gryffi",
+        "Reference": "gryffi",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-03 13:46:55+00:00"
+    },
+    {
+        "Name": "Taskade",
+        "Reference": "taskade",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-11-03 13:49:58+00:00"
+    },
+    {
+        "Name": "Robin (Tracking)",
+        "Reference": "robin-tracking",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-03 13:52:01+00:00"
     }
 ]
