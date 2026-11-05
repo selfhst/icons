@@ -35926,5 +35926,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-05 11:19:20+00:00"
+    },
+    {
+        "Name": "Ech0",
+        "Reference": "ech0",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-05 13:02:19+00:00"
+    },
+    {
+        "Name": "FCaptcha",
+        "Reference": "fcaptcha",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-05 13:05:07+00:00"
+    },
+    {
+        "Name": "Pollaris",
+        "Reference": "pollaris",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-05 13:13:31+00:00"
     }
 ]
