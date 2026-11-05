@@ -35842,5 +35842,89 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-03 13:52:01+00:00"
+    },
+    {
+        "Name": "Mousehole",
+        "Reference": "mousehole",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Trackers",
+        "CreatedAt": "2026-11-04 11:01:55+00:00"
+    },
+    {
+        "Name": "Deft",
+        "Reference": "deft",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-05 10:55:38+00:00"
+    },
+    {
+        "Name": "Traceway",
+        "Reference": "traceway",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-05 11:00:45+00:00"
+    },
+    {
+        "Name": "Oxynote",
+        "Reference": "oxynote",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-05 11:03:56+00:00"
+    },
+    {
+        "Name": "plMail",
+        "Reference": "plmail",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-05 11:07:56+00:00"
+    },
+    {
+        "Name": "Spotify Release List",
+        "Reference": "spotify-release-list",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-05 11:15:51+00:00"
+    },
+    {
+        "Name": "RelayTV",
+        "Reference": "relaytv",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-05 11:19:20+00:00"
     }
 ]
