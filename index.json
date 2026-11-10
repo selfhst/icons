@@ -35962,5 +35962,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-05 13:13:31+00:00"
+    },
+    {
+        "Name": "Plain Week",
+        "Reference": "plain-week",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-06 11:13:55+00:00"
+    },
+    {
+        "Name": "Fussel",
+        "Reference": "fussel",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-10 10:08:48+00:00"
+    },
+    {
+        "Name": "ghstats",
+        "Reference": "ghstats",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-10 10:50:21+00:00"
+    },
+    {
+        "Name": "everyOS",
+        "Reference": "everyos",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-10 11:19:21+00:00"
     }
 ]
