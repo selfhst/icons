@@ -1073,8 +1073,8 @@
         "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2024-08-22 12:11:02+00:00"
