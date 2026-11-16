@@ -36082,5 +36082,101 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-16 11:22:02+00:00"
+    },
+    {
+        "Name": "SolidCraft",
+        "Reference": "solidcraft",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 11:31:16+00:00"
+    },
+    {
+        "Name": "Doska",
+        "Reference": "doska",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 12:49:53+00:00"
+    },
+    {
+        "Name": "TubeHaus",
+        "Reference": "tubehaus",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 12:50:19+00:00"
+    },
+    {
+        "Name": "Prismedia",
+        "Reference": "prismedia",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 12:55:48+00:00"
+    },
+    {
+        "Name": "OvertChat",
+        "Reference": "overtchat",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 13:01:14+00:00"
+    },
+    {
+        "Name": "Montscan",
+        "Reference": "montscan",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 13:09:23+00:00"
+    },
+    {
+        "Name": "Libre Closet",
+        "Reference": "libre-closet",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 13:13:27+00:00"
+    },
+    {
+        "Name": "AudioSilo",
+        "Reference": "audiosilo",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 13:18:42+00:00"
     }
 ]
