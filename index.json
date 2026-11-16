@@ -36178,5 +36178,113 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-16 13:18:42+00:00"
+    },
+    {
+        "Name": "Torsher",
+        "Reference": "torsher",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 17:34:30+00:00"
+    },
+    {
+        "Name": "Cadenza",
+        "Reference": "cadenza",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 20:55:25+00:00"
+    },
+    {
+        "Name": "FFxF",
+        "Reference": "ffxf",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 20:56:56+00:00"
+    },
+    {
+        "Name": "Get Real IP",
+        "Reference": "get-real-ip",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 20:58:21+00:00"
+    },
+    {
+        "Name": "PocketAdmin",
+        "Reference": "pocketadmin",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 20:59:20+00:00"
+    },
+    {
+        "Name": "Rasputin (Management)",
+        "Reference": "rasputin-management",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 21:04:12+00:00"
+    },
+    {
+        "Name": "Seamside",
+        "Reference": "seamside",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 21:11:43+00:00"
+    },
+    {
+        "Name": "Servers@Home",
+        "Reference": "servers-at-home",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 21:12:51+00:00"
+    },
+    {
+        "Name": "TerraKata",
+        "Reference": "terrakata",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-16 21:14:45+00:00"
     }
 ]
