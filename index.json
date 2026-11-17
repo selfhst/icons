@@ -36430,5 +36430,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-17 11:17:28+00:00"
+    },
+    {
+        "Name": "Cakedesk",
+        "Reference": "cakedesk",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 12:43:46+00:00"
     }
 ]
