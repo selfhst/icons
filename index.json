@@ -36144,6 +36144,18 @@
         "CreatedAt": "2026-11-16 13:01:14+00:00"
     },
     {
+        "Name": "Monitee",
+        "Reference": "monitee",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 09:53:51+00:00"
+    },
+    {
         "Name": "Montscan",
         "Reference": "montscan",
         "SVG": "No",
@@ -36286,5 +36298,101 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-16 21:14:45+00:00"
+    },
+    {
+        "Name": "Nyxiontech PDF Tools",
+        "Reference": "nyxiontech-pdf-tools",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 09:56:00+00:00"
+    },
+    {
+        "Name": "WayDroid",
+        "Reference": "waydroid",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 09:58:03+00:00"
+    },
+    {
+        "Name": "ArtCraft",
+        "Reference": "artcraft",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 09:59:13+00:00"
+    },
+    {
+        "Name": "Excaliself",
+        "Reference": "excaliself",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 10:00:49+00:00"
+    },
+    {
+        "Name": "Markdown Viewer",
+        "Reference": "markdown-viewer",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 10:16:37+00:00"
+    },
+    {
+        "Name": "Scryer",
+        "Reference": "scryer",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 10:39:52+00:00"
+    },
+    {
+        "Name": "OpenTodo",
+        "Reference": "opentodo",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 10:23:41+00:00"
+    },
+    {
+        "Name": "TelltaleDNS",
+        "Reference": "telltaledns",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 10:24:48+00:00"
     }
 ]
