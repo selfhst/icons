@@ -36394,5 +36394,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-17 10:24:48+00:00"
+    },
+    {
+        "Name": "Vigilant (Monitor)",
+        "Reference": "vigilant-monitor",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 11:10:14+00:00"
     }
 ]
