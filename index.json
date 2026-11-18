@@ -36490,5 +36490,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-18 10:55:37+00:00"
+    },
+    {
+        "Name": "UXWizz",
+        "Reference": "uxwizz",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-18 12:38:12+00:00"
     }
 ]
