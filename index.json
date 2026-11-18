@@ -36502,5 +36502,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-18 12:38:12+00:00"
+    },
+    {
+        "Name": "Fredy",
+        "Reference": "fredy",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-18 12:41:01+00:00"
     }
 ]
