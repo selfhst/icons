@@ -36348,6 +36348,18 @@
         "CreatedAt": "2026-11-17 10:00:49+00:00"
     },
     {
+        "Name": "ph-intercept",
+        "Reference": "ph-intercept",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-17 16:40:06+00:00"
+    },
+    {
         "Name": "Markdown Viewer",
         "Reference": "markdown-viewer",
         "SVG": "No",
@@ -36454,5 +36466,29 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-11-17 13:11:31+00:00"
+    },
+    {
+        "Name": "Orcah Studio",
+        "Reference": "orcah-studio",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-18 10:47:28+00:00"
+    },
+    {
+        "Name": "Nogon",
+        "Reference": "nogon",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-18 10:55:37+00:00"
     }
 ]
