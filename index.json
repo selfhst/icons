@@ -36610,5 +36610,29 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-11-21 09:44:33+00:00"
+    },
+    {
+        "Name": "The Pirate Bay",
+        "Reference": "the-pirate-bay",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-11-21 10:26:13+00:00"
+    },
+    {
+        "Name": "RARBG",
+        "Reference": "rarbg",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-11-21 10:45:32+00:00"
     }
 ]
