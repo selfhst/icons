@@ -36538,5 +36538,53 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-11-19 10:26:54+00:00"
+    },
+    {
+        "Name": "Adobe After Effects",
+        "Reference": "adobe-after-effects",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Adobe",
+        "CreatedAt": "2026-11-19 10:31:00+00:00"
+    },
+    {
+        "Name": "Adobe Dreamweaver",
+        "Reference": "adobe-dreamweaver",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Adobe",
+        "CreatedAt": "2026-11-19 10:39:02+00:00"
+    },
+    {
+        "Name": "Nautical Backup",
+        "Reference": "nautical-backup",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-20 21:53:55+00:00"
+    },
+    {
+        "Name": "Docker (2017)",
+        "Reference": "docker-2017",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-11-21 03:31:09+00:00"
     }
 ]
