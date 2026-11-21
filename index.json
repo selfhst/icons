@@ -36586,5 +36586,29 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-11-21 03:31:09+00:00"
+    },
+    {
+        "Name": "NordPass",
+        "Reference": "nordpass",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-11-21 09:51:18+00:00"
+    },
+    {
+        "Name": "NordLocker",
+        "Reference": "nordlocker",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-11-21 09:44:33+00:00"
     }
 ]
