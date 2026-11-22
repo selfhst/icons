@@ -36634,5 +36634,41 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-11-21 10:45:32+00:00"
+    },
+    {
+        "Name": "Typestash",
+        "Reference": "typestash",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-22 10:24:39+00:00"
+    },
+    {
+        "Name": "OpenCaptions",
+        "Reference": "opencaptions",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-22 10:25:42+00:00"
+    },
+    {
+        "Name": "Trawl",
+        "Reference": "trawl",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-22 10:28:05+00:00"
     }
 ]
