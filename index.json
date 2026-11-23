@@ -36706,5 +36706,17 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-11-23 00:33:50+00:00"
+    },
+    {
+        "Name": "pCloud",
+        "Reference": "pcloud",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Cloud Storage",
+        "CreatedAt": "2026-11-23 00:45:21+00:00"
     }
 ]
