@@ -36718,5 +36718,17 @@
         "Category": "Other",
         "Tags": "Cloud Storage",
         "CreatedAt": "2026-11-23 00:45:21+00:00"
+    },
+    {
+        "Name": "DiscoDrive",
+        "Reference": "discodrive",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "Cloud Storage",
+        "CreatedAt": "2026-11-24 09:52:07+00:00"
     }
 ]
