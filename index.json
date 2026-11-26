@@ -36730,5 +36730,53 @@
         "Category": "Self-Hosted",
         "Tags": "Cloud Storage",
         "CreatedAt": "2026-11-24 09:52:07+00:00"
+    },
+    {
+        "Name": "Awin",
+        "Reference": "awin",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-11-26 09:58:07+00:00"
+    },
+    {
+        "Name": "ReleaseWatcher",
+        "Reference": "releasewatcher",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-26 10:03:17+00:00"
+    },
+    {
+        "Name": "Dewarr",
+        "Reference": "dewarr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-26 10:05:47+00:00"
+    },
+    {
+        "Name": "Prusa Connect",
+        "Reference": "prusa-connect",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-11-26 10:06:31+00:00"
     }
 ]
